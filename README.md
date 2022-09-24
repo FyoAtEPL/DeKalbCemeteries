@@ -9,7 +9,7 @@ This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goa
 DeKalb County, Indiana, is located in the northeast corner of the state. It is made up of fifteen townships and the county seat is Auburn. 
 
 ### Cemeteries
-- View alphabetical list of cemeteries
+- [View alphabetical list of cemeteries](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesAlphabetical.md "View alphabetical list of cemeteries")
 - View list of cemeteries by township
 
 ### Maps
