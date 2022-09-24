@@ -1,0 +1,1184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document id="1F5oxFNJNDPWA4ebYEm9J0zgwRtdOunnW">
+	<name>DeKalb Map</name>
+	<gx:CascadingStyle kml:id="__managed_style_537774AC91245DBA5A6C">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_496E2AED7C245DBA5A6C">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_18158300C0245DBA5A72">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffdcff00</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_571D89236D245DBA5A64">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3807D7C9A6245DBA5A64">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4108665325245DBA5A64</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_571D89236D245DBA5A64</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4B3372C7F5245DBA5A71">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3DF841D4CB245DBA5A71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4B3372C7F5245DBA5A71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_55EC868AA0245DBA5A71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_2E82338D58245DBA5A6D">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3DC05A27E5245DBA5A72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_462A1A205D245DBA5A72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_53C19656CE245DBA5A72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_08C78D9256245DBA5A63">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1BA40591A2245DBA5A63</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2D3EAB4C3F245DBA5A63</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_183E1B605A245DBA5A6D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff007cf5</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_220CE3327E245DBA5A70">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_19A3F62616245DBA5A70">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffbc47ab</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0E9CB35C92245DBA5A6E">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6abb66</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_2D3EAB4C3F245DBA5A63">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1BA40591A2245DBA5A63">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2dc0fb</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4235C87250245DBA5A6F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b7900</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4D03554DCD245DBA5A6D">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6abb66</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_04608EB0A6245DBA5A62">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F01175B3F245DBA5A70">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_19A3F62616245DBA5A70</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_220CE3327E245DBA5A70</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_0B3208E20E245DBA5A71">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_10C3633743245DBA5A71</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_28FC008999245DBA5A71</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_4FE8D79CC8245DBA5A61">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0A8FA2DC3F245DBA5A72">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_18158300C0245DBA5A72</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_26A75A896E245DBA5A72</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_35410FD0CE245DBA5A61">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4FE8D79CC8245DBA5A61</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_04608EB0A6245DBA5A62</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_14A28976EA245DBA5A6F">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_28FC008999245DBA5A71">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff636e8d</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4108665325245DBA5A64">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff2f2fd3</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_3231C2BD51245DBA5A6D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4D03554DCD245DBA5A6D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0E9CB35C92245DBA5A6E</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_5CC7D09D59245DBA5A60">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_30BE53AF19245DBA5A60">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_4B59F43951245DBA5A60</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_5CC7D09D59245DBA5A60</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_0F4092F37E245DBA5A6F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff5053ef</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0BCC5F3747245DBA5A6D">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_183E1B605A245DBA5A6D</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_2E82338D58245DBA5A6D</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_53C19656CE245DBA5A72">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00ffa7</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_462A1A205D245DBA5A72">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff00ffa7</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_30F8DA97B4245DBA5A6F">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff6b7900</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_31DB3FA2A3245DBA5A6C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_496E2AED7C245DBA5A6C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_537774AC91245DBA5A6C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_55EC868AA0245DBA5A71">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff58eeff</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_2B7EE5EBB3245DBA5A6F">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_30F8DA97B4245DBA5A6F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_4235C87250245DBA5A6F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="__managed_style_12DE65438E245DBA5A6E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_0F4092F37E245DBA5A6F</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_14A28976EA245DBA5A6F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<gx:CascadingStyle kml:id="__managed_style_10C3633743245DBA5A71">
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff636e8d</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_0131617FB1245DBA5A5F">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_4B59F43951245DBA5A60">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ff3c8e38</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_1E4CD4F598245DBA5A5E">
+		<styleUrl>https://earth.google.com/balloon_components/base/1.0.23.0/card_template.kml#main</styleUrl>
+		<Style>
+			<IconStyle>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>fff5a542</color>
+				<width>4</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>00ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<gx:CascadingStyle kml:id="__managed_style_26A75A896E245DBA5A72">
+		<Style>
+			<IconStyle>
+				<scale>1.2</scale>
+				<Icon>
+					<href>https://earth.google.com/earth/rpc/cc/icon?color=1976d2&amp;id=2000&amp;scale=4</href>
+				</Icon>
+				<hotSpot x="64" y="128" xunits="pixels" yunits="insetPixels"/>
+			</IconStyle>
+			<LabelStyle>
+			</LabelStyle>
+			<LineStyle>
+				<color>ffdcff00</color>
+				<width>6</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>40ffffff</color>
+			</PolyStyle>
+			<BalloonStyle>
+			</BalloonStyle>
+		</Style>
+	</gx:CascadingStyle>
+	<StyleMap id="__managed_style_0F90D3EDCD245DBA5A5E">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#__managed_style_1E4CD4F598245DBA5A5E</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#__managed_style_0131617FB1245DBA5A5F</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Placemark id="0C7E0CB7A62429D4FE0F">
+		<name>DeKalb County Boundary</name>
+		<description><![CDATA[<div>Boundary line of DeKalb County, Indiana<br></div>]]></description>
+		<LookAt>
+			<longitude>-84.79514921161972</longitude>
+			<latitude>41.5176927504214</latitude>
+			<altitude>274.0151111006343</altitude>
+			<heading>-0.914640467752506</heading>
+			<tilt>12.33585617333664</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>7532.934880047105</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F90D3EDCD245DBA5A5E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.80456624034333,41.53026845566967,274.0579103401142 -84.81495277841694,41.53018502096452,276.7957258921492 -84.81926117190574,41.52993693902645,276.4054992848518 -84.83857303185002,41.52968392445562,284.0023312831236 -84.85849254457681,41.52935027988773,274.5124905352147 -84.8968487917178,41.52869136309384,283.9957164876527 -84.90181575783535,41.52852640341067,284.0416137222462 -84.91330067803942,41.52853204270785,274.6195906343078 -84.92124391371823,41.52819609857811,282.5482973813686 -84.95232291460059,41.52809987052661,293.8890776786434 -84.9896533038816,41.52734918208768,309.126212656215 -85.05186107154266,41.52727906757946,303.7768537882444 -85.10968435200826,41.52692994306418,300.3922359788812 -85.17019556735413,41.52663253711913,300.6934647354104 -85.19432338204486,41.52651643969288,309.3147037063663 -85.19384700568982,41.50099025607869,307.7687517036422 -85.19377412589853,41.44471987345151,311.3781526392743 -85.19277534196,41.43770915165647,296.3339555982646 -85.19339744901004,41.42991215106444,311.9143228123161 -85.1936266857461,41.42224633151859,296.785929613499 -85.19317269606735,41.41223217051211,299.3520415017778 -85.1932054473458,41.39441072487792,293.8592509121005 -85.19293166720439,41.3483469530475,277.1772954284248 -85.19369705854245,41.3447227353333,274.0025816814293 -85.19357007583656,41.33826361340446,271.0732157592019 -85.19361040596665,41.31015329431697,267.1007596679663 -85.19312024026269,41.30776944908433,264.2025443643021 -85.19288221421267,41.29741974190606,272.3494429437147 -85.19302474218338,41.29539933397385,265.3400880293837 -85.19285797732425,41.29173061874648,264.1382399199698 -85.1926983318468,41.28567896559858,264.2045022334416 -85.19245126380939,41.27399031063436,264.1115319636771 -85.19213704570689,41.26416456891321,264.2176690097507 -85.18825983705921,41.26432631218305,264.2571026068839 -85.17690024069502,41.2644254428565,254.4588236906427 -85.16395045554712,41.26466950976484,264.2446431222371 -85.15265046325297,41.26484624149293,264.2003879605771 -85.13146717722543,41.26510691101215,260.9708219193544 -85.11349705998269,41.26529654278539,262.6370590422013 -85.09496645348074,41.26532714597531,274.0994933370482 -85.06667730111016,41.26570286242761,264.181368967748 -85.03986674358491,41.2661719669558,264.1878425317961 -85.00089223874001,41.26681977030373,259.5516243837342 -84.97170579304387,41.26753231181836,254.2871866073135 -84.91526743189345,41.268682842561,254.2406712251265 -84.86632981453928,41.26964749417948,264.0083501237663 -84.84309900179559,41.27009221225476,252.4227274881331 -84.80342517919813,41.2711301814164,240.1929904922025 -84.80360759776761,41.28811637299124,247.0902059733539 -84.80393645414375,41.30935461720762,270.008409389118 -84.80387194812558,41.32445873051911,264.108613476128 -84.80369260967007,41.32710842073027,264.1404505839487 -84.80395575689955,41.33898798965036,259.8690895451565 -84.80387782933677,41.34411980370665,254.296020908316 -84.80395358569365,41.3524140026942,260.3727171379531 -84.80381587474554,41.36658504427393,259.7080708551453 -84.80397254828061,41.37951959783387,246.7725855061718 -84.80397238990044,41.38811525562528,254.1990356174186 -84.80412041169247,41.40821762882208,260.9380911427741 -84.8038314079199,41.40895914095366,260.5029935179537 -84.80397874212569,41.4166473916837,254.2747600160712 -84.8041275741009,41.43465929256671,258.8897764084354 -84.80409763464648,41.45545056327944,264.1007578911321 -84.80418450052012,41.47067040701891,266.7019440596987 -84.80434089925252,41.48330557271525,264.1813606665912 -84.80431802447114,41.49283857604313,273.9839809534482 -84.8043842845216,41.50018775263307,274.0010592467254 -84.80437844336549,41.50707924495445,274.079861767511 -84.80456624034333,41.53026845566967,274.0579103401142 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0F79E8F6A2244D6B5208">
+		<name>Butler Township</name>
+		<LookAt>
+			<longitude>-85.11769639702212</longitude>
+			<latitude>41.31239129680891</latitude>
+			<altitude>260.9639084859479</altitude>
+			<heading>-0.5032070531051873</heading>
+			<tilt>29.17918254424146</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5903.595258570859</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_12DE65438E245DBA5A6E</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.08773253211851,41.32288135929264,257.9136795385073 -85.09385824270579,41.3224364213838,262.5581718730995 -85.09718576097376,41.32234953645084,261.237487573136 -85.10160493046206,41.32238838387094,262.1394060528162 -85.11067607154392,41.32277135396753,262.7322055716957 -85.11805902808071,41.3230030098026,265.4740935385637 -85.1322160112983,41.3229219862093,263.7126420382705 -85.13455642833955,41.322606830216,263.7103436066756 -85.14236673992653,41.32270808821194,263.2472969120831 -85.19386385543761,41.32242713084911,262.9263276948708 -85.19237911220002,41.26425062141026,264.216439384631 -85.09427577315853,41.26548380582491,270.9796083770675 -85.0869784034906,41.26554692802161,268.5037457743109 -85.0777756053354,41.26555330990163,266.0340345635762 -85.07778880096973,41.26954848496138,266.0349747417311 -85.07789263319414,41.27441166451178,257.7750939665019 -85.07785164476086,41.27755932665414,266.7016682117489 -85.07795624359233,41.28059300506736,264.3031288121426 -85.07793772094894,41.28387407623396,259.7698979459826 -85.07796880007085,41.28800567590392,256.1953693778723 -85.07805468327466,41.29740739605526,264.4619444829348 -85.0780515643615,41.30106838069183,266.0322868305538 -85.07808989603488,41.30586964762602,263.5109967059847 -85.0780962851801,41.30938388401771,260.6943806490381 -85.07819496080991,41.31720338559435,260.5817255057847 -85.07823174145517,41.31922834872435,258.6767416485271 -85.0782049279654,41.32323823340727,256.1417690672828 -85.08773253211851,41.32288135929264,257.9136795385073 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="003883138D244D76F73A">
+		<name>Concord Township</name>
+		<LookAt>
+			<longitude>-84.86814799334294</longitude>
+			<latitude>41.3467803259753</latitude>
+			<altitude>254.5424366256964</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4039.220316764549</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_2B7EE5EBB3245DBA5A6F</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.84973514112882,41.35636762821585,253.5010795424411 -84.85387899092179,41.35632496973657,253.8089497280267 -84.85653783981974,41.35633075094083,250.5463876905274 -84.86124966725617,41.3563325071803,249.68938551268 -84.86494069899199,41.35637663439691,248.8879599148935 -84.8695402972285,41.35632563013267,253.8243288446732 -84.87226544210785,41.35632846109925,252.1297113370747 -84.87538550447307,41.35632621412451,253.3814841879017 -84.87828536669925,41.35633043240306,250.8009007124608 -84.88003909169595,41.35632598496652,253.3385576244074 -84.88203114212205,41.35624384702874,251.416241616632 -84.88419416599552,41.35620368483549,249.8185688518638 -84.88691984214944,41.35620310916461,249.9685750741966 -84.89144427679716,41.3561108179833,253.8251937720212 -84.89626853601303,41.35602479911732,253.8100293254398 -84.90132013940548,41.35589592839561,253.8209831191613 -84.90386054867025,41.35584982214132,255.6362599242132 -84.92787657150731,41.35543696674091,257.6246326998774 -84.94289600259164,41.35517789396927,258.7609993039297 -84.94887969338718,41.35504422133524,262.3519300468471 -84.96504924661215,41.35470674791618,260.9858164694924 -84.96505242477235,41.35283604789647,259.0861124125 -84.96504430127337,41.35032738557383,263.4104646072082 -84.96504415149907,41.34900978007153,263.4052688950583 -84.96493051693649,41.34803233896877,263.5651904290404 -84.96481830883971,41.3456937597113,262.8395366220424 -84.96471122657618,41.34271073118816,259.1102275021826 -84.9645433442786,41.33444304928026,257.4594173011956 -84.96442751439101,41.33001876112409,258.7762196475132 -84.96426091659764,41.32388823452718,255.9431162666578 -84.96414998320917,41.3217596181299,253.8176140038528 -84.96414715096886,41.31950334413428,255.9489081837898 -84.96408664455548,41.31444170935682,258.7520455514311 -84.96392379493534,41.31125040396525,253.8144538250395 -84.95439771412782,41.3114635389941,253.8160434456397 -84.94657356178959,41.3115057340925,254.2422693604955 -84.94267359292014,41.31159094359752,258.221071413079 -84.93944529210098,41.31171817107489,258.4863655440186 -84.93375624817949,41.31197230497703,253.8184659984851 -84.93040993249146,41.31205677021277,253.8100975157366 -84.92689332477393,41.31209849896523,253.8143931705748 -84.92003447664673,41.31226883417176,256.092748303172 -84.91226266971638,41.31235221083404,252.2741521232401 -84.90540178740913,41.31256478036246,253.1528120149397 -84.89803928053526,41.31264585303141,243.9179881343818 -84.88548241641861,41.31264467347712,244.4578883207583 -84.87216640354602,41.31264892742657,253.5004342449156 -84.86471044146825,41.31268708664933,248.9799197847713 -84.86346391246676,41.31349715219243,249.466769718295 -84.86091801439136,41.31315639816658,251.5948590957496 -84.84856116332016,41.31362373896769,253.8164355423217 -84.84887341991723,41.32027335695336,249.3074124267291 -84.84920003414972,41.33462869518295,246.2941360108893 -84.84931472741273,41.34549174252965,248.4658899413708 -84.84936452416505,41.34918487089053,248.7201714589232 -84.84936422416827,41.3502666679541,248.728779874528 -84.84958581531868,41.35346252563129,251.195106005647 -84.84973514112882,41.35636762821585,253.5010795424411 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0A77A301C12429EEC17E">
+		<name>Fairfield Township</name>
+		<LookAt>
+			<longitude>-85.08073424497778</longitude>
+			<latitude>41.5135776394692</latitude>
+			<altitude>304.704586566775</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>10628.17904261174</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_30BE53AF19245DBA5A60</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.19436021117983,41.52654984697872,309.3972311873625 -85.19381516913171,41.47954197872334,306.5843335648535 -85.19371994261479,41.45731711834512,314.0170309246977 -85.19360486673956,41.45011980901221,298.7795248777779 -85.19357795977616,41.44201783576762,303.0374132041544 -85.19346037587933,41.43801246937427,300.4539441020322 -85.19329128784612,41.43791153914201,298.4314849997407 -85.1932994927889,41.43772143254361,298.4506999298609 -85.18524136003752,41.43769524172265,300.6453717076219 -85.1823655180721,41.43795124629715,299.5692148495273 -85.17148243786471,41.43794979106841,295.4419421358373 -85.15006079888263,41.43830783062059,304.1133992689186 -85.12577373354969,41.43860687561151,289.4352280800751 -85.10471395381619,41.4389165040253,283.9805501397839 -85.07921471411233,41.43925061529718,293.9082598299455 -85.07964115620483,41.46691512831018,281.7581831523206 -85.08004051382977,41.49278064228656,303.7065257243482 -85.08073853811592,41.52722163693577,301.6954831854649 -85.19436021117983,41.52654984697872,309.3972311873625 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0B1A39FCDC244D92BDF2">
+		<name>Franklin Township</name>
+		<LookAt>
+			<longitude>-84.9520974827729</longitude>
+			<latitude>41.53128794685171</latitude>
+			<altitude>293.3751003102106</altitude>
+			<heading>2.529610254632721</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>4455.538581514266</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0B3208E20E245DBA5A71</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.96846775343704,41.52774040094766,288.4612049587955 -84.96831905607181,41.52041692066373,291.8061888412511 -84.96825843107736,41.51862557589038,290.1223012437039 -84.96832673642486,41.51787881124294,289.5906456281934 -84.96824559025866,41.51618643204383,293.2600828144744 -84.96811942293864,41.51429459514017,291.3386273868325 -84.96812703964326,41.51279959042304,289.2280857947509 -84.96806228713,41.5083165089406,288.4504834206334 -84.96790966510981,41.504492896097,293.3957636691183 -84.96770898499301,41.49991594689435,293.382666241703 -84.96765689229413,41.49692524777716,289.5347596263325 -84.96759066519368,41.49587933523095,289.3961476937687 -84.96764089363255,41.49389495734908,293.3839093837881 -84.96757647308632,41.4924505717749,292.7808852630214 -84.96744794631563,41.48537172465445,288.455303992077 -84.96731697841827,41.47941608154085,279.8980017077972 -84.96721895553165,41.46677745383701,278.5438468564346 -84.96697083970672,41.45714522291659,270.2432883899286 -84.96682788533697,41.44173167348883,278.558490138058 -84.96598658275485,41.44170405785277,278.5553769736696 -84.96497702565115,41.44167091478626,278.552662062513 -84.96328706083716,41.44174176972676,278.5495689521803 -84.95241341158558,41.44200387389196,271.3057970385711 -84.94345597800009,41.44221772103907,273.6048609035088 -84.93712025071598,41.44238472058,271.8329767518177 -84.9312041470311,41.4425681457705,271.9262700791784 -84.92900485260924,41.44261865124032,269.8600404539632 -84.92597510304975,41.44258617808295,273.3197650264883 -84.91794463751322,41.44269333388343,269.7032730455139 -84.90889118714149,41.44276531376562,265.5019902253202 -84.90246748730661,41.44280315666513,265.0737723553719 -84.89346039605243,41.44307993228369,272.4880095962125 -84.88987601444281,41.44314342505855,267.4433856342407 -84.88299108551405,41.44335085072097,263.7072788543847 -84.85191299856467,41.44405446869379,263.7002606011905 -84.85247191239716,41.46034390866637,264.3332673686072 -84.85261234472691,41.46581550385642,268.6459485499291 -84.85286584750718,41.4661961031978,268.6445083402488 -84.85282555776126,41.47343200816553,268.6702289709849 -84.85301868472824,41.4795176662293,268.6423800668072 -84.8531363543883,41.48973177409047,265.453442458804 -84.8532599534644,41.49602158962169,269.9539401590427 -84.85337889663127,41.50063466618224,268.6422252632476 -84.8534760367629,41.50179611709958,268.8700814995503 -84.85376519485648,41.50250933199499,269.4926904569444 -84.85360373396149,41.5033731102078,270.4824700678921 -84.85372627397369,41.50503196977151,273.2579155686452 -84.85393945860694,41.50702205628252,275.2174925070308 -84.85394683077996,41.51161507182635,266.2475262153071 -84.85407395053899,41.51228427668683,263.6969601557445 -84.85414201453904,41.513942592124,263.7014389198421 -84.85420655526474,41.51659275931043,264.5196230296355 -84.85418906048348,41.51778424902521,270.297546694513 -84.85435970940495,41.51861945894934,272.0962165119627 -84.85449222322049,41.52949318994175,270.7207070860945 -84.87270200727713,41.52910443008474,266.6039855925579 -84.89752673041687,41.52863755887944,270.8991988298478 -84.90164843066646,41.52832115177542,283.4722307127919 -84.90660440473329,41.52839890705889,268.9628985756251 -84.90853243493396,41.52846242092279,269.3585928513244 -84.91709011805087,41.5285801761135,277.616219290964 -84.92002475834217,41.52826398220996,278.5616032925439 -84.94344221937001,41.52806174871927,288.5387868756741 -84.95614580653758,41.52807041786294,288.4999959172348 -84.96846775343704,41.52774040094766,288.4612049587955 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C064D08542429EB9AC4">
+		<name>Grant Township</name>
+		<description><![CDATA[<div>Grant Township, DeKalb County, Indiana<br></div>]]></description>
+		<LookAt>
+			<longitude>-84.96132675557908</longitude>
+			<latitude>41.44125305991611</latitude>
+			<altitude>277.5016308029157</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>3467.300629368983</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_35410FD0CE245DBA5A61</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.96668981592111,41.4417059671096,282.3964939727347 -84.99481075884023,41.44119692450449,283.9943540114871 -85.00020275213269,41.44078240528459,283.979697048799 -85.02458842213142,41.44028057430368,283.4217942873944 -85.03280280472545,41.44004985830553,282.3233050229429 -85.03396242997604,41.44004943743526,283.5377441863779 -85.03704318551048,41.44055495319636,279.7806807513911 -85.03889815358667,41.44014148076126,276.512481774321 -85.0396907771247,41.43926754431179,277.4367557332736 -85.04170261418271,41.43968058553624,279.8393133440449 -85.04468679102293,41.43981719329836,283.4022651666943 -85.04799111857861,41.43990839710672,283.9807379301149 -85.05283077654913,41.43967815246646,284.0038022288697 -85.05600268455581,41.43967876989661,288.0534972116257 -85.06600359721878,41.43939981153432,283.9669226492722 -85.07115681657503,41.43930960533706,293.1673269233575 -85.07929694762171,41.43914220450156,287.4942219399545 -85.07918955164624,41.43424853129631,281.0201871859553 -85.07918522992253,41.42472921610727,285.3143248377748 -85.07907283884354,41.41460235491675,281.7596804161855 -85.07885931998925,41.39576137866612,269.5586706951842 -85.0700868735621,41.39590477610747,268.6686446171206 -85.05704608991164,41.39621151784318,269.9890723875728 -85.05295610161333,41.39629424777157,272.7762850680956 -85.05240964862536,41.39643757095548,271.8366396259394 -85.04938699134765,41.39655697440602,269.8156558095354 -85.04495976957739,41.39657727803478,273.6309315295758 -85.04047305949236,41.3967359513006,271.8972088977143 -85.03655236273976,41.39687573934727,269.6445136069968 -85.02403918201465,41.39717561817852,266.0336751226379 -85.02403487627039,41.39708295229534,265.1785073193689 -85.02130832609748,41.3971365400621,264.7894616506519 -85.01124451454957,41.39715850793634,270.9784712091231 -85.01019138423268,41.39713123277836,270.9772862642584 -85.00950364356154,41.39721850561256,270.9764966952306 -84.99997153236586,41.39749181189634,266.0317620511693 -84.99996425109691,41.39711257013594,266.2400771012355 -84.99614956146802,41.39748509405788,266.9642189419278 -84.9861162802576,41.39837949025603,270.9746057248139 -84.98137532343887,41.39834621346981,267.0632633059111 -84.97619063433092,41.39832630807504,268.5010897125276 -84.96606062281818,41.39821647002114,266.2897046999965 -84.96608603965358,41.40229060121241,268.5060072977291 -84.9662826642375,41.40831573434525,270.9763978749667 -84.9663565987284,41.41173195943094,267.2891722221074 -84.96644294426666,41.41769842548962,267.8180135375086 -84.96652146223464,41.42016155378056,268.7559951282192 -84.96660220713821,41.42535212183898,273.2257597136619 -84.96669522999869,41.43251262477802,273.6014954153588 -84.9668181612723,41.43834990928892,278.5523937843467 -84.96668981592111,41.4417059671096,282.3964939727347 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="09A92D5EB22429FE8357">
+		<name>Keyser Township</name>
+		<LookAt>
+			<longitude>-85.076757671259</longitude>
+			<latitude>41.37602032950686</latitude>
+			<altitude>272.8389190475011</altitude>
+			<heading>3.269433567692595</heading>
+			<tilt>9.810393922415159</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>3130.101046952186</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3231C2BD51245DBA5A6D</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.0785728036668,41.38103969825647,272.6329572862653 -85.08218558978889,41.38114323407054,270.9763225180612 -85.08521656198403,41.38122658163812,270.8584349341416 -85.08805627627291,41.38133022906491,269.4497150046161 -85.09350506878877,41.3813301727977,270.467420336564 -85.09847507273707,41.38135092663558,271.8619520273431 -85.10705013020001,41.38126937147855,273.448234108281 -85.11280078945698,41.3810604712846,273.4488521002631 -85.11663427651489,41.38093497331133,273.5374709426764 -85.11749691688861,41.3808937667706,274.7802569000368 -85.1211072681206,41.38089427649583,275.5646392029474 -85.12535490550751,41.38091458903635,274.4024314910429 -85.12829669447642,41.3809774701262,275.4522370242914 -85.13193808161384,41.38103909432273,273.8753811544656 -85.13654464680178,41.38110153410369,274.7976441907198 -85.14917277478584,41.38083119504472,273.4524814203394 -85.1551173747204,41.38070617571506,273.6170102505433 -85.15891612919282,41.38064475444134,276.0475011690743 -85.17081171437286,41.38047907315527,275.9839935282816 -85.17469006668354,41.38043744036372,277.3713337379262 -85.17715476284508,41.38035362592836,276.1501384301815 -85.18016225883109,41.38029436856316,280.573547582073 -85.18442383140064,41.38016464172881,273.4526626240674 -85.19294488886482,41.38004162364628,276.353813429257 -85.1929144136637,41.37535562116246,279.459330758928 -85.19293673702981,41.37251301013314,283.1333698997184 -85.19310668518165,41.36444710362705,279.4670739515233 -85.19322616906663,41.35569939702544,277.7912521981634 -85.19331089260329,41.35134390412296,275.9243972728949 -85.19306121276425,41.35117721006196,276.0304042038528 -85.19325572317481,41.34753189510756,273.4539297769799 -85.19345005670978,41.34419683441465,273.4498414388645 -85.19342223591123,41.33969568198559,273.3777762348331 -85.19344999894597,41.33497178702677,263.561367754821 -85.19356350484699,41.33025604670487,264.2113871461217 -85.19358465858392,41.32460142343039,259.2458701669784 -85.19355524182964,41.32193490251129,265.8608106663092 -85.19252042421685,41.32211847343976,268.5017153959531 -85.18719167880809,41.32221995905547,270.7995862001882 -85.1817544351438,41.32232162623675,270.9750542985038 -85.1777460083989,41.32240349396131,268.9829421190689 -85.17429662007646,41.32244119102906,271.2447567086846 -85.17038004348225,41.32247770069944,270.0238575872897 -85.16711350642153,41.32250602229944,269.9825980468827 -85.16257921401363,41.32257542799118,268.5005505489982 -85.15367293318569,41.32262579762887,268.501365413354 -85.1455590812737,41.32272502272104,263.3709173147832 -85.1383525741028,41.32274161138553,265.7439681199424 -85.1358804675999,41.32273217324278,263.5551215261851 -85.13442877492373,41.32267038486684,263.9759596960296 -85.13251384756903,41.32285980169927,265.3909366437142 -85.12725416892214,41.32294987957894,266.0312178826138 -85.1214668676224,41.32305773650302,265.4755615616462 -85.11852858080658,41.32304800543252,266.8322411190297 -85.11231516342255,41.32280464497629,265.6487613518898 -85.10643861076355,41.32258878833102,265.0211954014338 -85.10152375228333,41.32246288177573,263.5559382281692 -85.09929323470146,41.32234320420208,263.5571733803203 -85.09657900350872,41.3223828470639,264.9292404672643 -85.09434914044779,41.3223957514647,262.8338046831732 -85.09156545143544,41.32260044953175,258.7635980059644 -85.08804477437801,41.32284891556122,259.5096190010814 -85.08767084391015,41.32288456775125,259.1309969894279 -85.08622907759934,41.32288522740878,258.2939914283077 -85.08419961658385,41.32293061701313,256.0687545874926 -85.08260257870162,41.32301229617518,257.7259142227895 -85.08096710792589,41.32305134962051,255.7482188029885 -85.07813887306342,41.32317741868565,256.1418601847861 -85.07804705928137,41.32857819772282,263.5594178572253 -85.07827561934414,41.32868068066878,262.0879248487466 -85.07812197138382,41.33054198981877,263.5659702454822 -85.07814881739992,41.33446768283618,265.8409730687939 -85.07819827988246,41.33875802407491,261.3283131340738 -85.07834797691955,41.34604418731313,263.5215464450013 -85.07836552827229,41.35680420232359,266.0332749483136 -85.07839036007556,41.36167676712397,268.1636080005676 -85.07847252422842,41.36901657736384,268.9380818019463 -85.07847950875311,41.37280863251796,270.4627392975505 -85.07847277576403,41.37484674421562,270.9813537334806 -85.0785051961997,41.37734133393668,271.7815270364068 -85.0785728036668,41.38103969825647,272.6329572862653 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0D05D12668244DB3BA78">
+		<name>Jackson Township</name>
+		<LookAt>
+			<longitude>-85.06554868502936</longitude>
+			<latitude>41.34538453240746</latitude>
+			<altitude>259.7651763702193</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>4905.874886975507</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0F01175B3F245DBA5A70</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.07829552653993,41.34701715001196,261.7058381368217 -85.07828503443524,41.34490382064928,265.5821683615256 -85.07823878345452,41.34313646610781,263.5600642228104 -85.0782377410406,41.33725087615325,263.5614095817302 -85.07808322206188,41.33225671424373,263.5600487493862 -85.07823970779535,41.32879833288877,262.139851283692 -85.07813847252156,41.32845217867582,261.6784037698936 -85.07823030022261,41.32321499789892,255.2495083455352 -85.07809359759213,41.30649046361523,258.8297905150256 -85.07802555051659,41.29747958127921,259.6285342506714 -85.07795659929297,41.28230411447412,260.5094703102295 -85.07796657692565,41.27595438651606,256.1423534458043 -85.07781237381515,41.26557279288964,265.5767569862275 -85.0467663229585,41.26609171327436,264.1759378029333 -85.02043284833563,41.26650781994893,257.5716297641843 -85.00506111141641,41.26681690474012,254.2770665620893 -84.99599958305116,41.26702356571386,254.2780110747269 -84.98570228497374,41.26733252072229,254.2832219108828 -84.97526727199322,41.26753722150067,254.2658193137041 -84.96263455389241,41.26774020786006,254.2685375492845 -84.96344420091754,41.29519245306447,254.2188176687646 -84.96374088538477,41.30819855193112,264.2167032957776 -84.96454691741852,41.33129862552101,262.8850514078561 -84.96468152512982,41.34264481508428,264.1148394328523 -84.96522305599414,41.35471103251027,264.1948269847961 -84.97415370444229,41.35440747889035,264.1796904379106 -84.99176452375369,41.35410669366268,267.0190696192119 -85.00989628678319,41.35360021847092,265.4847781812808 -85.0240482496614,41.35319218113617,265.7574867659916 -85.04410681683767,41.35288504221477,268.7033220786301 -85.05316910967751,41.35257851822256,264.5610304319223 -85.05976165537901,41.35236942134629,270.4980806464802 -85.07844552965047,41.35206132442894,264.2530563913392 -85.07829552653993,41.34701715001196,261.7058381368217 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="062FEA8FC82429E24471">
+		<name>Newville Township</name>
+		<description><![CDATA[<div>Newville Township, DeKalb County, Indiana<br></div>]]></description>
+		<LookAt>
+			<longitude>-84.81480579904405</longitude>
+			<latitude>41.3550877915711</latitude>
+			<altitude>254.3230981048165</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>12936.065692103</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_08C78D9256245DBA5A63</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.80391502400548,41.35651724202472,253.8214665469585 -84.84967568218624,41.35633170749875,253.631498387438 -84.84965506610129,41.3542367628965,251.2250052587738 -84.84946734882489,41.3513361779582,250.7988076354714 -84.84940254905631,41.34986281868994,249.2982493274873 -84.84932229480063,41.34512869480474,251.1152823364762 -84.84923654285234,41.33938570697255,243.7748576535636 -84.84918380505614,41.33400075792198,244.7904038628322 -84.8490869017144,41.3303761117088,251.5842248923211 -84.84904060865436,41.32738773364577,251.1926729094271 -84.84892721694773,41.32321755260407,249.2391698827706 -84.84881174321856,41.31969031654202,248.1685143334168 -84.84863058934975,41.31360499481695,253.7976093236298 -84.84840413797849,41.30376191266007,259.3416677756664 -84.84817876484874,41.29547249602889,255.2208062796403 -84.84793626580718,41.28867601251442,255.1136969075269 -84.84772270208708,41.28362858103738,258.9356671526221 -84.84748016797195,41.2729222579761,253.8295222367996 -84.84738047052613,41.2700095939566,248.2499452539508 -84.80337697073674,41.2711195804569,231.5498474393025 -84.8036500177157,41.28454268330651,243.5072859868006 -84.80368762415203,41.30002937067529,248.7227516191613 -84.80393586685312,41.31356593683104,250.7690256185013 -84.80394661251999,41.3251967493581,261.0918218316052 -84.80391502400548,41.35651724202472,253.8214665469585 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0846A6D621244D996CA8">
+		<name>Richland Township</name>
+		<LookAt>
+			<longitude>-85.16783069724134</longitude>
+			<latitude>41.44156995947639</latitude>
+			<altitude>299.6224687014069</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>7087.957606399432</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DC05A27E5245DBA5A72</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.19332104365829,41.43776970778527,298.7515365727324 -85.19341072925739,41.42631015163884,313.1559675600817 -85.19337879049071,41.42347739912619,302.5120981248153 -85.19337787631308,41.42212946798404,302.5096644599067 -85.19322489525524,41.41807961683872,297.2478020905056 -85.1932717128652,41.41536927701043,288.5941560937433 -85.19322500835305,41.41393870315455,280.6927166054393 -85.19306028775564,41.4018618562472,293.3692133470967 -85.19307640285946,41.39132071641381,289.0438997332878 -85.19300949982468,41.38348450683309,283.4890664348936 -85.19294304699264,41.37996436216253,278.3865062437714 -85.18763192625195,41.38010036813622,277.4638617970893 -85.18159042306756,41.38030751250731,278.9489153492588 -85.17420599976137,41.38044419726115,278.536008051998 -85.16187271787481,41.3805757754406,274.49027039394 -85.15475508011849,41.38071033587909,273.602430482389 -85.14601425422188,41.38091322877507,273.5946460853298 -85.14033684672023,41.38098005943202,273.3108421798132 -85.13574130796869,41.38111514234541,273.5925798456352 -85.1325872926658,41.38097941906123,273.601158648405 -85.12501014800307,41.38077136004929,271.1003953012701 -85.11564370817941,41.38090720969168,273.4959655349631 -85.10663237791987,41.38124972772722,270.8846839431276 -85.09788835157546,41.38131865978296,271.0138891103362 -85.08986559281395,41.38130956298957,265.0926938308283 -85.07850578608146,41.38104476192355,269.2124325883237 -85.07886296649779,41.39795714932117,268.669726023869 -85.0790538803052,41.41004995141701,278.5520139088123 -85.07913543448696,41.42946005722008,283.5534694745608 -85.07913672124099,41.43911240079816,286.9864910477211 -85.09607130156851,41.43891490651578,283.4943115564681 -85.11012606264683,41.43884554429376,283.5038658540901 -85.14338758546916,41.43834788167434,301.7064865555395 -85.14711853407967,41.4382454698006,299.1094701904455 -85.15460387085302,41.43824491227239,298.3391209407665 -85.16061413252712,41.43807736677984,295.4656375191453 -85.16951974108201,41.43790875514558,293.2959614977931 -85.1758929946681,41.43785153575605,294.4932127836273 -85.18264927659317,41.43793078082962,299.6633429227124 -85.18531043469704,41.43770957728923,302.1952391741833 -85.19035870640327,41.43770669490227,298.6128213538599 -85.19332104365829,41.43776970778527,298.7515365727324 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0FE63FF620244DA24027">
+		<name>Smithfield Township</name>
+		<LookAt>
+			<longitude>-85.07327060122923</longitude>
+			<latitude>41.52234925641972</latitude>
+			<altitude>308.2638747075385</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>4854.491817982052</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3DF841D4CB245DBA5A71</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-85.08055292303814,41.52003389070874,301.6981090020654 -85.08048954706969,41.51569170662928,302.8497506244472 -85.08042597897635,41.51039184080152,304.10897850682 -85.08029700591956,41.50746770230843,308.1875319165583 -85.08023518569641,41.50294757199663,308.2157221923702 -85.08023808221216,41.49906642930576,306.219991531895 -85.08012313987773,41.4944493272941,301.8144905583733 -85.08011757029892,41.4877195186592,303.269800395178 -85.08000539441633,41.48374495485488,298.3445071607869 -85.07994375998507,41.47880552775598,298.1835726536726 -85.07989169040441,41.47655995529429,293.8141308810931 -85.07983252747186,41.4750939900066,292.7968081110969 -85.0797761522966,41.47380869200329,290.4754703171232 -85.0795537671661,41.46779033986103,279.3159664438028 -85.07954553271991,41.46113834641136,282.6970071138105 -85.07942719892365,41.45700878103149,280.3687139293733 -85.07929396244695,41.4522908022418,285.2955591052046 -85.07930547013213,41.44582690799187,279.4921658064124 -85.07928813826746,41.43913747215265,286.7668307452578 -85.06372887530389,41.43949991886331,283.0687637646394 -85.05724630574261,41.439684344923,283.5102513435436 -85.05266304766752,41.43959231791438,282.2574780293202 -85.05156997563827,41.43981934275297,279.9566075989625 -85.04949775645893,41.43986263826005,277.2033066788692 -85.04766054033945,41.4398171345151,277.2746539926925 -85.04428877758846,41.43981955934805,279.0308377695737 -85.04257113857423,41.43968416579522,280.8710069287243 -85.04111146948325,41.43954089304616,275.7699729041484 -85.03970080597577,41.43922122784679,277.0941866217183 -85.03915862653973,41.43994906964681,270.8962578465599 -85.03836320311839,41.4402696893165,269.8233005963588 -85.03707149610055,41.44059535723402,273.858594751251 -85.03388529736051,41.44013712511936,274.7146692323862 -85.02377601433567,41.44032177445319,275.0735655282369 -85.00693501051829,41.44064654484964,278.5600928073751 -84.99977801001374,41.44078354576896,275.96153754107 -84.99475734041883,41.44119662158523,274.9941276294404 -84.97588545687722,41.441467516954,269.9124923855198 -84.96680532822626,41.44157297794393,278.5597060835278 -84.96686651210911,41.44267449638864,278.6792309348203 -84.96686729722134,41.44460100924678,277.8146670637672 -84.96687082581141,41.44882237796388,273.6044226878744 -84.96699450447187,41.45654356030435,273.2624865013298 -84.96711382966555,41.46329331932879,278.56267543476 -84.96729628061509,41.47127800586943,280.9441007759482 -84.96747259787361,41.48380496343771,289.8477459996082 -84.96759371619414,41.49117130888743,291.2102002253157 -84.96759403779825,41.4946512428296,291.0242998009713 -84.96759521960013,41.49753510788731,289.6400143802491 -84.9677148977861,41.50055888962515,293.3819287388094 -84.96783740672539,41.50399107713761,293.3920623915366 -84.96814629584449,41.5123198872713,288.6226420197533 -84.96826582287173,41.51543442005033,293.3956748631505 -84.96837590927922,41.52778938474185,288.2895421189629 -84.97479116183949,41.52767314353528,294.0615775814944 -84.98634486361408,41.52751974051961,300.0747677943553 -84.99786080341987,41.52740433555426,298.542630616957 -85.00009124970916,41.52759872788435,296.9517922364574 -85.01182400130017,41.52748164470389,301.2423289050227 -85.0170445315084,41.5274071798384,296.7516074027392 -85.02645081926028,41.52740651744469,300.648181835933 -85.03449413613883,41.52732742957373,304.6837865188805 -85.04722208714014,41.52721753253244,301.3711692400679 -85.05427475411364,41.52721914762638,300.6496227175713 -85.05577779862045,41.52714253449055,299.8823539100486 -85.06273071017014,41.52713969708934,302.36126692622 -85.06744715956026,41.52713498247392,306.1144970360996 -85.07268564858651,41.5271385038004,303.1207023191164 -85.08073053264086,41.52714086582473,300.6468674634716 -85.08055292303814,41.52003389070874,301.6981090020654 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0655D7B1412429DF807C">
+		<name>Spencer Township</name>
+		<description><![CDATA[<div>Spencer Township, DeKalb County, Indiana<br></div>]]></description>
+		<LookAt>
+			<longitude>-84.87534604821938</longitude>
+			<latitude>41.27643036697112</latitude>
+			<altitude>264.104486772748</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>9834.850979943294</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_3807D7C9A6245DBA5A64</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.84736450425642,41.26997102938863,253.6391833997886 -84.84876729136818,41.31355858079952,254.228419328815 -84.85998906753522,41.31320196523346,251.9705468578416 -84.86348915997954,41.31357145665435,249.1436334676896 -84.86505860862756,41.31275326991123,249.983721881527 -84.86879962375639,41.31274659656798,252.8417955650225 -84.89332563526081,41.31267294809999,244.3474691552023 -84.90850389444188,41.31246539513806,254.2547142940689 -84.92009261639643,41.31218979340989,254.2702722562245 -84.93106151853833,41.31217938514487,257.038738512713 -84.96385656138365,41.31119677010054,264.1780245239075 -84.96364154787071,41.29533991122454,254.2201065252127 -84.96327603506745,41.28745414094433,254.3114684769691 -84.9626375488711,41.26754433133171,254.2709902016039 -84.90417822492496,41.26887835618168,252.1543105392444 -84.87552731433998,41.26933938362866,252.8967469695165 -84.84736450425642,41.26997102938863,253.6391833997886 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="00C115CBBB2429F5B4B1">
+		<name>Stafford Township</name>
+		<LookAt>
+			<longitude>-84.80144634848475</longitude>
+			<latitude>41.44110210624698</latitude>
+			<altitude>253.8344499791766</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>35</gx:fovy>
+			<range>5017.954340647557</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0BCC5F3747245DBA5A6D</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.80395525656699,41.44546419619836,257.2451163107255 -84.80604600859589,41.44474902180473,256.74828625768 -84.80863807544588,41.44471199752741,261.0881299331423 -84.81422324717165,41.44467765675774,261.3846833333007 -84.81617454345201,41.44471114438245,262.0468453294216 -84.82147933926774,41.44457322870152,264.1761308670735 -84.83005938574745,41.44447043463124,263.5585084292826 -84.83368928999822,41.44443563042127,263.7635899198939 -84.85192247735269,41.44409515603557,264.8212840857395 -84.85169618554455,41.43545612299731,263.5610816336945 -84.85128812969525,41.42249321387784,262.1006481497587 -84.85078862152567,41.40660616740953,262.5839928646515 -84.85069627400974,41.40073808601799,254.0388814119705 -84.85058023958375,41.40062922718172,254.1568435096651 -84.85075422827201,41.40053118765471,254.4535357236122 -84.85064636186306,41.39656099544113,258.6170545189565 -84.85036142073328,41.39069405919702,255.4191190256686 -84.85018692354336,41.38509107075279,256.142701736484 -84.85015860405871,41.38167735743442,254.8674737011592 -84.85010144867455,41.37829999059298,253.8733085571021 -84.8500726045549,41.37378815466404,252.518283063212 -84.85007233159916,41.37116208892815,252.3685721020489 -84.84998472121576,41.36811639618188,251.610444848673 -84.8498682800353,41.36426385595078,255.7460799578794 -84.8498095847104,41.36121901456958,252.080518630939 -84.84968265435921,41.35633944983434,253.0860635844242 -84.84463918878423,41.35634895191789,251.4373974019153 -84.83576760230069,41.35638076553134,252.01714266279 -84.82786919096813,41.35641653921466,248.1566304465689 -84.82343310184417,41.35645661563856,253.1277182531046 -84.81672103171485,41.35645738101768,254.8097751272811 -84.81399972171695,41.35647334342922,254.6768121757752 -84.8039289069926,41.35651371821681,255.6005530655036 -84.80399530000167,41.35940354456925,258.6246818702384 -84.80400488625604,41.36199510681024,254.9568417003394 -84.80398541357123,41.36565192228585,253.1560508184964 -84.80398892374869,41.36807106271732,253.5587670792324 -84.80390467221929,41.3705115891047,248.5352939668357 -84.8038691614009,41.37379572003398,244.2639020830497 -84.80396465018603,41.38061156847871,249.1201142307416 -84.80414550308714,41.40840876998474,258.5380747158483 -84.80392055364484,41.40862409239484,257.0264112340322 -84.80394102281521,41.40893182875588,257.1670232445996 -84.80394151309652,41.41082621160302,255.8914240352427 -84.80398571529358,41.42289316602447,253.8196466866728 -84.8040249295682,41.43696031036899,261.6614946827112 -84.80395525656699,41.44546419619836,257.2451163107255 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0C43B01A81244DAB0FC7">
+		<name>Troy Township</name>
+		<LookAt>
+			<longitude>-84.85101890030036</longitude>
+			<latitude>41.53146739082614</latitude>
+			<altitude>278.3358977292256</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>2519.998582371336</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_0A8FA2DC3F245DBA5A72</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.8545077407064,41.5294803581339,271.7399889955843 -84.85437409913267,41.52445876845213,276.26947113827 -84.85437075794044,41.52313478020148,276.9821407887499 -84.85435598601845,41.52197608375877,271.5404999298026 -84.85433713771937,41.52079559335841,275.9195769659905 -84.85427185464465,41.52006003747404,273.5204953090187 -84.85426743330879,41.51915919012075,274.5243236800392 -84.85427977315706,41.51833666735205,271.567545305202 -84.85412708452941,41.51791431081745,272.0176138371417 -84.85412018286036,41.51376644598896,263.5569072014923 -84.85407390980404,41.51224187402543,265.7161765712694 -84.85395225909035,41.51167939267367,267.9221471627644 -84.85394791331412,41.51012789758496,269.0036124479493 -84.85388149094526,41.50776508377959,276.7452715459858 -84.85389221141736,41.50646825833311,273.633177071711 -84.85389537437611,41.5058475084484,272.7032456466396 -84.8536713821585,41.50517025587638,272.0963149375397 -84.85364114702627,41.50296714755044,269.8348401210056 -84.85364488063784,41.50231884084278,268.6685385114175 -84.85341261708081,41.50189556480953,270.4773875162969 -84.85349150637921,41.50070978879993,269.3532751568724 -84.85340909371486,41.50014648326954,271.448992310286 -84.85336456404232,41.49845585813843,273.4484697986067 -84.85321285525666,41.49205375522428,273.4490507607524 -84.85311999020892,41.48751032180684,266.3318767098402 -84.85303110570463,41.48223176358923,270.9769768863122 -84.85292135540976,41.47661573332348,269.4139652891333 -84.8528812797052,41.47421668327016,270.2035620214068 -84.85284448386494,41.47207129653785,269.7584724817262 -84.85277133446698,41.46777888924654,268.6522446944338 -84.85276612010009,41.46608484143762,270.6783178117204 -84.852578126431,41.46580265833095,270.5385229968493 -84.85254505909253,41.46365656711291,268.5058114962443 -84.85243704809014,41.45803603488639,266.0326910833094 -84.85232901528084,41.45331397178892,263.5582570123107 -84.85194815861628,41.44407073713801,264.8463431179565 -84.84723535166944,41.44415494652203,264.2099585690951 -84.8402219964499,41.44429732868923,265.1082360168249 -84.83279072399635,41.44443675635497,264.0426166964045 -84.82690430552218,41.44452012880158,263.5579201053067 -84.8172510597997,41.4446332209569,263.2425215924125 -84.81468680434857,41.44465734683664,259.7221083659341 -84.81238315723738,41.4446563376712,258.8819226172137 -84.81019078338264,41.44468242383277,257.0529762542507 -84.80845849758605,41.44468713460153,261.0866936957947 -84.8059579188641,41.44473849921482,256.7654791629412 -84.80403150349375,41.44547523748351,257.1547321978937 -84.80410364742899,41.44870417591629,256.0398874010074 -84.80418251523949,41.45170645597847,257.4451883587708 -84.80419424301043,41.45470135893503,262.0543428810544 -84.80419948436547,41.45840011966799,263.5839405948198 -84.80420394525684,41.46070287398198,266.008635370664 -84.80421741262347,41.4617421465725,259.2096480409801 -84.80419360480924,41.46343026688951,260.7198076694991 -84.80419017984404,41.46418412806708,258.9545334638642 -84.80416251953176,41.46503949828192,258.4107034507254 -84.8041345190296,41.46539737342088,257.6806765326455 -84.80421128644494,41.46563555908791,256.1395067445882 -84.80418459929756,41.46708997028782,256.1429939561597 -84.80419499902646,41.46981307272881,261.6967490548134 -84.8042476404225,41.47448091336199,261.1439593108718 -84.80423105133301,41.47809299315691,266.0334907034141 -84.80429681739642,41.48475005836548,259.742418489966 -84.80435152230402,41.48763334920417,260.7995631908126 -84.80438719259011,41.49228910157746,265.9433908868123 -84.80444225436079,41.49831911939852,267.3210198733026 -84.80446837177114,41.50341762485144,267.3209107742035 -84.8044959873144,41.51013663799751,268.017327854603 -84.80449753643896,41.51303092053313,269.1554594631201 -84.80454872501012,41.51394407728683,268.0232998225246 -84.80457319102776,41.5152551335857,266.7250868615372 -84.80460585139912,41.51938986587099,270.9749097992432 -84.80466059438098,41.52343035316302,272.2654288851077 -84.80465892168877,41.52481607793447,271.2583106247477 -84.80468870090226,41.52689396048282,273.4617657309 -84.80471216236683,41.5301816581996,271.6688098834556 -84.81076808553439,41.53026112966471,273.3708692833455 -84.81150918292985,41.5303005980322,272.553599078857 -84.81185298761238,41.53022140188031,272.509057681484 -84.81312064169209,41.53024127573472,273.4039474706942 -84.81396780860108,41.53024115572297,272.8004095524583 -84.81576373526772,41.53004327669846,273.5012572295921 -84.81685153966266,41.53000334076589,272.2653463021782 -84.8182277770664,41.52998332162384,272.6240120032667 -84.81931289968043,41.5299637989136,272.970134018421 -84.82047204251909,41.5299430834722,271.2211000315714 -84.82225075751175,41.52994524755469,274.8830075678475 -84.82439151515433,41.52986685710033,275.9735321538627 -84.82565915042645,41.52984735091716,276.3753254795931 -84.82821897464619,41.52982862500588,278.08394257833 -84.83022418583485,41.5297890698635,278.084253542097 -84.83676313211197,41.52969807654053,276.7639239920978 -84.84433746795077,41.52959893335451,275.7494921310802 -84.84710713481572,41.5295381404855,273.6256915530776 -84.84869500974015,41.52952009126663,275.8174357881251 -84.85088690278626,41.52948120544085,276.6142062957937 -84.85215330556115,41.52946279995465,278.3311691750017 -84.85323834107734,41.52943993509883,274.4693147715024 -84.8545077407064,41.5294803581339,271.7399889955843 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="0BCCB4873E2429DD2D77">
+		<name>Union Township</name>
+		<description><![CDATA[<div>Outline of Union Township, DeKalb County, Indiana<br></div>]]></description>
+		<LookAt>
+			<longitude>-84.96189798007396</longitude>
+			<latitude>41.39351806493077</latitude>
+			<altitude>270.9749855536649</altitude>
+			<heading>-6.267697986805168</heading>
+			<tilt>0.1781640352036315</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>2151.397802921128</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_35410FD0CE245DBA5A61</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.96612026532156,41.39827641148329,274.1027897521608 -84.98280493356404,41.39828182683137,270.8191136572619 -84.98590323022557,41.39843210772825,270.5632280769638 -84.99988989206972,41.39707760875581,274.0838707282901 -84.99999049536584,41.39749942645838,265.5571214146499 -85.00478036761555,41.39728566497341,266.0313374685015 -85.00729062033101,41.39725779494896,268.7888004242332 -85.00954741066009,41.39725438109807,270.9769647175067 -85.00998795321257,41.39718352127148,270.9770871411791 -85.01323487631966,41.39713723587437,270.0590478376239 -85.02403523131967,41.39706792531472,263.7312504605243 -85.02413888601349,41.39723155934809,265.3675470974874 -85.02780864023811,41.39709968315064,267.3970041994519 -85.03382513328057,41.39691477947284,270.9811951231022 -85.0378071101054,41.39681016240282,269.2518741640738 -85.04565740175083,41.39661233441045,273.454627095371 -85.04910680893629,41.39656938392112,269.5682331892791 -85.05265744754432,41.39639700304924,270.7098764106378 -85.0528331774477,41.39632958816204,271.2762523175526 -85.05615035473203,41.39622931333492,272.9542979080974 -85.06330728707984,41.39600187601808,272.1006783681826 -85.06973300675429,41.39589493281093,270.9773743247065 -85.07884741051082,41.39576638181158,269.7611794623639 -85.07843665398089,41.37364355850004,268.6768320291181 -85.07841071598264,41.36185255520672,264.7781166571356 -85.07832393844023,41.35205623242468,264.5737899069086 -85.07155848867463,41.35213469730194,266.0345846510206 -85.06552973720999,41.35230046236993,263.5619023306457 -85.06165362561683,41.35237178222518,266.0198662374207 -85.05883917786043,41.35254627656273,263.5622489676014 -85.05393647599143,41.35262276278019,260.9363379492089 -85.04512756920705,41.35284070726093,265.9566693000998 -85.03898219752533,41.35301902949516,266.8625279249878 -85.03410412059102,41.35306513034676,268.4165544337915 -85.02884070464671,41.3531564185844,263.5630401394258 -85.02809989226706,41.35314291080965,263.5619696523484 -85.02363852285896,41.35322897490751,263.5836970659273 -85.01791345428701,41.35336672542136,266.8795181394265 -85.01250925999531,41.35352423718298,265.763732956432 -85.00464270046039,41.35369368816453,267.2590794351771 -85.002614115451,41.35374566115071,264.1112333016926 -84.99616497818737,41.35396369926158,267.8887954715384 -84.98903207428056,41.35413256968243,264.4135603162619 -84.96974656028769,41.35452931009755,264.2127163087321 -84.96561423776943,41.35460843679822,263.3183180716449 -84.96511685308934,41.35466862039767,262.444964371891 -84.96518240113636,41.3577788450002,263.5610441129751 -84.96522200657257,41.36078116159975,263.5468725288843 -84.96521506598552,41.36179786200893,262.838873971025 -84.96535123410627,41.36402686452775,263.5598754648599 -84.96551220456959,41.36600098301898,263.5550404427829 -84.96584017926712,41.37157987941162,260.4156853331351 -84.96567063728563,41.37336492196487,260.8014285985327 -84.96552921154526,41.37520785048207,263.5964776616141 -84.96562769142834,41.3768140268639,265.8231511330491 -84.96567991219989,41.38180285461248,266.0284941482951 -84.96577660686592,41.38801996559777,266.1250322221503 -84.96592022712662,41.39551031097453,268.5033631189924 -84.96612026532156,41.39827641148329,274.1027897521608 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+	<Placemark id="07786260FA244DC1F120">
+		<name>Wilmington Township</name>
+		<LookAt>
+			<longitude>-84.84530293025415</longitude>
+			<latitude>41.43468701319897</latitude>
+			<altitude>264.1150637295998</altitude>
+			<heading>0</heading>
+			<tilt>0</tilt>
+			<gx:fovy>30</gx:fovy>
+			<range>12495.36644703476</range>
+			<altitudeMode>absolute</altitudeMode>
+		</LookAt>
+		<styleUrl>#__managed_style_31DB3FA2A3245DBA5A6C</styleUrl>
+		<Polygon>
+			<outerBoundaryIs>
+				<LinearRing>
+					<coordinates>
+						-84.85211299283547,41.44409257205753,264.148863639439 -84.85682073185419,41.44398915774883,273.1710788139907 -84.8621714763441,41.44389670100082,265.0302339182497 -84.86804707369454,41.44369676136821,271.5364832860681 -84.87235919277988,41.44360230737001,265.6571379136954 -84.87718850476377,41.44350207837885,268.7712504122035 -84.88241855682752,41.44340628263578,264.1905823648136 -84.88919909909383,41.44310784262114,270.2393618918339 -84.89402152321529,41.44310465368248,273.89009926816 -84.90044254848668,41.44281403930137,265.4864465313084 -84.90733642928583,41.44280707330333,274.0677044828843 -84.91399488386453,41.44270671975858,274.0512537361245 -84.92065369304498,41.44260597212502,274.0807617795539 -84.93199843014882,41.4424108898959,274.0608089858048 -84.9408737846335,41.44231341992791,274.0746974662142 -84.9497475739029,41.44192170987871,276.2416607012116 -84.95627161277947,41.4419210329215,276.9588284512034 -84.96318080996491,41.44172427713043,280.8899479376458 -84.96670003213855,41.44172355270762,282.4071361618534 -84.96657915729067,41.4207845926018,274.0961900283539 -84.9663120712781,41.40728218866752,274.0220419455333 -84.96604715837124,41.39994384084954,274.0756310323025 -84.96593031397899,41.39152086653917,267.8127523441137 -84.96553996833535,41.37518568105121,264.2253296632705 -84.96592997069148,41.37224789138961,264.1997015392226 -84.96553655115686,41.36823314451652,264.1437359181205 -84.96513866903069,41.35471947809731,264.1927455333872 -84.94504777303419,41.35511622934754,264.2065808725295 -84.91268113979324,41.35578705868606,254.3146226548439 -84.89048759858153,41.35607599706018,255.4190561233276 -84.88212608452901,41.35626666143179,254.2899302839307 -84.86605356596273,41.35635350245472,252.8944464937547 -84.84961527309707,41.35635551919115,254.2435687857818 -84.85000556742325,41.36831147100379,254.2169935687776 -84.85026442109059,41.38595093721838,254.198046300037 -84.85078930401441,41.40280232495198,254.2195810073817 -84.85104865804516,41.4160266567574,263.8974201569666 -84.85170239846973,41.43121073206672,264.0990317965716 -84.85170285648594,41.43610664725773,264.1378747383883 -84.85183310483758,41.43963114108595,265.5389707061294 -84.85211299283547,41.44409257205753,264.148863639439 
+					</coordinates>
+				</LinearRing>
+			</outerBoundaryIs>
+		</Polygon>
+	</Placemark>
+</Document>
+</kml>
