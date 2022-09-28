@@ -1,5 +1,12 @@
 # Index of Cemeteries by Township
 
+[:arrow_left: Back to project home](https://github.com/FyoAtEPL/DeKalbCemeteries "Back to project home")
+
+### Other index options:
+[:a: View Cemeteries Listed Alphabetically](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesAlphabetical.md "View Cemeteries Listed Alphabetcially")
+
+[:cityscape: View Cemeteries by Town]
+
 ## Table of Contents
 - [Butler Township](#butler-township)
 - [Concord Township](#concord-township)
