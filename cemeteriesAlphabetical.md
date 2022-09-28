@@ -1,8 +1,11 @@
 # Alphabetcial Index of Cemeteries
-
 [:arrow_left: Back to project home](https://github.com/FyoAtEPL/DeKalbCemeteries "Back to project home")
 
-[:houses: View Cemeteries List by Township]
+### Other index options:
+[:cityscape: View Cemeteries by Town]
+
+
+[:houses: View Cemeteries List by Township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View Cemeteries List by Township")
 
 - Alton Cemetery
 - Auburn Mausoleum
