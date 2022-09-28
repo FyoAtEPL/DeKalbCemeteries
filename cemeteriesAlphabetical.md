@@ -2,7 +2,7 @@
 [:arrow_left: Back to project home](https://github.com/FyoAtEPL/DeKalbCemeteries "Back to project home")
 
 ### Other index options:
-[:cityscape: View Cemeteries by Town]
+[:cityscape: View Cemeteries by Town](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTown.md "View Cemeteries by Town")
 
 
 [:houses: View Cemeteries List by Township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View Cemeteries List by Township")
