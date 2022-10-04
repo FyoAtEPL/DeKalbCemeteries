@@ -17,6 +17,9 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 ### Artic
 ### Ashley
 ### Auburn
+- Catholic Cemetery
+- Evergreen Cemetery
+- 
 ### Auburn Junction
 ### Butler
 ### Butler Center
