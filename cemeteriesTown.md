@@ -17,17 +17,31 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 ### Artic
 ### Ashley
 ### Auburn
+- Auburn Mausoleum
 - Catholic Cemetery
 - Evergreen Cemetery
-- 
+- Mott Cemetery
+- Southlawn Cemetery
+- Woodlawn Cemetery
 ### Auburn Junction
 ### Butler
+- Big Run Cemetery
+- Butler Cemetery
+- Butler Memorial Gardens
 ### Butler Center
+- Ceder Creek Cemetery
+- Lutheran Church Cemetery
 ### Cedar
 ### Concord
+- Bear Creek Cemetery
 ### Corunna
+- Corunna Cemetery
+- Sixteen Cemetery
 ### Fairfield Center
 ### Garrett
+- Calvary Cemetery
+- Embrey Cemetery
+  - Embrey Cemetery has a La Otto (Noble County) address but is within the boundary of Keyser Township, DeKalb County)
 ### Hamilton
 ### Hopewell
 ### Moore
@@ -35,10 +49,14 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 ### Newville
 ### Orangeville
 ### Saint Joe
+- Alton Cemetery
 ### Saint Johns
+- Snyder Burial Ground
 ### Sedan
 ### Spencerville
+- 
 ### Stafford Center
 ### Summit
+- Barkers Chapel Cemetery
 ### Taylor Corner
 ### Waterloo
