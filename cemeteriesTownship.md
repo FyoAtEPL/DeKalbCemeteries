@@ -5,7 +5,7 @@
 ### Other index options:
 [:a: View Cemeteries Listed Alphabetically](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesAlphabetical.md "View Cemeteries Listed Alphabetcially")
 
-[:cityscape: View Cemeteries by Town]
+[:cityscape: View Cemeteries by Town/City](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownCity.md "View Cemeteries by Town/City")
 
 ## Table of Contents
 - [Butler Township](#butler-township)
