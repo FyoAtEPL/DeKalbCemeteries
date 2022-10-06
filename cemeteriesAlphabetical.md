@@ -8,7 +8,7 @@
 [:houses: View Cemeteries List by Township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View Cemeteries List by Township")
 
 ## Cemeteries
-- Alton Cemetery
+- [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
 - Auburn Mausoleum
 - Barkers Chapel Cemetery
 - Bear Creek Cemetery
