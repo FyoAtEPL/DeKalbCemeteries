@@ -34,7 +34,6 @@
 - Concord Cemetery
 - Jenkins Cemetery
 - Orangeville Cemetery (Unlocated)
-- Riverside Cemetery - St. Joe
 
 # Fairfield Township
 - Fairfield Cemetery
@@ -87,6 +86,7 @@
 
 # Spencer Township
 - Bear Creek Cemetery
+- Riverside Cemetery - St. Joe
 - Watson Cemetery
 - White City Cemetery
 
