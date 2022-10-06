@@ -13,7 +13,7 @@ Summit, Indiana, 46793
 
 **Owner:** ?
 
-**Religious affiliation:** 
+**Religious affiliation:** ?
 
 **Status:** Inactive
 
