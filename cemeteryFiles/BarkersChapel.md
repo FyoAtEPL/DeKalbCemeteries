@@ -1,0 +1,26 @@
+# Barkers Chapel Cemetery
+
+**Alternate Names:**  Barker Cemetery , Barker Chapel United Methodist Cemetery , Renner Cemetery , Summit Cemetery
+
+**Date Established:** 1871
+
+**Address:** County Road 4 and Old US Highway 27 (County Road 39)
+Summit, Indiana, 46793
+
+**Coordinates:** 41.51313, -85.00861
+
+**Township:** Smithfield
+
+**Owner:** ?
+
+**Religious affiliation:** 
+
+**Status:** Inactive
+
+**Photo of entrance:**
+
+**Findagrave:** [https://www.findagrave.com/cemetery/84236](https://www.findagrave.com/cemetery/84236 "Findagrave")
+
+**IHSSI #:** 	033-024-10010
+
+**Misc. notes:**
