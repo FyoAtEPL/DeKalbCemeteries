@@ -22,4 +22,6 @@
 
 **IHSSI #:** 	
 
+**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+
 **Misc. notes:**
