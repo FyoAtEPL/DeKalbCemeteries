@@ -22,4 +22,6 @@
 
 **IHSSI #:** None
 
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** None
+
 **Misc. notes:** While it is located within Roselawn Cemetery, it is a separate entity and not part of Roselawn.
