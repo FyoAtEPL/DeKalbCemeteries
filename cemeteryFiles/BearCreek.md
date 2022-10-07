@@ -22,4 +22,6 @@
 
 **IHSSI #:** 	033-564-65016
 
+**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+
 **Misc. notes:**
