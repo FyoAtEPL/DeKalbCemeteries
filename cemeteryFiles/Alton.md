@@ -10,7 +10,7 @@
 
 **Township:** Concord
 
-**Owner:** Concord Township? Or the Church?
+**Owner:** ?
 
 **Religious affiliation:** Christian
 
@@ -21,5 +21,7 @@
 **Findagrave:** https://www.findagrave.com/cemetery/84169
 
 **IHSSI #:** 	033-274-45021
+
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-1
 
 **Misc. notes:** Originally created for members of the Coburntown Church of Christ, now called Coburn Corners Church of Christ
