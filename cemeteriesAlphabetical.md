@@ -9,7 +9,7 @@
 
 ## Cemeteries
 - [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
-- [Auburn Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AuburnMausoleum.md "Auburn Mausoleum)
+- [Auburn Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AuburnMausoleum.md "Auburn Mausoleum")
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
 - [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
 - [Big Run Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BigRun.md "Big Run Cemetery")
