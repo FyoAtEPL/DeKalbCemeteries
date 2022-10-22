@@ -13,7 +13,7 @@ Summit, Indiana, 46793
 
 **Owner:** ?
 
-**Religious affiliation:** ?
+**Religious affiliation:** Methodist
 
 **Status:** Inactive
 
@@ -23,6 +23,6 @@ Summit, Indiana, 46793
 
 **IHSSI #:** 	033-024-10010
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-29
 
-**Misc. notes:**
+**Misc. notes:** None
