@@ -14,7 +14,7 @@
 
 **Religious affiliation:** Christian
 
-**Status:** Remains in use
+**Status:** Active
 
 **Photo of entrance:**
 
