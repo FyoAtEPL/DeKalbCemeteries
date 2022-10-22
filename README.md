@@ -5,9 +5,6 @@
 This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goal is to make an index that is easily accessible by patrons of the Willenar Genealogy Center, a service of Eckhart Public Library. 
 
 
-
-
-      
 ### Overview of DeKalb County, Indiana
 
 DeKalb County, Indiana, is located in the northeast corner of the state. It is made up of fifteen townships and the county seat is Auburn. 
@@ -20,13 +17,7 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 ### Maps
 
 **Map of Cemeteries in DeKalb County**
-- [Google Earth](https://earth.google.com/earth/d/1IkB4vdsmJQTE0EF9CAFmJNGzmwCz2O-d?usp=sharing "Google Earth")
-  - [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DeKalb%20Cemeteries.kml "KML file")
-- [Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1VvFjn6Nm9cvcaRyBaIXMSityjvwoAlY&usp=sharing "Google Maps")
-
-**DeKalb County Maps**
-- [Google Earth](https://earth.google.com/earth/d/1F5oxFNJNDPWA4ebYEm9J0zgwRtdOunnW?usp=sharing "Google Earth")
-  - [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DeKalb%20Map.kml "KML file")
+- 10/22/22 - Maps currently being updated
 
 ### Links
 - [DeKalb County Homepage](https://www.co.dekalb.in.us/ "DeKalb County Homepage")
