@@ -12,7 +12,7 @@
 
 **Owner:** ?
 
-**Religious affiliation:** ?
+**Religious affiliation:** Roman Catholic
 
 **Status:** Active
 
