@@ -50,6 +50,7 @@
 - Dunn Cemetery
 - Husselman Cemetery
 - Lutz Cemetery
+- Ridge Cemetery
 - Stroh Cemetery
 - Tamarack Cemetery
 - Waterloo Cemetery
@@ -79,7 +80,6 @@
 - Barkers Chapel Cemetery
 - Forney Cemetery
 - Renner Cemetery
-- Ridge Cemetery
 - Saint Michael the Archangel Catholic Cemetery
 - Schiffli Cemetery
 - Wilhelm Farm Cemetery
