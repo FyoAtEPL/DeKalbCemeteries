@@ -103,7 +103,7 @@
 - Auburn Mausoleum
 - Catholic Cemetery
 - Cosper Cemetery
-- Evergreen Cemetry - Auburn
+- Evergreen Cemetery - Auburn
 - Mott Cemetery
 - Old Auburn Cemetery
 - Roselawn Cemetery
