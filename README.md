@@ -21,14 +21,11 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 
 ### Links
 - [DeKalb County Homepage](https://www.co.dekalb.in.us/ "DeKalb County Homepage")
-- [Eckhart Public Library](https://www.epl.lib.in.us/ "Eckhart Public Library")
+- [DeKalb County Cemeteries on Find A Grave](https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-loc=DeKalb+County%2C+Indiana%2C+United+States+of+America&only-with-cemeteries=cemOnly&locationId=county_808&page=1#cem-84169/ "DeKalb County Cemeteries on Find A Grave")
+- [DeKalb County, Indiana Genweb Project - Cemeteries](http://ingenweb.org/indekalb/cemetery/cem.html "DeKalb County, Indiana Genweb Project - Cemeteries")
+- [Eckhart Public Library Homepage](https://www.epl.lib.in.us/ "Eckhart Public Library Homepage")
 - [Indiana State Historic Architectural and Archaeological Research Database (SHAARD)](https://secure.in.gov/apps/dnr/shaard/welcome.html "Indiana State Historic Architectural and Archaeological Research Database (SHAARD)")
-- [Willenar Genealogy Center](https://epl.lib.in.us/genealogy/ "Willenar Genealogy Center")
+- [Willenar Genealogy Center Homepage](https://epl.lib.in.us/genealogy/ "Willenar Genealogy Center Homepage")
 
-
-### Sources
-“Search Cemeteries - Find A Grave.” Accessed September 25, 2022. https://www.findagrave.com/cemetery/search?cemetery-name=&cemetery-loc=DeKalb+County%2C+Indiana%2C+United+States+of+America&only-with-cemeteries=cemOnly&locationId=county_808&page=1#cem-84169.
-
-“The DeKalb County, Indiana GenWeb Project - Cemeteries.” Accessed September 25, 2022. http://ingenweb.org/indekalb/cemetery/cem.html.
 
 [![Eckhart Public Library Logo](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/EPL%20logo.png "Eckhart Public Library Logo")](https://epl.lib.in.us/)
