@@ -13,21 +13,21 @@
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
 - [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
 - [Big Run Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BigRun.md "Big Run Cemetery")
-- Butler Cemetery
-- Butler Memorial Gardens
-- Calvary Cemetery
-- Catholic Cemetery
-- Cedar Creek Cemetery
-- Cedar Lake Cemetery
-- Christian Union Cemetery
-- Concord Cemetery
-- Corunna Cemetery
-- Cosper Cemetery
-- Cotrell Cemetery (No longer extant)
-- Dunn Cemetery
-- Eddy Cemetery
-- Embrey Cemetery
-- Evergreen Cemetery - Auburn
+- [Butler Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Butler.md "Butler Cemetery")
+- [Butler Memorial Gardens](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ButlerMemorialGardens.md "Butler Memorial Gardens")
+- [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
+- [Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CatholicCemetery.md "Catholic Cemetery")
+- [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
+- [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
+- [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
+- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
+- [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
+- [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
+- [Eddy Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EddyCemetery.md "Eddy Cemetery")
+- [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
+- [Evergreen Cemetery - Auburn](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenAuburn.md "Evergreen Cemetery - Auburn")
 - Evergreen Cemetery - Newville
 - Fairfield Cemetery
 - Forney Cemetery
@@ -62,6 +62,7 @@
 - Sixteen Cemetery
 - Snyder Burial Ground
 - Southlawn Cemetery
+- [Spencer Township Amish Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/SpencerAmish.md "Spencer Township Amish Cemetery")
 - Stroh Cemetery
 - Tamarack Cemetery
 - Wartenbe Cemetery
