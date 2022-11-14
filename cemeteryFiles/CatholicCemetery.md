@@ -1,5 +1,8 @@
 # Catholic Cemetery
 
+
+![Catholic Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/CatholicCemetery.png "Catholic Cemetery Entrance")
+
 **Alternate Names:** Immaculate Conception Catholic Cemetery
 
 **Date Established:** 1881
@@ -23,5 +26,3 @@
 **IHSSI #:** 	003-664-50007
 
 **Indiana Register of Historic Sites and Structures Cemetery Register #:** 	CR-17-42
-
-**Misc. notes:** None
