@@ -2,7 +2,7 @@
 
 **Alternate Names:** None
 
-**Oldest Burial** 1857
+**Oldest Burial:** 1857
 
 **Address:** County Road 31, Waterloo, DeKalb County, Indiana, USA
 
