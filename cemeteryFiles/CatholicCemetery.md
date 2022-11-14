@@ -19,8 +19,6 @@
 
 **Status:** Active
 
-**Photo of entrance:**
-
 **Findagrave:** https://www.findagrave.com/cemetery/1968931
 
 **IHSSI #:** 	003-664-50007
