@@ -1,27 +1,29 @@
-# Cemetery Name
+# Fairfield Cemetery
 
-**Alternate Names:** 
+**Alternate Names:** None
 
-**Date Established:** 
+**Date Established:** 1850
 
-**Address:** 
+**Oldest Burial:** 1852
 
-**Coordinates:** 
+**Address:** 1311 DeKalb, Co Rd 12, Corunna, IN 46730
 
-**Township:** 
+**Coordinates:**  41.48221, -85.12550
 
-**Owner:** 
+**Township:** Fairfield
 
-**Religious affiliation:** 
+**Owner:** ?
 
-**Status:** 
+**Religious affiliation:** Lutheran
+
+**Status:** Active
 
 **Photo of entrance:**
 
-**Findagrave:** 
+**Findagrave:** https://www.findagrave.com/cemetery/1714855
 
-**IHSSI #:** 	
+**IHSSI #:** 033-133-15031
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-6
 
-**Misc. notes:**
+**Misc. notes:** Has two sections: the original section was called Old Township Cemetery
