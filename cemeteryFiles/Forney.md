@@ -1,27 +1,25 @@
-# Cemetery Name
+# Forney Cemetery
 
-**Alternate Names:** 
+**Alternate Names:** None
 
-**Date Established:** 
+**Oldest Burial** 1857
 
-**Address:** 
+**Address:** County Road 31, Waterloo, DeKalb County, Indiana, USA
 
-**Coordinates:** 
+**Coordinates:** 41.49847, -85.04510
 
-**Township:** 
+**Township:** Smithfield
 
-**Owner:** 
+**Owner:** ?
 
 **Religious affiliation:** 
 
-**Status:** 
+**Status:** No longer extant
 
 **Photo of entrance:**
 
-**Findagrave:** 
+**Findagrave:** https://www.findagrave.com/cemetery/2339470
 
-**IHSSI #:** 	
+**IHSSI #:** 	None
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-31
