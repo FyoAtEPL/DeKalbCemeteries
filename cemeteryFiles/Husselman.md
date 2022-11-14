@@ -1,27 +1,29 @@
-# Cemetery Name
+# Husselman Cemetery
 
-**Alternate Names:** 
+**Alternate Names:** None
 
-**Date Established:** 
+**Date Established:** Land deeded by Daniel Husselman and Susan Margaret Husselman, his wife, to Salem Church, March 28, 1866
 
-**Address:** 
+**Oldest Grave** 1852
 
-**Coordinates:** 
+**Address:** County Road 36, Auburn, DeKalb County, Indiana
 
-**Township:** 
+**Coordinates:** 41.39688, -85.03933
 
-**Owner:** 
+**Township:** Grant
+
+**Owner:** Grant Township
 
 **Religious affiliation:** 
 
-**Status:** 
+**Status:** Inactive
 
 **Photo of entrance:**
 
-**Findagrave:** 
+**Findagrave:** https://www.findagrave.com/cemetery/2166714 
 
-**IHSSI #:** 	
+**IHSSI #:** None
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-12
 
-**Misc. notes:**
+**Misc. notes:** The earliest grave is of Mary (possibly nicknamed "Polly") Husselman, d. Sept. 1852. This date is sometimes erroneously given as May 23, 1851.
