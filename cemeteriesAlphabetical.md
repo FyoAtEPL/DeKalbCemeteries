@@ -66,7 +66,8 @@
 - Stroh Cemetery
 - Tamarack Cemetery
 - Wartenbe Cemetery
-- Waterloo Cemetery
+- Waterloo City Cemetery
+- Waterloo Memorial Cemetery
 - Watson Cemetery
 - White City Cemetery
 - Wilhelm Farm Cemetery
