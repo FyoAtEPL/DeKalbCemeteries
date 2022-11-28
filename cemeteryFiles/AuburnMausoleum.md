@@ -18,7 +18,7 @@
 
 **Photo of entrance:** 
 
-**Findagrave:** [https://www.findagrave.com/cemetery/2537633](https://www.findagrave.com/cemetery/2537633 "Findagrave)
+**Findagrave:** [https://www.findagrave.com/cemetery/2537633](https://www.findagrave.com/cemetery/2537633 "Findagrave")
 
 **IHSSI #:** None
 
