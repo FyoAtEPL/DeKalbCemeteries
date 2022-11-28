@@ -12,7 +12,7 @@
 
 **Owner:** ?
 
-**Religious affiliation:** ?
+**Religious affiliation:** Baptist
 
 **Status:** Active
 
@@ -22,6 +22,6 @@
 
 **IHSSI #:** 	033-085-35003
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-38
 
 **Misc. notes:** Next to the decommissioned Big Run Church
