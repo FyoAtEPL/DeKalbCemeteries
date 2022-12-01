@@ -2,8 +2,11 @@
 
 ### Project Overview
 
-This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goal is to make an index that is easily accessible by patrons of the Willenar Genealogy Center, a service of Eckhart Public Library. 
+This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goal is to make an index that is easily accessible by patrons of the Willenar Genealogy Center, a service of Eckhart Public Library. When complete, it will consist of an online version and a printed edition available for reference at WGC.
 
+#### Purpose of this Github repository
+
+This repository is the current collection of files and page drafts for the index. All files are not final, I am adding and updating information on a weekly basis.
 
 ### Overview of DeKalb County, Indiana
 
