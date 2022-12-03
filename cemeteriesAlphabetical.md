@@ -61,7 +61,7 @@
 - [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 - [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
 - [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
-- [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery")
+- [Southlawn Cemetery (Section of Woodlawn Cemetery)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery (Section of Woodlawn Cemetery))
 - [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
 - [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
