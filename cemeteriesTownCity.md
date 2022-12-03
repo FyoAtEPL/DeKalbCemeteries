@@ -57,28 +57,28 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
 
 ### Fairfield Center
-- Fairfield Cemetery
-- Old Township Cemetery
-- Zion Lutheran Cemetery
+- [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
+- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
 
 ### Garrett
-- Calvary Cemetery
-- Christian Union Cemetery
+- [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
+- [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
 
 ### Hamilton (On the border of DeKalb and Steuben Counties)
-- Eddy Cemetery
+- [Eddy Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EddyCemetery.md "Eddy Cemetery")
 
 ### Moore
-- Cosper Cemetery
-- Mount Pleasant Cemetery
+- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
+- [Mount Pleasant Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/MountPleasant.md "Mount Pleasant Cemetery")
 
 ### Newville
-- Cotrell Cemetery (estimated location)
-- Evergreen Cemetery - Newville
-- Kraft Cemetery
-- Newville Burying Grounds
-- Riverview Cemetery
-- Wartenbe Cemetery
+- [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
+- [Evergreen Cemetery - Newville](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenNewville.md "Evergreen Cemetery - Newville")
+- [Krafft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krafft.md "Krafft Cemetery")
+- [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
+- [Riverview Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Riverview.md "Riverview Cemetery")
+- [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
 
 ### Orangeville
 - Alton Cemetery
