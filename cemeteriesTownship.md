@@ -25,35 +25,35 @@
 - [Wilmington Township](#wilmington-township)
 
 # Butler Township
-- Lutheran Church Cemetery
-- Cedar Creek Cemetery
-- Snyder Burial Ground
+- [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
+- [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
+- [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
 
 # Concord Township
 - [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
-- Concord Cemetery
-- Jenkins Cemetery
-- Orangeville Cemetery (Unlocated)
-
+- [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
+- [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
+- [Orangeville Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery (Unlocated)")
 # Fairfield Township
-- Fairfield Cemetery
-- Hessen Cassel Cemetery
-- Old Township Cemetery
-- Zion Lutheran Cemetery
+- [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
+- [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
+- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
 
 # Franklin Township
-- Cedar Lake Cemetery
-- Newcomer Cemetery
-- Rude Cemetery
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Newcomer Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Newcomer.md "Newcomer Cemetery")
+- [Rude Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rude.md "Rude Cemetery")
 
 # Grant Township
-- Dunn Cemetery
-- Husselman Cemetery
-- Lutz Cemetery
-- Ridge Cemetery
-- Stroh Cemetery
-- Tamarack Cemetery
-- Waterloo Cemetery
+- [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
+- [Husselman Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Husselman.md "Husselman Cemetery")
+- [Lutz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Lutz.md "Lutz Cemetery")
+- [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
+- [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
+- [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
+- [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
+- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
 
 # Keyser Township
 - Calvary Cemetery
