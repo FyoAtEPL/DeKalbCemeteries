@@ -81,31 +81,31 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
 
 ### Orangeville
-- Alton Cemetery
+- [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
 
 ### Sedan
-- Hessan Cassel Cemetery
-- Sedan Cemetery
+- [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
+- [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 
 ### Spencerville
-- White City Cemetery
+- [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
 
 ### St. Joe
-- Riverside Cemetery
+- [Riverside Cemetery - St. Joe](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/RiversideStJoe.md "Riverside Cemetery - St. Joe")
 
 ### St. Johns
-- Snyder Burial Ground
+- [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
 
 ### Stafford Center
-- Rose Cemetery (estimated location)
+- [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery") (Estimated Location)
 
 ### Waterloo
-- Cedar Lake Cemetery
-- Dunn Cemetery
-- Lutz Cemetery
-- Ridge Cemetery
-- Stroh Cemetery
-- Tamarack Cemetery
-- Waterloo City Cemetery
-- Waterloo Memorial Cemetery
-- Wilhelm Farm Cemetery
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
+- [Lutz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Lutz.md "Lutz Cemetery")
+- [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
+- [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
+- [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
+- [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
+- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
+- [Wilhelm Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WilhelmFarm.md "Wilhelm Farm Cemetery")
