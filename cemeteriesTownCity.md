@@ -10,64 +10,103 @@
 
 ---
 
-DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses.
+DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles.
 ## Towns
 
 ### Altona
-### Artic
+- Embrey Cemetery
 ### Ashley (On the border of DeKalb and Steuben Counties)
+- Barkers Chapel Cemetery
+- Forney Cemetery
+- Renner Cemetery
+- St. Michael Catholic Cemetery
+- Schiffli Cemetery
 
 ### Auburn
 - Auburn Mausoleum
 - Catholic Cemetery
-- Evergreen Cemetery
+- Evergreen Cemetery - Auburn
 - Husselman Cemetery
 - Mott Cemetery
-- Southlawn Cemetery
+- Old Auburn Cemetery
+- Poor Farm Cemetery
+- Roselawn Cemetery
+- Southlawn Cemetery (Section of Woodlawn Cemetery)
 - Woodlawn Cemetery
-### Auburn Junction
-### Butler
+
+### Butler (Wilmington Township)
 - Big Run Cemetery
 - Butler Cemetery
 - Butler Memorial Gardens
-### Butler Center
-- Ceder Creek Cemetery
+- Krontz Cemetery
+- Newcomer Cemetery
+- Norris Cemetery
+- Rude Cemetery
+
+### Butler Center (Butler Township)
+- Cedar Creek Cemetery
 - Lutheran Church Cemetery
-### Cedar
+
 ### Concord
 - Bear Creek Cemetery
+- Concord Cemetery
+- Jenkins Cemetery
+- Watson Cemetery
+
 ### Corunna
 - Corunna Cemetery
 - Sixteen Cemetery
+
 ### Fairfield Center
 - Fairfield Cemetery
+- Old Township Cemetery
 - Zion Lutheran Cemetery
+
 ### Garrett
 - Calvary Cemetery
-- Embrey Cemetery
-  - Embrey Cemetery has a La Otto (Noble County) address but is within the boundary of Keyser Township, DeKalb County)
+- Christian Union Cemetery
+
 ### Hamilton (On the border of DeKalb and Steuben Counties)
-### Hopewell
+- Eddy Cemetery
+
 ### Moore
-### New Era
+- Cosper Cemetery
+- Mount Pleasant Cemetery
+
 ### Newville
+- Cotrell Cemetery (estimated location)
+- Evergreen Cemetery - Newville
+- Kraft Cemetery
+- Newville Burying Grounds
+- Riverview Cemetery
+- Wartenbe Cemetery
+
 ### Orangeville
-### Saint Joe
 - Alton Cemetery
-### Saint Johns
-- Snyder Burial Ground
+
 ### Sedan
 - Hessan Cassel Cemetery
 - Sedan Cemetery
+
 ### Spencerville
-- 
+- White City Cemetery
+
+### St. Joe
+- Riverside Cemetery
+
+### St. Johns
+- Snyder Burial Ground
+
 ### Stafford Center
-### Summit
-- Barkers Chapel Cemetery
-### Taylor Corner
+- Rose Cemetery (estimated location)
+
 ### Waterloo
+- Cedar Lake Cemetery
 - Dunn Cemetery
+- Lutz Cemetery
 - Ridge Cemetery
 - Stroh Cemetery
 - Tamarack Cemetery
-- Waterloo Cemetery
+- Waterloo City Cemetery
+- Waterloo Memorial Cemetery
+- Wilhelm Farm Cemetery
