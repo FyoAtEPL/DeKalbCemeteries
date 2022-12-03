@@ -32,6 +32,7 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 - [DeKalb County, Indiana Genweb Project - Cemeteries](http://ingenweb.org/indekalb/cemetery/cem.html "DeKalb County, Indiana Genweb Project - Cemeteries")
 - [Eckhart Public Library Homepage](https://www.epl.lib.in.us/ "Eckhart Public Library Homepage")
 - [Indiana State Historic Architectural and Archaeological Research Database (SHAARD)](https://secure.in.gov/apps/dnr/shaard/welcome.html "Indiana State Historic Architectural and Archaeological Research Database (SHAARD)")
+  - To access SHAARD, click "Enter SHAARD as a guest" in the upper-righthand corner. On the following page, check the box for "I accept the above terms and conditions" and click "Continue".
 - [Willenar Genealogy Center Homepage](https://epl.lib.in.us/genealogy/ "Willenar Genealogy Center Homepage")
 
 
