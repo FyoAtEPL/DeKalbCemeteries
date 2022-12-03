@@ -12,7 +12,7 @@ This repository is the current collection of files and page drafts for the index
 
 DeKalb County, Indiana, is located in the northeast corner of the state. It is made up of fifteen townships and the county seat is Auburn. The County Road (CR) system is laid out on a grid, with odd-numbered roads running North-South and even-numbered roads running East-West.
 
-### Cemeteries
+### Cemetery Lists
 - [:a: View alphabetical list of cemeteries](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesAlphabetical.md "View alphabetical list of cemeteries")
 - [:houses: View list of cemeteries by township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View list of cemeteries by township")
 - [:cityscape: View list of cemeteries by town/city](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownCity.md "View list of cemeteries by town or city")
