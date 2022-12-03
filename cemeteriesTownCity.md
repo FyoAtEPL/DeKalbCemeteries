@@ -33,7 +33,7 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery")
 - [Woodlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Woodlawn Cemetery")
 
-### Butler (Wilmington Township)
+### Butler (Stafford Township)
 - [Big Run Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BigRun.md "Big Run Cemetery")
 - [Butler Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Butler.md "Butler Cemetery")
 - [Butler Memorial Gardens](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ButlerMemorialGardens.md "Butler Memorial Gardens")
