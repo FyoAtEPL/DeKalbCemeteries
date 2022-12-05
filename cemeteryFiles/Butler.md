@@ -20,8 +20,8 @@
 
 **Findagrave:** https://www.findagrave.com/cemetery/656831
 
-**IHSSI #:** 	033-085-35003
+**IHSSI #:** 	033-085-35002 (Incorrectly listed as 033-05-35003 on SHAARD Cemetery Registry page)
 
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
+**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-39
 
 **Misc. notes:**
