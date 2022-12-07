@@ -1,27 +1,35 @@
 # Cemetery Name
 
-**Alternate Names:** 
+### Geographical Information
+- **Address:**
+- **Coordinates:**
+- **Township:**
+- **Nearest town:**
+- *Google Earth Image*
+- *Google Maps Image*
 
-**Date Established:** 
+### Ownership and Access Information
+- **Status:**
+- **Owner:**
+- **Accessibility:**
+- **Hours:**
 
-**Address:** 
+### Cemetery Information
+- **Alternate names:**
+- **Relation to other cemeteries (expansion, merged with, close to but not part of, etc.):**
+- **Date established:**
+- **Earliest date found on a headstone:**
+- **Earliest burial:**
+- **Number of graves:**
+- **Notable monuments:**
+- **Notable burials:**
+- **Religious Affiliation:**
 
-**Coordinates:** 
+### Other Indexes
+- **Findagrave:**
+- **SHAARD #:**
+- **DNR Survey #:**
+- **BillionGraves:**
 
-**Township:** 
-
-**Owner:** 
-
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- Cemetery book at WGC
