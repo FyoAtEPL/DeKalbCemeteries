@@ -33,3 +33,6 @@
 
 ### WGC
 - **Cemetery book at WGC:** Yes
+
+### Information
+Originally created for members of the Coburntown Church of Christ (Now Coburn Corners).
