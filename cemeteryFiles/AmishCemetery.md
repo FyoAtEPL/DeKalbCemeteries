@@ -1,29 +1,36 @@
-# Amish Cemetery
+## Amish Cemetery
 
-**Alternate Names:** None
+### Geographical Information
+- **Address:** ?
+- **Coordinates:** ?
+- **Township:** Spencer
+- **Nearest town:** ?
+- *Google Earth Image*
+- *Google Maps Image*
 
-**Date Established:** ?
+### Ownership and Access Information
+- **Status:** ?
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Address:** ?
+### Cemetery Information
+- **Alternate names:** ?
+- **Relation to other cemeteries:** ?
+- **Date established:** ?
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** Amish
 
-**Coordinates:** ?
+### Other Indexes
+- **Findagrave:** None
+- **BillionGraves:** None
+- **SHAARD #:** None
+- **DNR Survey #:** CR_17-35
 
-**Township:** Spencer
 
-**Owner:** ?
-
-**Religious affiliation:** Amish (Christain)
-
-**Status:** ? 
-
-**Photo of entrance:**
-
-**Findagrave:** None
-
-**BillionGraves:** None
-
-**IHSSI #:** None
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-35
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
