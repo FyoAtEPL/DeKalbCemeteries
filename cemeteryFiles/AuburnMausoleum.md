@@ -1,27 +1,36 @@
 # Auburn Mausoleum
+![Auburn Mausoleum on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/MausoleumEarth.png "Auburn Mausoleum on Google Earth")
 
-**Alternate Names:** Roselawn Mausoleum, Auburn Community Mausoleum
+### Geographical Information
+- **Address:** 1431 Center Street, Auburn, DeKalb County, Indiana, 46706
+- **Coordinates:** 41.35651, -85.04910
+- **Township:** Union
+- **Nearest town:** Auburn
+- *Google Maps Image*
 
-**Date Established:** 1918
+### Ownership and Access Information
+- **Status:** ?
+- **Owner:** Auburn Mausoleum Association
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Address:** 1431 Center Street, Auburn, DeKalb County, Indiana, 46706 USA
+### Cemetery Information
+- **Alternate names:** Auburn Community Mausoleum, Roselawn Mausoleum
+- **Relation to other cemeteries:** Next to Roselawn and Woodlawn Cemeteries but not part of either
+- **Date established:** 1917
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** ?
 
-**Coordinates:** 41.35651, -85.04910
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2537633
+- **BillionGraves:** None
+- **SHAARD #:** None
+- **DNR Survey #:** None
 
-**Township:** Union
 
-**Owner:** ?
-
-**Religious affiliation:** ?
- 
-**Status:** ?
-
-**Photo of entrance:** 
-
-**Findagrave:** [https://www.findagrave.com/cemetery/2537633](https://www.findagrave.com/cemetery/2537633 "Findagrave")
-
-**IHSSI #:** None
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** None
-
-**Misc. notes:** While it is located within Roselawn Cemetery, it is a separate entity and not part of Roselawn.
+### WGC
+- **Cemetery book at WGC:** Yes
