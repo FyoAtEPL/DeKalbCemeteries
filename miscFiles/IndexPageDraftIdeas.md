@@ -3,7 +3,7 @@
 ### Geographical Information
 - **Address:**
 - **Coordinates:**
-- ** Township:**
+- **Township:**
 - **Nearest town:**
 - *Google Earth Image*
 - *Google Maps Image*
