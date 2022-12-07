@@ -4,9 +4,9 @@
 
 **Date Established:** ?
 
-**Address:** TBD
+**Address:** ?
 
-**Coordinates:** TBD
+**Coordinates:** ?
 
 **Township:** Spencer
 
@@ -19,6 +19,8 @@
 **Photo of entrance:**
 
 **Findagrave:** None
+
+**BillionGraves:** None
 
 **IHSSI #:** None
 
