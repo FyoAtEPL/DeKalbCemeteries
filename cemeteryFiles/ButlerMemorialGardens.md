@@ -1,27 +1,37 @@
 # Butler Memorial Gardens
+![Butler Memorial Gardens on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/ButlerMemorialEarth.png "Butler Memorial Gardens on Google Earth")
 
-**Alternate Names:** None
+### Geographical Information
+- **Address:** 7565 County Road 28, Butler, DeKalb County, Indiana, 46721 USA
+- **Coordinates:** 41.43078, -84.83417
+- **Township:** Stafford
+- **Nearest town:** Butler
 
-**Date Established:** Ca. 2010
+- *Google Maps Image*
 
-**Address:** 7565 County Road 28, Butler, DeKalb County, Indiana, 46721
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** City of Butler
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.43078, -84.83417
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** ca. 2010
+- **Earliest date found on a headstone:** 2010?
+- **Earliest burial:** 2010?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** Stafford  
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2743617
+- **BillionGraves:** https://billiongraves.com/cemetery/Butler-Memorial-Gardens/327637
+- **SHAARD #:** None
+- **DNR Survey #:** None
 
-**Owner:** City of Butler
 
-**Religious affiliation:** None
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/2743617
-
-**IHSSI #:** 	None
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** None
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
