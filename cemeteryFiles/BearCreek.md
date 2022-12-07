@@ -1,27 +1,37 @@
 # Bear Creek Cemetery
 
-**Alternate Names:** None
+![Bear Creek Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/BearEarth.png "Bear Creek Cemetery on Google Earth")
 
-**Date Established:** 1850
+### Geographical Information
+- **Address:** County Road 45, Spencerville, IN 46788 
+- **Coordinates:** 41.30750, -84.97310
+- **Township:** Spencer
+- **Nearest town:** Concord
+- *Google Maps Image*
 
-**Address:** County Road 45, Spencerville, IN 46788 
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.30750, -84.97310
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** 1850
+- **Earliest date found on a headstone:** 1853
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** Spencer
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84267
+- **BillionGraves:** https://billiongraves.com/cemetery/Bear-Creek-Cemetery/26700
+- **SHAARD #:** 033-564-65016
+- **DNR Survey #:** CR-17-19
 
-**Owner:** ?
 
-**Religious affiliation:** ?
-
-**Status:** Inactive
-
-**Photo of entrance:**
-
-**Findagrave:** [https://www.findagrave.com/cemetery/84267](https://www.findagrave.com/cemetery/84267 "Findagrave")
-
-**IHSSI #:** 	033-564-65016
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** 	CR-17-19
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
