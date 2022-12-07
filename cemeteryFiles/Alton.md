@@ -1,5 +1,7 @@
 # Alton Cemetery
 
+![](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/AltonEarth.png)
+
 **Alternate Names:** Alton Park Cemetery
 
 **Date Established:** Sept. 13, 1839
@@ -19,6 +21,8 @@
 **Photo of entrance:**
 
 **Findagrave:** https://www.findagrave.com/cemetery/84169
+
+**BillionGraves:** https://billiongraves.com/cemetery/Alton-Cemetery/26518
 
 **IHSSI #:** 	033-274-45021
 
