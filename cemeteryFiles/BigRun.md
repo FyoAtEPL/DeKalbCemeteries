@@ -1,27 +1,38 @@
 # Big Run Cemetery
 
-**Alternate Names:** None
+### Geographical Information
+- **Address:** 2938 Co Rd 75, Butler, IN 46721
+- **Coordinates:** 41.42840, -84.83308
+- **Township:** Butler
+- **Nearest town:** Butler
+- *Google Earth Image*
+- *Google Maps Image*
 
-**Date Established:** 1838
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Address:** 2938 Co Rd 75, Butler, IN 46721
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries (expansion, merged with, close to but not part of, etc.):** 
+- **Date established:** 1838
+- **Earliest date found on a headstone:** 1838
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** Baptist
 
-**Coordinates:** 41.42840, -84.83308
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2189822 
+- **BillionGraves:** https://billiongraves.com/cemetery/Big-Run-Cemetery/327638
+- **SHAARD #:** 033-085-35003
+- **DNR Survey #:** CR-17-38
 
-**Township:** Stafford
+### WGC
+- **Cemetery book at WGC:**
 
-**Owner:** ?
-
-**Religious affiliation:** Baptist
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** [https://www.findagrave.com/cemetery/2189822](https://www.findagrave.com/cemetery/2189822 "Findagrave")
-
-**IHSSI #:** 	033-085-35003
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-38
-
-**Misc. notes:** Next to the decommissioned Big Run Church
+### Information
+Next to the decommissioned Big Run Church.
