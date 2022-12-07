@@ -1,27 +1,37 @@
 # Calvary Cemetery
 
-**Alternate Names:** None
+![Calvary Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/CalvaryEarth.png "Calvary Cemetery on Google Earth")
 
-**Date Established:** 1897
+### Geographical Information
+- **Address:** 600 S Hamsher St, Garrett, IN 46738
+- **Coordinates:** 41.34470, -85.14440
+- **Township:** Keyser
+- **Nearest town:** Garrett
+- *Google Maps Image*
 
-**Address:** 600 S Hamsher St, Garrett, IN 46738
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.34470, -85.14440
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** 1897
+- **Earliest date found on a headstone:** 1870
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** Roman Catholic
 
-**Township:** Keyser
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84537
+- **BillionGraves:** https://billiongraves.com/cemetery/Calvary-Cemetery/27186
+- **SHAARD #:** 033-231-57015
+- **DNR Survey #:** CR-17-21
 
-**Owner:** ?
 
-**Religious affiliation:** Roman Catholic
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84537
-
-**IHSSI #:** 		033-231-57015
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** 	CR-17-21
-
-**Misc. notes:** None
+### WGC
+- **Cemetery book at WGC:** Yes
