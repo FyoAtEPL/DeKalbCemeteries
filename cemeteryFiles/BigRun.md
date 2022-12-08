@@ -32,7 +32,7 @@
 - **DNR Survey #:** CR-17-38
 
 ### WGC
-- **Cemetery book at WGC:**
+- **Cemetery book at WGC:** Yes
 
 ### Information
 Next to the decommissioned Big Run Church.
