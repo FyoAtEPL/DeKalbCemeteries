@@ -1,27 +1,39 @@
 # Evergreen Cemetery - Auburn
 
-**Alternate Names:** None
+![Evergreen Cemetery (Auburn) Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/EvergreenAuburn.png "Evergreen Cemetery - Auburn - Entrance")
 
-**Date Established:** ?
+![Evergreen Cemetery (Auburn) on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/EvergreenAuburnEarth.png "Evergreen Cemetery - Auburn-  on Google Earth")
 
-**Address:** 1010 S Union St, Auburn, IN 46706
+### Geographical Information
+- **Address:** 1010 S Union St, Auburn, IN 46706
+- **Coordinates:** 41.36151, -85.05288
+- **Township:** Union
+- **Nearest town:** Auburn
+- *Google Maps Image*
 
-**Coordinates:** 41.36151, -85.05288
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** ?
+- **Accessibility:** Accessible from street. Unlocked gate. Flat ground.
+- **Hours:** ?
 
-**Township:** Union
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** Next to Old Auburn Cemetery, which is sometimes called Old Evergreen Cemetery, suggesting a connection between them.
+- **Date established:** ?
+- **Earliest date found on a headstone:** 1815
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** Baptist, Roman Catholic
 
-**Owner:** ?
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84950
+- **BillionGraves:**  https://billiongraves.com/cemetery/Evergreen-Cemetery/335203
+- **SHAARD #:** 033-027-54128
+- **DNR Survey #:** CR-17-44
 
-**Religious affiliation:** ?
 
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84950
-
-**IHSSI #:** 	033-027-54128
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-44
-
-**Misc. notes:** None
+### WGC
+- **Cemetery book at WGC:** No
