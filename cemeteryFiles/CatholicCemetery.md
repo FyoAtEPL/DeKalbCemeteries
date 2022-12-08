@@ -18,7 +18,7 @@
 
 ### Ownership and Access Information
 - **Status:** Active
-- **Owner:** Immacculate Conception Catholic Church?
+- **Owner:** Immacculate Conception Catholic Church
 - **Accessibility:** No gate. Easily accessed by public. Flat ground, no hills. 
 - **Hours:** Open until sundown (need to verify)
 
