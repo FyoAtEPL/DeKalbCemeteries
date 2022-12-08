@@ -1,27 +1,37 @@
 # Concord Cemetery
+![Concord Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/ConcordEarth.png "Concord Cemetery on Google Earth")
 
-**Alternate Names:** Coburn Cemetery , Morr Cemetery
+### Geographical Information
+- **Address:** Near intersection of County Road 47 and 56, St Joe, IN 46785
+- **Coordinates:**  41.32560, -84.96335
+- **Township:** Concord
+- **Nearest town:** Concord
+- *Google Maps Image*
 
-**Date Established:** 1844
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Address:** Near intersection of County Road 47 and 56, St Joe, IN 46785
+### Cemetery Information
+- **Alternate names:** Coburn Cemetery , Morr Cemetery
+- **Relation to other cemeteries:** None
+- **Date established:** 1844
+- **Earliest date found on a headstone:** 1844
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Coordinates:** 41.32560, -84.96335
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84698
+- **BillionGraves:** https://billiongraves.com/cemetery/Concord-Cemetery/27474
+- **SHAARD #:** 033-564-45017
+- **DNR Survey #:** CR-17-43
 
-**Township:** Concord
 
-**Owner:** ?
+### WGC
+- **Cemetery book at WGC:** No
 
-**Religious affiliation:** ?
-
-**Status:** Inactive
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84698
-
-**IHSSI #:** 033-564-45017
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-43
-
-**Misc. notes:** None
