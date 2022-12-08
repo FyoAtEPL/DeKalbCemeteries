@@ -1,27 +1,37 @@
 # Eddy Cemetery
 
-**Alternate Names:** None
+![Eddy Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/EddyEarth.png "Eddy Cemetery on Google Earth")
 
-**Date Established:** 1836
+### Geographical Information
+- **Address:** Near intersection of County Road 4A and 71, Hamilton, DeKalb County
+- **Coordinates:** 41.51710, -84.85200
+- **Township:** Troy
+- **Nearest town:** Hamilton
+- *Google Maps Image*
 
-**Address:** Near intersection of County Road 4A and 71, Hamilton, DeKalb County, 
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.51710, -84.85200
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** 1836
+- **Earliest date found on a headstone:** 1841
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ? 
+- **Notable burials:** John Houlton, first settler of DeKalb County
+- **Religious Affiliation:** Baptist, Roman Catholic
 
-**Township:** Troy
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84906
+- **BillionGraves:** https://billiongraves.com/cemetery/Eddy-Cemetery/27833
+- **SHAARD #:** 033-182-00007
+- **DNR Survey #:** CR-17-41
 
-**Owner:** ?
 
-**Religious affiliation:** ?
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84906
-
-**IHSSI #:** 033-182-00007
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-41
-
-**Misc. notes:** John Houlton, first settler of DeKalb County, is buried here
+### WGC
+- **Cemetery book at WGC:** Yes
