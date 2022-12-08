@@ -75,7 +75,7 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 ### Newville
 - [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
 - [Evergreen Cemetery - Newville](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenNewville.md "Evergreen Cemetery - Newville")
-- [Krafft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krafft.md "Krafft Cemetery")
+- [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
 - [Riverview Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Riverview.md "Riverview Cemetery")
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
