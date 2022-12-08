@@ -1,27 +1,38 @@
-# Cosper Cemetery
+![Cosper Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/CosperEarth.png "Cosper Cemetery on Google Earth")
 
-**Alternate Names:** Union Chapel Cemetery
+### Geographical Information
+- **Address:** Near intersection of State Road 8 and County Road 45, Auburn, IN 46706
+- **Coordinates:** 41.36297, -84.97565
+- **Township:** Union
+- **Nearest town:** Moore
+- *Google Earth Image*
 
-**Date Established:** ?
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Address:** Near intersection of State Road 8 and County Road 45, Auburn, IN 46706
+### Cemetery Information
+- **Alternate names:** Union Chapel Cemetery
+- **Relation to other cemeteries:** ?
+- **Date established:** ?
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Coordinates:** 41.36297, -84.97565
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84736
+- **BillionGraves:** https://billiongraves.com/cemetery/Cosper-Cemetery/27538
+- **SHAARD #:** None
+- **DNR Survey #:** None
 
-**Township:** Union
 
-**Owner:** ?
+### WGC
+- **Cemetery book at WGC:** Yes
 
-**Religious affiliation:** ?
-
-**Status:** Inactive
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84736
-
-**IHSSI #:** None
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** None
-
-**Misc. notes:** Originally named Union Chapel Cemetery, renamed Cosper in 1855
+### Information
+Originally named Union Chapel Cemetery, renamed Cosper in 1855.
