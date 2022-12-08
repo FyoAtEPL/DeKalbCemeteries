@@ -26,6 +26,9 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Forney.md
 - HessenCassel.md
 - Husselman.md
+- Jenkins.md
+- Kraft.md
+- Krontz.md
 
 ## 2022-12-07
  
