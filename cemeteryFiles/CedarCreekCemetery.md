@@ -1,27 +1,41 @@
 # Cedar Creek Cemetery
 
-**Alternate Names:** Cedar Chapel Cemetery
+![Cedar Creek Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/CedarCreekEarth.png "Cedar Creek Cemetery on Google Earth")
 
-**Date Established:** 1858-1860 (1850 according to IHSSI)
+### Geographical Information
+- **Address:** 6858 County Road 11A, Auburn, IN 46706
+- **Coordinates:** 41.28052, -85.12645
+- **Township:** Butler
+- **Nearest town:** Butler Center
+- *Google Maps Image*
 
-**Address:** 6858 County Road 11A, Auburn, IN 46706
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** Cedar Creek Cemetery Inc.
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.28052, -85.12645
+### Cemetery Information
+- **Alternate names:** Cedar Chapel Cemetery
+- **Relation to other cemeteries:** A number of graves were originally from Lutheran Church Cemetery, and were moved here when Cedar Creek Cemetery opened.
+- **Date established:** 
+- Various dates given
+  - 1850 according to SHAARD
+  - 1858 or 1860 according to Dorothy A. Ditmars in *Reports On Phases of DeKalb County History Worked Outt in Connection With an Extension Course In Indiana History, 1923-1924*
+  - October, 1877 according to *So Grows A City: Garrett, IN 1875-1975* (Official Publication of the Greater Garrett Centennial Corp.)
+- **Earliest date found on a headstone:** 1845
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:**?
+- **Religious Affiliation:** none
 
-**Township:** Butler
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/1252126/cedar-creek-cemetery
+- **BillionGraves:** https://billiongraves.com/cemetery/Cedar-Creek-Cemetery/319891
+- **SHAARD #:** 033-231-60014
+- **DNR Survey #:** CR-17-5
 
-**Owner:** Cedar Creek Cemetery Inc.
 
-**Religious affiliation:** 
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/1252126/cedar-creek-cemetery
-
-**IHSSI #:** 033-231-60014
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** 	CR-17-5
-
-**Misc. notes:** Near Alterstar (United Methodist) Church. Graves from Lutheran Church Cemetery were moved here.
+### WGC
+- **Cemetery book at WGC:** Yes
