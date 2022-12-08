@@ -34,4 +34,4 @@
 
 
 ### WGC
-- **Cemetery book at WGC:**
+- **Cemetery book at WGC:** Yes
