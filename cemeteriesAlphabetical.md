@@ -35,7 +35,7 @@
 - [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
 - [Husselman Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Husselman.md "Husselman Cemetery")
 - [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
-- [Krafft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krafft.md "Krafft Cemetery")
+- [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Krontz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krontz.md "Krontz Cemetery")
 - [Link Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery (Unlocated)")
 - [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
