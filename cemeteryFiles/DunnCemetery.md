@@ -35,3 +35,6 @@
 
 ### WGC
 - **Cemetery book at WGC:** None
+
+### Information
+Dunn family plot. According to Findagrave, on the Pepple Farm.
