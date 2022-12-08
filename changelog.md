@@ -11,6 +11,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - CalvaryCemetery.md
 - CatholicCemetery.md
 - CedarCreekCemetery.md
+- CedarLakeCemtety.md
+- ChristianUnionCemetery.md
+- ConcordCemetery.md
+- CorunnaCemetery.md
+- CosperCemetery.md
+- CotrellCemetery.md
+- DunnCemetery.md
+- EddyCemetery.md
+- EmbreyCemetery.md
+- EvergreenAuburn.md
+- EvergreenNewville.md
+- Fairfield.md
+- Forney.md
+- HessenCassel.md
+- Husselman.md
 
 ## 2022-12-07
  
@@ -22,4 +37,3 @@ Start of changelog. Sorry I haven't had one until now.
  
 ### Changed
  - Updated template for cemetery pages
-### Fixed
