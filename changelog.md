@@ -11,8 +11,8 @@ Start of changelog. Sorry I haven't had one until now.
  
 ### Added
 - Changelog.md
-- 
+- Image files of Google Earth locations
  
 ### Changed
- 
+ - Updated template for cemetery pages
 ### Fixed
