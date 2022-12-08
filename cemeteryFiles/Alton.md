@@ -1,6 +1,6 @@
 ## Alton Cemetery
 
-![](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/AltonEarth.png)
+![Alton Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/AltonEarth.png "Alton Cemetery on Google Earth")
 
 ### Geographical Information
 - **Address:** 5997 State Road 101, St Joe, IN 46785
