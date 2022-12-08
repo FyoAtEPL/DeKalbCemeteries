@@ -1,27 +1,37 @@
 # Embrey Cemetery
 
-**Alternate Names:** Embry Cemetery
+![Embrey Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/EmbreyEarth.png "Embrey Cemetery on Google Earth")
 
-**Date Established:** 1888
+### Geographical Information
+- **Address:** "County Road 52, Laotto, IN 46763, relatively near intersection of County Roads 52 and 3
+- **Coordinates:** 41.33651, -85.17885
+- **Township:** Keyser
+- **Nearest town:** Altona
+- *Google Maps Image*
 
-**Address:** "County Road 52, Laotto, IN 46763. Relatively near intersection of CRs 52 and 3
+### Ownership and Access Information
+- **Status:** Active
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 41.33651, -85.17885
+### Cemetery Information
+- **Alternate names:** Embry Cemetery
+- **Relation to other cemeteries:** None
+- **Date established:** 1851
+- **Earliest date found on a headstone:** 1851
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** Keyser
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/84931
+- **BillionGraves:** https://billiongraves.com/cemetery/Embrey-Cemetery/27875
+- **SHAARD #:** 033-231-55024
+- **DNR Survey #:** CR-17-23
 
-**Owner:** ?
 
-**Religious affiliation:** ?
-
-**Status:** Active
-
-**Photo of entrance:**
-
-**Findagrave:** https://www.findagrave.com/cemetery/84931
-
-**IHSSI #:** 033-231-55024
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-23
-
-**Misc. notes:** "Earliest grave date is 1851, meaning graves were moved to this new public cemetery from private plots
+### WGC
+- **Cemetery book at WGC:**
