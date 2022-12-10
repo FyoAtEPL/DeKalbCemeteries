@@ -27,9 +27,9 @@
 
 ### Other Indexes
 - **Findagrave:**
+- **BillionGraves:**
 - **SHAARD #:**
 - **DNR Survey #:**
-- **BillionGraves:**
 
 ### WGC
-- Cemetery book at WGC
+- **Cemetery book at WGC**
