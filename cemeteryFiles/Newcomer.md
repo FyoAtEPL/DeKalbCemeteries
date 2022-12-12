@@ -1,27 +1,37 @@
 # Cemetery Name
 
-**Alternate Names:** 
+![Newcomer Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/NewcomerEarth.png "Newcomer Cemetery on Google Earth")
 
-**Date Established:** 
+### Geographical Information
+- **Address:** Intersection of County Road 53 and 20, Butler, DeKalb County, Indiana
+- **Coordinates:** 41.46014, -84.94409
+- **Township:** Franklin
+- **Nearest town:** Butler
+- *Google Maps Image*
 
-**Address:** 
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** ?
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2339339 
+- **BillionGraves:** None
+- **SHAARD #:** None
+- **DNR Survey #:** CR-17-9
 
-**Owner:** 
 
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
