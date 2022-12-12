@@ -12,7 +12,7 @@
 ### Ownership and Access Information
 - **Status:** Inactive
 - **Owner:** ?
-- **Accessibility:** ?
+- **Accessibility:** Poor. In a wooded area.
 - **Hours:** None
 
 ### Cemetery Information
