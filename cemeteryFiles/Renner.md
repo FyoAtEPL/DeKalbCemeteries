@@ -1,27 +1,37 @@
-# Cemetery Name
+# Renner Cemetery
 
-**Alternate Names:** 
+![Renner Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/RennerEarth.png "Renner Cemetery on Google Earth")
 
-**Date Established:** 
+### Geographical Information
+- **Address:** County Road 4, Waterloo, DeKalb County, Indiana
+- **Coordinates:** 41.51709, -85.00407 (estimate)
+- **Township:** Smithfield
+- **Nearest town:** Ashley
+- *Google Maps Image*
 
-**Address:** 
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** None
 
-**Coordinates:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** ?
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** None
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2339479
+- **BillionGraves:** None
+- **SHAARD #:** None
+- **DNR Survey #:** None
 
-**Owner:** 
 
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
