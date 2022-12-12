@@ -21,8 +21,8 @@
 - **Alternate names:** Keller Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** 1837 (SHAARD)
-- **Earliest date found on a headstone:** 184_
-- **Earliest burial:**
+- **Earliest date found on a headstone:** 184_ (according to list I have, need to verify)
+- **Earliest burial:** 1837 (SHAARD)
 - **Number of graves:** 43 (according to list I have, need to verify)
 - **Notable monuments:** ?
 - **Notable burials:** ?
