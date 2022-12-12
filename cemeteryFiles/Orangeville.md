@@ -1,9 +1,9 @@
 # Orangeville Cemetery
 
 ### Geographical Information
-- **Address:** " County Road 56, Concord Township
-	Pt. E ½ NE ½ Section 12 Township 33N Range 15E
-	On east side of CR 75A north of CR 56 (FYO - Locate this)
+- **Address:** County Road 56, Concord Township
+	- Pt. E ½ NE ½ Section 12 Township 33N Range 15E
+	- On east side of CR 75A north of CR 56 (FYO - Locate this)
 - **Coordinates:** Unlocated
 - **Township:** Concord
 - **Nearest town:** Orangeville?
