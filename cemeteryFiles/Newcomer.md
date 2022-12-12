@@ -4,7 +4,7 @@
 
 ### Geographical Information
 - **Address:** Intersection of County Road 53 and 20, Butler, DeKalb County, Indiana
-- **Coordinates:** 41.46014, -84.94409
+- **Coordinates:** 41.46014, -84.94409 (estimate)
 - **Township:** Franklin
 - **Nearest town:** Butler
 - *Google Maps Image*
