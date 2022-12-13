@@ -1,27 +1,36 @@
-# Cemetery Name
+# Sedan Cemetery
 
-**Alternate Names:** 
+![Sedan Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/SedanEarth.png "Sedan Cemetery on Google Earth")
 
-**Date Established:** 
+### Geographical Information
+- **Address:** County Road 19, Corunna, DeKalb County, Indiana, USA
+- **Coordinates:** 41.42810, -85.09970
+- **Township:** Richland
+- **Nearest town:** Sedan
+- *Google Maps Image*
 
-**Address:** 
+### Ownership and Access Information
+- **Status:**Active
+- **Owner:** ?
+- **Accessibility:** ?
+- **Hours:** ?
 
-**Coordinates:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** ?
+- **Date established:** 1832
+- **Earliest date found on a headstone:** 1832
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/86828
+- **BillionGraves:**https://billiongraves.com/cemetery/Sedan-Cemetery/31313
+- **SHAARD #:** 033-644-20004
+- **DNR Survey #:** CR-17-27
 
-**Owner:** 
-
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:**  Yes
