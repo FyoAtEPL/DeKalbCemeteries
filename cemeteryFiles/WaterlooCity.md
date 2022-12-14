@@ -1,5 +1,6 @@
 # Waterloo City Cemetery 
 
+![Waterloo City Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/WaterlooCemetery.png "Waterloo City Cemetery Entrance")
 
 ![Waterloo City Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WaterlooCityEarth.png "Waterloo City Cemetery on Google Earth")
 
