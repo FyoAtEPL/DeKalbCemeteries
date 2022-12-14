@@ -14,7 +14,7 @@
 ### Ownership and Access Information
 - **Status:** Active
 - **Owner:** ?
-- **Accessibility:** Accessible from street. Unlocked gate. Flat ground.
+- **Accessibility:** Accessible from street. Unlocked gate. Ground is uneven.
 - **Hours:** ?
 
 ### Cemetery Information
