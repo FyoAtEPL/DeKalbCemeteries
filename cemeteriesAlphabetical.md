@@ -56,7 +56,7 @@
 - [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery")
 - [Roselawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Roselawn.md "Roselawn Cemetery")
 - [Rude Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rude.md "Rude Cemetery")
-- [Saint Michael the Archangel Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/StMichael.md "Saint Michael the Archangel Catholic Cemetery")
+- [Saint Michael the Archangel Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/SaintMichael.md "Saint Michael the Archangel Catholic Cemetery")
 - [Schiffli Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Schiffli.md "Schiffli Cemetery")
 - [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 - [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
