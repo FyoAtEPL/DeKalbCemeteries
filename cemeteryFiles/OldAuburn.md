@@ -12,7 +12,7 @@
 ### Ownership and Access Information
 - **Status:** Inactive
 - **Owner:** ?
-- **Accessibility:** Fenced in, with unlocked gate. (Fyo - How hard is it to walk into?)
+- **Accessibility:** Fenced in, with unlocked gate. On an incline.
 - **Hours:** ?
 
 ### Cemetery Information
