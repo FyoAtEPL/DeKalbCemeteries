@@ -1,27 +1,37 @@
-# Cemetery Name
+# Stroh Cemetery
 
-**Alternate Names:** 
 
-**Date Established:** 
+![Stroh Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/StrohEarth.png "Stroh Cemetery on Google Earth")
 
-**Address:** 
+### Geographical Information
+- **Address:** Between County Road 34 and 38, DeKalb County, Indiana
+- **Coordinates:** 41.39957, -85.01495 (estimate)
+- **Township:** Grant
+- **Nearest town:** Waterloo
+- *Google Maps Image*
 
-**Coordinates:** 
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** Poor. In a woods.
+- **Hours:** None
 
-**Township:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** ?
+- **Earliest date found on a headstone:** Henry Stroh, Jan. 9, 1847
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Owner:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2311942/stroh-cemetery
+- **BillionGraves:**  None
+- **SHAARD #:** None
+- **DNR Survey #:** CR-17-15
 
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
