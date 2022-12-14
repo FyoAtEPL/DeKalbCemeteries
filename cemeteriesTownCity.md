@@ -19,7 +19,7 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
 - [Forney Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Forney.md "Forney Cemetery")
 - [Renner Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Renner.md "Renner Cemetery")
-- [Saint Michael the Archangel Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/StMichael.md "Saint Michael the Archangel Catholic Cemetery")
+- [Saint Michael the Archangel Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/SaintMichael.md "Saint Michael the Archangel Catholic Cemetery")
 - [Schiffli Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Schiffli.md "Schiffli Cemetery")
 ### Auburn
 - [Auburn Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AuburnMausoleum.md "Auburn Mausoleum")
