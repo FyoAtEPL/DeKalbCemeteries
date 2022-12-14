@@ -10,7 +10,7 @@
 - *Google Maps Image*
 
 ### Ownership and Access Information
-- **Status:**Active
+- **Status:** Active
 - **Owner:** ?
 - **Accessibility:** ?
 - **Hours:** ?
