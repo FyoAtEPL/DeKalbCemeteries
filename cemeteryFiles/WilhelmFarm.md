@@ -1,27 +1,36 @@
-# Cemetery Name
+# Wilhelm Farm Cemetery
 
-**Alternate Names:** 
+![Wilhelm Farm Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WilhelmEarth.png "Wilhelm Farm Cemetery on Google Earth")
 
-**Date Established:** 
+### Geographical Information
+- **Address:** County Road 35, Waterloo, DeKalb County, Indiana, 46793
+- **Coordinates:** 41.46246, -85.02576 (estimate)
+- **Township:** Smithfield
+- **Nearest town:** Waterloo
+- *Google Maps Image*
 
-**Address:** 
+### Ownership and Access Information
+- **Status:** No Longer Extant
+- **Owner:** Private land
+- **Accessibility:** None
+- **Hours:** None
 
-**Coordinates:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** ?
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** None remaining
+- **Notable monuments:** None
+- **Notable burials:** None
+- **Religious Affiliation:** None
 
-**Township:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/2339495
+- **BillionGraves:** None
+- **SHAARD #:** None
+- **DNR Survey #:** CR-17-34
 
-**Owner:** 
-
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** No
