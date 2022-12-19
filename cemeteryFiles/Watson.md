@@ -1,27 +1,36 @@
-# Cemetery Name
+# Watson Cemetery
 
-**Alternate Names:** 
+![Watson Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WatsonEarth.png "Watson Cemetery on Google Earth")
 
-**Date Established:** 
+### Geographical Information
+- **Address:** 6698 Co Rd 43, Auburn, IN 46706
+- **Coordinates:** 41.2889828, -84.9916852
+- **Township:** Jackson
+- **Nearest town:** Concord
+- *Google Maps Image*
 
-**Address:** 
+### Ownership and Access Information
+- **Status:** Inactive
+- **Owner:** ?
+- **Accessibility:** Not accessible from road.
+- **Hours:** None
 
-**Coordinates:** 
+### Cemetery Information
+- **Alternate names:** None
+- **Relation to other cemeteries:** None
+- **Date established:** 1854
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** 1854
+- **Number of graves:** ?
+- **Notable monuments:** None
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
-**Township:** 
+### Other Indexes
+- **Findagrave:** https://www.findagrave.com/cemetery/87301
+- **BillionGraves:** https://billiongraves.com/cemetery/Watson-Cemetery/32153
+- **SHAARD #:** None
+- **DNR Survey #:** CR-17-20
 
-**Owner:** 
-
-**Religious affiliation:** 
-
-**Status:** 
-
-**Photo of entrance:**
-
-**Findagrave:** 
-
-**IHSSI #:** 	
-
-**Indiana Register of Historic Sites and Structures Cemetery Register #:**
-
-**Misc. notes:**
+### WGC
+- **Cemetery book at WGC:** Yes
