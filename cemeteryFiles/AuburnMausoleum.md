@@ -9,7 +9,7 @@
 - *Google Maps Image*
 
 ### Ownership and Access Information
-- **Status:** ?
+- **Status:** Active
 - **Owner:** Auburn Mausoleum Association
 - **Accessibility:** ?
 - **Hours:** ?
@@ -18,9 +18,9 @@
 - **Alternate names:** Auburn Community Mausoleum, Roselawn Mausoleum
 - **Relation to other cemeteries:** Next to Roselawn and Woodlawn Cemeteries but not part of either
 - **Date established:** 1917
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Ulysses M. Ditmar, 1863-1873
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 217 as of 2011
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** ?
