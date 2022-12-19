@@ -16,7 +16,7 @@
 
 ### Cemetery Information
 - **Alternate names:**
-- **Relation to other cemeteries (expansion, merged with, close to but not part of, etc.):**
+- **Relation to other cemeteries:**
 - **Date established:**
 - **Earliest date found on a headstone:**
 - **Earliest burial:**
