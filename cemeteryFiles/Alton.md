@@ -10,8 +10,8 @@
 
 ### Ownership and Access Information
 - **Status:** Active
-- **Owner:** ?
-- **Accessibility:** ?
+- **Owner:** Coburn Corners Church of Christ
+- **Accessibility:** Accessible from road
 - **Hours:** ?
 
 ### Cemetery Information
