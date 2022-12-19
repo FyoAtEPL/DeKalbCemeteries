@@ -1,4 +1,4 @@
-# DeKalb County Cemeteries
+# DeKalb County Cemeteries Index
 
 ## Project Overview
 
