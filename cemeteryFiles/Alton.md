@@ -10,7 +10,7 @@
 
 ### Ownership and Access Information
 - **Status:** Active
-- **Owner:** Coburn Corners Church of Christ
+- **Owner:** Coburn Corners Church of Christ (?)
 - **Accessibility:** Accessible from road
 - **Hours:** ?
 
