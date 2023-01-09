@@ -21,6 +21,8 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 **Date Established** indicates a date that has been given for its establishment/incorporation or the date the land was deeded. **Earliest Burial** indicates the earliest date found on a tombstone. Unless otherwise indicated, these dates have been sourced from SHAARD.
 
 ## Maps - Current Ver. 3.0, November 28, 2022
+
+Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
 - [Google Earth](https://earth.google.com/earth/d/1IkB4vdsmJQTE0EF9CAFmJNGzmwCz2O-d?usp=sharing "Google Earth")
 - [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalbCemeteryLocations.kml "KML file")
