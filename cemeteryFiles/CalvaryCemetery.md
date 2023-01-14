@@ -7,7 +7,6 @@
 - **Coordinates:** 41.34470, -85.14440
 - **Township:** Keyser
 - **Nearest town:** Garrett
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
