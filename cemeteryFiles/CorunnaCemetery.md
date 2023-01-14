@@ -7,7 +7,6 @@
 - **Coordinates:** 41.41940, -85.14720
 - **Township:** Richland
 - **Nearest town:** Corunna
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
