@@ -7,8 +7,6 @@
 - **Township:** Stafford
 - **Nearest town:** Butler
 
-- *Google Maps Image*
-
 ### Ownership and Access Information
 - **Status:** Active
 - **Owner:** City of Butler
