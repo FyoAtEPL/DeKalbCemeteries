@@ -7,7 +7,6 @@
 - **Coordinates:** 41.51313, -85.00861
 - **Township:** Smithfield
 - **Nearest town:** Ashley
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
