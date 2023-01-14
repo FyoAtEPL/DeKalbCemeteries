@@ -6,7 +6,6 @@
 - **Township:** Butler
 - **Nearest town:** Butler
 - *Google Earth Image*
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
