@@ -1,5 +1,6 @@
 # Catholic Cemetery
 
+***FYO - I think I need a more obvious image of the cemetery entrance, do I have one?)***
 
 ![Catholic Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/CatholicCemetery.png "Catholic Cemetery Entrance")
 
