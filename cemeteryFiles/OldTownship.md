@@ -6,7 +6,6 @@
 - **Coordinates:** 41.48221, -85.1255
 - **Township:** Fairfield
 - **Nearest town:** Fairfield Center
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
