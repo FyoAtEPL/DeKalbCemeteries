@@ -5,7 +5,6 @@
 - **Coordinates:** 41.43016°, -84.84937°
 - **Township:** Stafford
 - **Nearest town:** Butler
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
