@@ -7,7 +7,6 @@
 - **Coordinates:** 41.45343, -85.10361
 - **Township:** Fairfield
 - **Nearest town:** Sedan
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
