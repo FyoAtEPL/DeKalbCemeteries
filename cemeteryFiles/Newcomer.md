@@ -7,7 +7,6 @@
 - **Coordinates:** 41.46014, -84.94409 (estimate)
 - **Township:** Franklin
 - **Nearest town:** Butler
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
