@@ -7,7 +7,6 @@
 - **Coordinates:** 41.30750, -84.97310
 - **Township:** Spencer
 - **Nearest town:** Concord
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
