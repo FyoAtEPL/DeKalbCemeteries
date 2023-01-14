@@ -7,7 +7,6 @@
 - **Coordinates:** 41.3442, -84.8402
 - **Township:** Newville
 - **Nearest town:** Newville
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
