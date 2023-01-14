@@ -7,7 +7,6 @@
 - **Coordinates:** 41.27937, -85.13555
 - **Township:** Butler
 - **Nearest town:** Butler Center
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
