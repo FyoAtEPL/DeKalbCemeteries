@@ -7,7 +7,6 @@
 - **Coordinates:** 41.39440, -84.88970
 - **Township:** Wilmington
 - **Nearest town:** Butler
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
