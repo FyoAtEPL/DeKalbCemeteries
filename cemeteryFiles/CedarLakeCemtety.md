@@ -7,7 +7,6 @@
 - **Coordinates:** 41.45360, -85.07000 
 - **Township:** Franklin
 - **Nearest town:** Waterloo
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
