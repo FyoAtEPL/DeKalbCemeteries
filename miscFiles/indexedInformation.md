@@ -1,11 +1,15 @@
 # Indexed Information
 
+### Front Matter
+- **Cemetery name:** Most commonly used name/spelling
+- **Photo of cemetery entrance**
+- **Google Earth Image:** Satelite image of the cemetery, provided by Google Earth. This image is taken from the cemetery Google Earth project.
+
 ### Geographical Information
 - **Address:** Street address. May not be exact.
 - **Coordinates:** Latitude and longitude location of cemetery.
 - **Township:** The township (governmental division of the county) the cemetery is in.
 - **Nearest town:** Town nearest to the cemetery, measured in miles.
-- **Google Earth Image:** Satelite image of the cemetery, provided by Google Earth.
 - **Google Maps Image:** (FYO - Still debating if I want to use this)
 
 ### Ownership and Access Information
