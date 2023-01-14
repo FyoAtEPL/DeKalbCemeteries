@@ -10,7 +10,6 @@
 - **Coordinates:** Latitude and longitude location of cemetery.
 - **Township:** The township (governmental division of the county) the cemetery is in.
 - **Nearest town:** Town nearest to the cemetery, measured in miles.
-- **Google Maps Image:** (FYO - Still debating if I want to use this)
 
 ### Ownership and Access Information
 - **Status:** If the cemetery is still in use (active), no longer used (inactive), or no longer exists (no longer extant)
