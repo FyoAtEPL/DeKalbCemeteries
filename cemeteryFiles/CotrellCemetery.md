@@ -7,7 +7,6 @@
 - **Coordinates:** 41.3712782, -84.869367 (estimate)
 - **Township:** Wilmington
 - **Nearest town:** Newville
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** No longer extant
