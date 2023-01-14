@@ -7,7 +7,6 @@
 - **Coordinates:** 41.32690, -84.92360
 - **Township:** Concord
 - **Nearest town:** Concord
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
