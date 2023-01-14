@@ -6,7 +6,6 @@
 - **Coordinates:** 41.36297, -84.97565
 - **Township:** Union
 - **Nearest town:** Moore
-- *Google Earth Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
