@@ -7,7 +7,6 @@
 - **Coordinates:** 41.33651, -85.17885
 - **Township:** Keyser
 - **Nearest town:** Altona
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
