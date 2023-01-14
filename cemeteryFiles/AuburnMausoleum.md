@@ -6,7 +6,6 @@
 - **Coordinates:** 41.35651, -85.04910
 - **Township:** Union
 - **Nearest town:** Auburn
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
