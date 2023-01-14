@@ -7,7 +7,6 @@
 - **Coordinates:** 41.39688, -85.03933
 - **Township:** Grant
 - **Nearest town:** Auburn
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
