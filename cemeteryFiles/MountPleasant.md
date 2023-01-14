@@ -7,7 +7,6 @@
 - **Coordinates:** 41.38567, -84.90753
 - **Township:** Wilmington
 - **Nearest town:** Moore
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
