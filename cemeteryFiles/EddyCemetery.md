@@ -7,7 +7,6 @@
 - **Coordinates:** 41.51710, -84.85200
 - **Township:** Troy
 - **Nearest town:** Hamilton
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
