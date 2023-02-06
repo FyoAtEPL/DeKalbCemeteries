@@ -17,11 +17,11 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 - [:houses: View list of cemeteries by township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View list of cemeteries by township")
 - [:cityscape: View list of cemeteries by town/city](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownCity.md "View list of cemeteries by town or city")
 
-## Notes on dates (MAKE THIS BETTER - Fyo)
-**Date Established** indicates a date that has been given for its establishment/incorporation or the date the land was deeded. **Earliest Burial** indicates the earliest date found on a tombstone. Unless otherwise indicated, these dates have been sourced from SHAARD.
+## Notes on dates (MAKE THIS BETTER - Fyo) 
+**Date Established** indicates a date that has been given for its establishment/incorporation or the date the land was deeded. **Earliest Burial** indicates the earliest date found on a tombstone. Unless otherwise indicated, these dates have been sourced from SHAARD. **Earliest Burial** and **Earliest Date on a Tombstone** may be different. **Earliest Burial** is the first person to be buried in this location, which may have been before the cemetery was officially established. **Earliest Date** might not be the first person to be buried, as they may have been moved from a previous location.
 
 ## Notes on numbers
-**January 23, 2023 -** Currently, the number of graves reflects my count in books at WGC. This may not be correct due to human error. It also may not reflect the number of actual graves or lots, or the number of headstones (e.g., multiple people may share a stone, stones may be missing/damaged etc.). I will verify these numbers with sextans before final publication. The present counts (as of Jan 2023) are approximations based on my counts.
+**January 23, 2023 -** Currently, the number of graves reflects my count in books at WGC. This may not be correct due to human error. It also may not reflect the number of actual graves or lots, or the number of headstones (e.g., multiple people may share a stone, stones may be missing/damaged etc.). I will verify these numbers with sextans before final publication. The present counts (as of Feb 2023) are approximations based on my counts.
 
 ## Maps - Current Ver. 3.0, November 28, 2022
 
