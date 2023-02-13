@@ -5,6 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2023-02-13
+
+### Added
+- Added Waterloo Mausoleum to project
+- WaterlooMMausoleum.md
+
+### Updated
+- Updated Google Earth project with Waterloo Mausoleum location
+- Updated Google Maps with Waterloo Mausoleum location
+- Updated KML and KMZ files to ver. 4.0
+
+### Deleted
+- KML 3.0
+- KMZ 3.0
+
 ## 2022-12-08
 
 ### Changed
