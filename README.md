@@ -23,15 +23,15 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 ## Notes on numbers
 **January 23, 2023 -** Currently, the number of graves reflects my count in books at WGC. This may not be correct due to human error. It also may not reflect the number of actual graves or lots, or the number of headstones (e.g., multiple people may share a stone, stones may be missing/damaged etc.). I will verify these numbers with sextans before final publication. The present counts (as of Feb 2023) are approximations based on my counts.
 
-## Maps - Current Ver. 3.0, November 28, 2022
+## Maps - Current Ver. 4.0, February 13, 2023
 
 Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
 - [Google Earth](https://earth.google.com/earth/d/1IkB4vdsmJQTE0EF9CAFmJNGzmwCz2O-d?usp=sharing "Google Earth")
-- [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalbCemeteryLocations.kml "KML file")
+- [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%20GEarth%204.0.kml "KML file")
 #### Google Maps
 - [Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1WnRFJfQglSVun65-qCTTOySNHKk-nxE&usp=sharing "Google Maps")
-- [KMZ file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20County%20Cemeteries.kmz "KMZ file")
+- [KMZ file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20County%20Cemeteries%20GMaps%204.0.kmz "KMZ file")
 
 ## Links
 - [Cemetery photos on Eckhart Public Library's Online Photo Archive](https://willennar.catalogaccess.com/advanced-search?includedFields=Objects%2CPhotos%2CArchives%2CLibrary%2CPeople%2CContainers&Title=cemetery&page=1&size=10&withImages=false/ "Cemetery photos on Eckhart Public Library's Online Photo Archive")
