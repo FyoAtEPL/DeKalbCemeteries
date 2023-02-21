@@ -23,7 +23,11 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 ## Notes on numbers
 **January 23, 2023 -** Currently, the number of graves reflects my count in books at WGC. This may not be correct due to human error. It also may not reflect the number of actual graves or lots, or the number of headstones (e.g., multiple people may share a stone, stones may be missing/damaged etc.). I will verify these numbers with sextans before final publication. The present counts (as of Feb 2023) are approximations based on my counts.
 
-## Maps - Current Ver. 4.0, February 13, 2023
+## Notes on pages (February 21, 2023)
+For cemeteries that have notable sections (z.B. Fairfield/Old Township), the index will have a page for the MAIN CEMETERY, with a section denoting the different sections and their relevent information. The page for the separate sections will function as a disambiguatiion page on Wikipedia, linking to the relative cemetery. This is to make up for how some sections may appear to be discrete cemeteries but are in reality the same entity.
+
+
+## Maps - Current Ver. 4767.0, February 13, 2023
 
 Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
