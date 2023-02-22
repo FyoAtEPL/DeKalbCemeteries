@@ -32,9 +32,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/1252126/cedar-creek-cemetery
 - **BillionGraves:** https://billiongraves.com/cemetery/Cedar-Creek-Cemetery/319891
-- **SHAARD #:** 033-231-60014
-- **DNR Survey #:** CR-17-5
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-231-60014
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-5
 
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Garrett Legion and the VFW burial locations | DEKALB CEMETERY GARRETT LEGION VFW | 840191001231781 | https://evergreen.lib.in.us/eg/opac/record/20670193?locg=318 |
