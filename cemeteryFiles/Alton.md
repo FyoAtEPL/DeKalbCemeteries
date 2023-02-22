@@ -6,7 +6,7 @@
 - **Address:** 5997 State Road 101, St Joe, IN 46785
 - **Coordinates:**  41.31670, -84.86720
 - **Township:** Concord
-- **Nearest town:** Orangeville
+- **Nearest town:** Orange
 
 ### Ownership and Access Information
 - **Status:** Active
