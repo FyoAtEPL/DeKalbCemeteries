@@ -34,6 +34,7 @@
 - [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
 - [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
 - [Orangeville Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery (Unlocated)")
+
 # Fairfield Township
 - [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
 - [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
@@ -41,7 +42,7 @@
 - [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
 
 # Franklin Township
-- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
 - [Newcomer Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Newcomer.md "Newcomer Cemetery")
 - [Rude Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rude.md "Rude Cemetery")
 
