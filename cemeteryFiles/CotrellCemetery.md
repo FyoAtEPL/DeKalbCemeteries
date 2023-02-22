@@ -28,9 +28,11 @@
 ### Other Indexes
 - **Findagrave:** None
 - **BillionGraves:** None 
-- **SHAARD #:** None
-- **DNR Survey #:** CR-17-49
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-49
 
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
