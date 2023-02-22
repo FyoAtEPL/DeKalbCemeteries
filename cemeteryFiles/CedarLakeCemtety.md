@@ -28,9 +28,17 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/84589
 - **BillionGraves:** https://billiongraves.com/cemetery/Cedar-Lake-Cemetery/27282
-- **SHAARD #:** 033-664-10041
-- **DNR Survey #:** CR-17-30
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-664-10041
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-30
 
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cedar Lake Cemetery : Smithfield Township, DeKalb County, Indiana A - H | DEKALB CEMETERY SMITHFIELD CEDAR (A-H) | 840191001803613 | https://evergreen.lib.in.us/eg/opac/record/20713509?locg=318 |
+| Cedar Lake Cemetery : Smithfield Township, DeKalb County, Indiana I - Z | DEKALB CEMETERY SMITHFIELD CEDAR (I-Z) | 840191001803621 | https://evergreen.lib.in.us/eg/opac/record/20713509?locg=318 |
+| Cemetery inscriptions from Cedar Lake, County Line, Forney, Hessen Cassel | DEKALB CEMETERY SMITHFIELD | 840191001250880 | https://evergreen.lib.in.us/eg/opac/record/20715557?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
