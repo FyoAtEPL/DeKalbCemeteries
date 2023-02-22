@@ -27,9 +27,5 @@
 ### Other Indexes
 - **Findagrave:** None
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** CR_17-35
-
-
-### WGC
-- **Cemetery book at WGC:** No
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **DNR Survey #:** CR-17-35
