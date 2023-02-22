@@ -8,6 +8,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ## 2023-02-22
 
+### Changed
+- **CedarLakeCemtety.md** changed to **CedarLakeCemetery.md**
+ - All links to page corrected 
+
 ### Added
 - Added bookList.md to miscFiles
 
@@ -16,6 +20,15 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - AuburnMausoleum.md
 - BarkersChapel.md
 - BearCreek.md
+- BigRun.md
+- Butler.md
+- ButlerMemorialGardens.md
+- CalvaryCemetery.md
+- CatholicCemetery.md
+- CedarCreekCemetery.md
+- CedarLakeCemetery.md
+- ChristianUnionCemetery.md
+- ConcordCemetery.md
 
 ## 2023-02-21
 
