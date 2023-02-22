@@ -28,9 +28,16 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/466301
 - **BillionGraves:** https://billiongraves.com/cemetery/Christian-Union-Cemetery/320151
-- **SHAARD #:** 033-231-55010
-- **DNR Survey #:** CR-17-22
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-231-55010
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-22
 
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb county, Indiana V. 3 | DEKALB CEMETERY INSCRIPTION V.3 | 840191000243875 | https://evergreen.lib.in.us/eg/opac/record/20691514?locg=318 |
+| Christian Union Cemetery Inc. DeKalb County, Indiana: burials for 1987-2001 : supplement to the original cemetery records compiled by Reba Sliger in 1988 | DEKALB CEMETERY KEYSER CHRISTIAN 1987-2001 | 840191001458202 | https://evergreen.lib.in.us/eg/opac/record/20715707?locg=318 |
+| Christian Union Cemetery | DEKALB CEMETERY KEYSER CHRISTIAN | 840191001058424 | https://evergreen.lib.in.us/eg/opac/record/20715706?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Garrett Legion and the VFW burial locations | DEKALB CEMETERY GARRETT LEGION VFW | 840191001231781 | https://evergreen.lib.in.us/eg/opac/record/20670193?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
