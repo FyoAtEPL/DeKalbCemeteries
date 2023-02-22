@@ -26,9 +26,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/656831
 - **BillionGraves:** https://billiongraves.com/cemetery/Butler-Cemetery/178471
-- **SHAARD #:** 033-085-35002
-- **DNR Survey #:** CR-17-39
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD):** 033-085-35002
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-39
 
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Butler Cemetery inscriptions: DeKalb County, Indiana | DEKALB CEMETERY WILMINGTON BUTLER | 840191000271820 | https://evergreen.lib.in.us/eg/opac/record/20670310?locg=318 |
+| Butler Mausoleum Association: Secretary's book | DEKALB CEMETERY WILMINGTON MAUSOLEUM | 840191002107574 | https://evergreen.lib.in.us/eg/opac/record/20698277?locg=318 |
+| DeKalb cemetery talks 200+ : In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
