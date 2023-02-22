@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1850
-- **Earliest date found on a headstone:** 1853
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Date established:** 1850 (SHAARD)
+- **Earliest date found on a headstone:** James Pratt Plummer, d. 18 Mar 1846 (Findagrave)
+- **Earliest burial:** 1853 (SHAARD)
+- **Number of graves:** 34 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
@@ -28,9 +28,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/84267
 - **BillionGraves:** https://billiongraves.com/cemetery/Bear-Creek-Cemetery/26700
-- **SHAARD #:** 033-564-65016
-- **DNR Survey #:** CR-17-19
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-564-65016
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-19
 
-
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title  | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+|DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 | 
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
