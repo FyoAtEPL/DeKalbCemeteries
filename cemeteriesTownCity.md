@@ -100,7 +100,7 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery") (Estimated Location)
 
 ### Waterloo
-- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
 - [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
 - [Lutz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Lutz.md "Lutz Cemetery")
 - [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
