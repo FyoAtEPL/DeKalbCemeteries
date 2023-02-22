@@ -27,9 +27,5 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2743617
 - **BillionGraves:** https://billiongraves.com/cemetery/Butler-Memorial-Gardens/327637
-- **SHAARD #:** None
-- **DNR Survey #:** None
-
-
-### WGC
-- **Cemetery book at WGC:** No
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
