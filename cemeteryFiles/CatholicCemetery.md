@@ -36,9 +36,13 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/1968931
 - **BillionGraves:**  https://billiongraves.com/cemetery/Immaculate-Conception/319890
-- **SHAARD #:** 003-664-50007
-- **DNR Survey #:** CR-17-21
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 003-664-50007
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-21
 
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County Indiana cemetery inscriptions Vol. 2 | DEKALB CEMETERY INSCRIPTION V.2 | 840191000271911 | https://evergreen.lib.in.us/eg/opac/record/20670316?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
