@@ -111,3 +111,18 @@
 
 | Sixteen Cemetery : Richland Township, DeKalb County, Indiana M - Z | DEKALB CEMETERY RICHLAND SIXTEEN (M-Z) | 840191001606668 | https://evergreen.lib.in.us/eg/opac/record/20680994?locg=318 |
 
+| Southeastern DeKalb County, Indiana, tombstone records Vol. 5 | DEKALB CEMETERY INSCRIPTION V.5 | 840191000602774 | https://evergreen.lib.in.us/eg/opac/record/20670314?locg=318 |
+
+| St. Michael's cemetery lots & burials, DeKalb County, Waterloo, Indiana | DEKALB CEMETERY SMITHFIELD ST.MICHAEL | 840191000645132 | https://evergreen.lib.in.us/eg/opac/record/20707495?locg=318 |
+
+| Tamarack Cemetery : Grant Township, DeKalb county, Indiana | DEKALB CEMETERY GRANT TAMARACK | 840191001373815 | https://evergreen.lib.in.us/eg/opac/record/20674105?locg=318 |
+
+| The Butler Mausoleum | DEKALB CEMETERY WILMINGTON BUTL.MAUS | 840191001885787 | https://evergreen.lib.in.us/eg/opac/record/20688703?locg=318 |
+
+| Waterloo Cemetery inscriptions : DeKalb County, Indiana | DEKALB CEMETERY GRANT WATERLOO | 840191000271838 | https://evergreen.lib.in.us/eg/opac/record/20670312?locg=318 |
+
+| Waterloo Mausoleum | DEKALB CEMETARY GRANT WATERLOO | 840191002025077 | https://evergreen.lib.in.us/eg/opac/record/20716381?locg=318 |
+
+| Watson Cemetery, Jackson Township, DeKalb County | DEKALB CEMETERY JACKSON WATSON | 840191001089962 | https://evergreen.lib.in.us/eg/opac/record/20697874?locg=318 |
+
+| White City Cemetery inscriptions, Spencerville, DeKalb County, Indiana | DEKALB CEMETERY SPENCER WHITE.CITY | 840191000272240 |
