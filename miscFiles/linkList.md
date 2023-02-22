@@ -9,7 +9,7 @@
 - [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
 - [Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CatholicCemetery.md "Catholic Cemetery")
 - [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
-- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemtety.md "Cedar Lake Cemetery")
+- [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
 - [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
 - [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
 - [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
