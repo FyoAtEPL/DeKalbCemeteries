@@ -29,6 +29,18 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - CedarLakeCemetery.md
 - ChristianUnionCemetery.md
 - ConcordCemetery.md
+- CosperCemetery.md
+- CotrellCemetery.md
+- DunnCemetery.md
+- EddyCemetery.md
+- EmbreyCemetery.md
+- EvergreenAuburn.md
+- EvergreenNewville.md
+- Fairfield.md
+- Forney.md
+- HessenCassel.md
+- Husselman.md
+- Jenkins.md
 
 ## 2023-02-21
 
