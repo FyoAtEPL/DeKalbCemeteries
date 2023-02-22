@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+
+## 2023-02-22
+
+### Added
+- Added bookList.md to miscFiles
+
+### Updated
+- Alton.md
+- AuburnMausoleum.md
+- BarkersChapel.md
+- BearCreek.md
+
+## 2023-02-21
+
+### Branches
+#### Requests
+- Created **FyoAtEPL-patch-1** for future disambiguation files
+
 ## 2023-02-13
 
 ### Added
