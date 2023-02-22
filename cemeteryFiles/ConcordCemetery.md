@@ -27,10 +27,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/84698
 - **BillionGraves:** https://billiongraves.com/cemetery/Concord-Cemetery/27474
-- **SHAARD #:** 033-564-45017
-- **DNR Survey #:** CR-17-43
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-564-45017
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-43
 
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Southeastern DeKalb County, Indiana, tombstone records Vol. 5 | DEKALB CEMETERY INSCRIPTION V.5 | 840191000602774 | https://evergreen.lib.in.us/eg/opac/record/20670314?locg=318 |
 
