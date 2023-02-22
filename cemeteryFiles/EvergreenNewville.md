@@ -1,5 +1,7 @@
 # Evergreen Cemetery - Newville
 
+This file will be merged with the other Newville Cemetery files in the near future.
+
 ![Newville Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/NewvilleEarth.png "Newville Cemetery on Google Earth")
 
 ### Geographical Information
@@ -28,11 +30,16 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2373529/evergreen-cemetery
 - **BillionGraves:** https://billiongraves.com/cemetery/Evergreen-Cemetery/27909
-- **SHAARD #:** 033-274-40002
-- **DNR Survey #:** CR-17-24
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-274-40002
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-24
 
 
-### WGC
-- **Cemetery book at WGC:** Yes.
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Evergreen Cemetery : Newville Township, DeKalb Ccounty | DEKALB CEMETERY NEWVILLE EVERGREEN | 840191001888107 | https://evergreen.lib.in.us/eg/opac/record/20687656?locg=318 |
+| History of the cemeteries of Newville, Indiana | DEKALB CEMETERY NEWVILLE NEWVILLE | 840191001884221 | https://evergreen.lib.in.us/eg/opac/record/20714472?locg=318 |
+| Southeastern DeKalb County, Indiana, tombstone records Vol. 5 | DEKALB CEMETERY INSCRIPTION V.5 | 840191000602774 | https://evergreen.lib.in.us/eg/opac/record/20670314?locg=318 |
 
 
