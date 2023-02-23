@@ -28,9 +28,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/85630 
 - **BillionGraves:** https://billiongraves.com/cemetery/Krontz-Cemetery/29125
-- **SHAARD #:** 033-086-30018
-- **DNR Survey #:** CR-17-51
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-086-30018
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-51
 
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
+| Krontz Cemetery, Wilmington Twp., DeKalb Co. Indiana | DEKALB CEMETERY WILMINGTON KRONTZ | 840191000709305 | https://evergreen.lib.in.us/eg/opac/record/20684212?locg=318 |
+| Krontz Cemetery : Land given by John A. Krontz | DEKALB CEMETERY WILMINGTON KRONTZ | 840191001251086 | https://evergreen.lib.in.us/eg/opac/record/20707802?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
