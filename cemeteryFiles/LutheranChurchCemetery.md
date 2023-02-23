@@ -28,8 +28,5 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2339334
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
-
-### WGC
-- **Cemetery book at WGC** No
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
