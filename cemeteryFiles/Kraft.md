@@ -28,9 +28,13 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/85628 
 - **BillionGraves:** https://billiongraves.com/cemetery/Kraft-Cemetery/29121
-- **SHAARD #:** None
-- **DNR Survey #:** CR-17-50
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-50
 
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Krafft Cemetery / Wilmington Township, DeKalb County | DEKALB CEMETERY WILMINGTON KRAFFT | 840191001253799 | https://evergreen.lib.in.us/eg/opac/record/20708503?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
