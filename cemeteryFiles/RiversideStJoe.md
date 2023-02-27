@@ -37,6 +37,7 @@
 
 | Title | Call Number | Barcode | Evergreen Record |
 | ------------ | ------------ | ------------ | ------------ |
+| DeKalb cemetery talks 200+ : In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
 | DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
 | Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
 | Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
