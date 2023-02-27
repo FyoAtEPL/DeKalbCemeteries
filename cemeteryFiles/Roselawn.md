@@ -9,7 +9,6 @@ For the mausoleum located next to Roselawn Cemtery, see **[Auburn Mausoleum](htt
 - **Coordinates:** 41.35711, -85.049687
 - **Township:** Union
 - **Nearest town:** Auburn
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -31,9 +30,16 @@ For the mausoleum located next to Roselawn Cemtery, see **[Auburn Mausoleum](htt
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/86627
 - **BillionGraves:**  https://billiongraves.com/cemetery/Roselawn-Cemetery/30945
-- **SHAARD #:** 003-027-50011
-- **DNR Survey #:** CR-17-47
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 003-027-50011
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-47
 
-
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb cemetery talks 200+ : In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Roselawn cemetery burial permits, 1918-1982: Auburn, Union Township DeKalb County, Indiana | DEKALB CEMETERY UNION ROSELAWN 1918-1982 | 840191001883629 | https://evergreen.lib.in.us/eg/opac/record/20685297?locg=318 |
+| Roselawn cemetery records: Complete as of June 6, 2003 | DEKALB CEMETERY UNION ROSELAWN | 840191001376591 | https://evergreen.lib.in.us/eg/opac/record/20708830?locg=318 |
+| Roselawn - Woodlawn - Southlawn cemetery inscriptions: DeKalb County, Indiana | DEKALB CEMETERY UNION RL-WL-SL V.1 | 840191000271862 | https://evergreen.lib.in.us/eg/opac/record/20670313?locg=318 |
+| Roselawn - Woodlawn - Southlawn cemetery inscriptions: DeKalb County, Indiana | DEKALB CEMETERY UNION RL-WL-SL V.2 | 840191000271883 | https://evergreen.lib.in.us/eg/opac/record/20670313?locg=318 |
