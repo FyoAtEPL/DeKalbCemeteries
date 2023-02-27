@@ -28,9 +28,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2253644 
 - **BillionGraves:** None
-- **SHAARD #:** 033-086-30019
-- **DNR Survey #:** CR-17-6
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-086-30019
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-6
 
+### Books at Willennar Genealogy Center
 
-### WGC
-- **Cemetery book at WGC:** Yes
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Ginder Cemetery records | DEKALB CEMETERY WILMINGTON GINDER | 840191001252746 | https://evergreen.lib.in.us/eg/opac/record/20708024?locg=318 |
+| Mt. Pleasant Cemetery : Wilmington Township, DeKalb County, Indiana A - J | DEKALB CEMETERY WILMINGTON GINDER A-J | 840191001606703 | https://evergreen.lib.in.us/eg/opac/record/20680996?locg=318 |
+| Mt. Pleasant Cemetery : Wilmington Township, DeKalb County, Indiana K - Z | DEKALB CEMETERY WILMINGTON GINDER K-Z | 840191001606691 | https://evergreen.lib.in.us/eg/opac/record/20680996?locg=318 |
