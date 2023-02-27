@@ -7,7 +7,6 @@
 - **Coordinates:** 41.3433, -84.84
 - **Township:** Newville
 - **Nearest town:** Newville
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -29,9 +28,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/86579
 - **BillionGraves:** https://billiongraves.com/cemetery/Riverside-Cemetery/30871
-- **SHAARD #:** 033-274-40003
-- **DNR Survey #:** CR-17-25
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-274-40003
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-25
 
+### Books at Willennar Genealogy Center
 
-### WGC
-- **Cemetery book at WGC:** Yes
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Southeastern DeKalb County, Indiana, tombstone records Vol. 5 | DEKALB CEMETERY INSCRIPTION V.5 | 840191000602774 | https://evergreen.lib.in.us/eg/opac/record/20670314?locg=318 |
