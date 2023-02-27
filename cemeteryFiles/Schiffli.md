@@ -7,7 +7,6 @@
 - **Coordinates:** 41.51619, -85.04104 (estimate)
 - **Township:** Smithfield
 - **Nearest town:** Ashley
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
@@ -29,9 +28,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2339483
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** CR-17-33
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-33
 
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Schiffli Cemetery : Smithfield Township, DeKalb County, Indiana | DEKALB CEMETERY SMITHFIELD SCHIFFLI | 840191001606676 | https://evergreen.lib.in.us/eg/opac/record/20681035?locg=318 |
