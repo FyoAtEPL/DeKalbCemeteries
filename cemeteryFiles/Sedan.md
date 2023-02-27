@@ -7,7 +7,6 @@
 - **Coordinates:** 41.42810, -85.09970
 - **Township:** Richland
 - **Nearest town:** Sedan
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:**Active
