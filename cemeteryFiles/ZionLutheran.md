@@ -7,7 +7,6 @@
 - **Coordinates:** 41.4819233, -85.1747079
 - **Township:** Fairfield
 - **Nearest town:** Fairfield Center
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -29,8 +28,13 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/1793462
 - **BillionGraves:** https://billiongraves.com/cemetery/Zion-Lutheran-Church-Cemetery/291044
-- **SHAARD #:** 031-133-15034
-- **DNR Survey #:** CR-17-8
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 031-133-15034
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-8
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery Record Book for Zion Evangelical Lutheran Church West Fairfield | DEKALB CEMETERY FAIRFIELD ZION LUTHERAN | 840191001232954 | https://evergreen.lib.in.us/eg/opac/record/20691512?locg=318 |
+| DeKalb County Indiana cemetery inscriptions Vol. 2 | DEKALB CEMETERY INSCRIPTION V.2 | 840191000271911 | https://evergreen.lib.in.us/eg/opac/record/20670316?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
