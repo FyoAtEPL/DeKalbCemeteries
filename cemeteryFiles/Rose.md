@@ -7,7 +7,6 @@
 - **Coordinates:** 41.38061, -84.84059 (estimate)
 - **Township:** Stafford
 - **Nearest town:** Stafford Center
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
@@ -19,7 +18,7 @@
 - **Alternate names:** None
 - **Relation to other cemeteries):** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ROSE, Manerva Ann, d. Jan. 30, 1849, age 14y, 15d
+- **Earliest date found on a headstone:** Manerva Ann Rose, d. Jan. 30, 1849, age 14y, 15d
 - **Earliest burial:** ?
 - **Number of graves:** 1 remaining (possibly 6 existed previously)
 - **Notable monuments:** None
@@ -29,9 +28,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2339572/rose-cemetery
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
 
+### Books at Willennar Genealogy Center
 
-### WGC
-- **Cemetery book at WGC:** None
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
