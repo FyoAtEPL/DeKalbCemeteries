@@ -29,8 +29,16 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/86828
 - **BillionGraves:**https://billiongraves.com/cemetery/Sedan-Cemetery/31313
-- **SHAARD #:** 033-644-20004
-- **DNR Survey #:** CR-17-27
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-644-20004
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-27
 
-### WGC
-- **Cemetery book at WGC:**  Yes
+### Books at Willennar Genealogy Center
+
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Garrett Legion and the VFW burial locations | DEKALB CEMETERY GARRETT LEGION VFW | 840191001231781 | https://evergreen.lib.in.us/eg/opac/record/20670193?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Sedan Cemetery, Richland Township, DeKalb County, Indiana A - L | DEKALB CEMETERY RICHLAND SEDAN (A-L) | 840191001802645 | https://evergreen.lib.in.us/eg/opac/record/20692577?locg=318 |
+| Sedan Cemetery, Richland Township, DeKalb County, Indiana M - Z | DEKALB CEMETERY RICHLAND SEDAN (M-Z) | 840191001802631 | https://evergreen.lib.in.us/eg/opac/record/20692577?locg=318 |
