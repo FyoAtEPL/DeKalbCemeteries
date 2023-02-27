@@ -5,7 +5,6 @@
 - **Coordinates:**
 - **Township:**
 - **Nearest town:**
-- *Google Earth Image*
 
 ### Ownership and Access Information
 - **Status:**
@@ -27,8 +26,11 @@
 ### Other Indexes
 - **Findagrave:**
 - **BillionGraves:**
-- **SHAARD #:**
-- **DNR Survey #:**
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:**
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:**
 
-### WGC
-- **Cemetery book at WGC:**
+### Books at Willennar Genealogy Center
+
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Waterloo Mausoleum | DEKALB CEMETARY GRANT WATERLOO | 840191002025077 | https://evergreen.lib.in.us/eg/opac/record/20716381?locg=318 |
