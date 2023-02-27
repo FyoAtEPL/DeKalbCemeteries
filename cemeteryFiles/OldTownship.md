@@ -27,9 +27,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/1714855
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
 
+### Books at Willennar Genealogy Center
 
-### WGC
-- **Cemetery book at WGC:** Yes
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| The Fairfield Cemetery, County Roads 12 & 13, Corunna, Indiana | DEKALB CEMETERY FAIRFIELD FAIRFIELD | 840191001250659 | https://evergreen.lib.in.us/eg/opac/record/20698238?locg=318 |
+| Fairfield Center Cemetery tombstone inscriptions : DeKalb County, (Indiana) | DEKALB CEMETERY FAIRFIELD FAIRF.CEN | 840191000271846 | https://evergreen.lib.in.us/eg/opac/record/20670311?locg=318 |
