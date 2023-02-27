@@ -11,7 +11,6 @@
 - **Coordinates:** 41.2709652, -84.9391285
 - **Township:** Spencer
 - **Nearest town:** Spencerville
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -33,8 +32,15 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/87377
 - **BillionGraves:** https://billiongraves.com/cemetery/White-City-Cemetery/32299
-- **SHAARD #:** 033-564-70018
-- **DNR Survey #:** CR-17-37
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-564-70018
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-37
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb cemetery talks 200+: In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
+| Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Southeastern DeKalb County, Indiana, tombstone records Vol. 5 | DEKALB CEMETERY INSCRIPTION V.5 | 840191000602774 | https://evergreen.lib.in.us/eg/opac/record/20670314?locg=318 |
+| White City Cemetery inscriptions, Spencerville, DeKalb County, Indiana | DEKALB CEMETERY SPENCER WHITE.CITY | 840191000272240 |
