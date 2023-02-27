@@ -28,9 +28,13 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2735421
 - **BillionGraves:** None
-- **SHAARD #:** 033-05-30001
-- **DNR Survey #:** CR-17-53
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-05-30001
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-53
 
+### Books at Willennar Genealogy Center
 
-### WGC
-- **Cemetery book at WGC:** No
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| Cemetery inscriptions, DeKalb County, Indiana V. 1 | DEKALB CEMETERY INSCRIPTION V.1 | 840191000243890 | https://evergreen.lib.in.us/eg/opac/record/20697937?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses : Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
