@@ -4,9 +4,12 @@
 
 This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goal is to make an index that is easily accessible by patrons of the Willenar Genealogy Center, a service of Eckhart Public Library. When complete, it will consist of an online version and a printed edition available for reference at WGC. This project is a born-digital approach to documenting notable locations in our county.
 
+
 ### Purpose of this Github repository
 
 This repository is the current collection of files and page drafts for the index. All files are not final, I am adding and updating information on a weekly basis. When finished, it will be made into a website freely accessible by the public.
+
+**[Changelog can be viewed here](http://https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/changelog.md "Changelog can be viewed here")**
 
 ## Overview of DeKalb County, Indiana
 
@@ -27,7 +30,7 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 For cemeteries that have notable sections (z.B. Fairfield/Old Township), the index will have a page for the MAIN CEMETERY, with a section denoting the different sections and their relevent information. The page for the separate sections will function as a disambiguatiion page on Wikipedia, linking to the relative cemetery. This is to make up for how some sections may appear to be discrete cemeteries but are in reality the same entity.
 
 
-## Maps - Current Ver. 4767.0, February 13, 2023
+## Maps - Current Ver. 4.0, February 13, 2023
 
 Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
