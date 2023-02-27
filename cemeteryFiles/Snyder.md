@@ -7,7 +7,6 @@
 - **Coordinates:** 41.28100, -85.09620 (estimate)
 - **Township:** Butler
 - **Nearest town:** St. Johns
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
@@ -31,9 +30,6 @@
 - **BillionGraves:** None
 - **SHAARD #:** None
 - **DNR Survey #:** None
-
-### WGC
-- **Cemetery book at WGC:** No
 
 ### Information
 Only two stones remain.
