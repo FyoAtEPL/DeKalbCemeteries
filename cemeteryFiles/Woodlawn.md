@@ -7,7 +7,6 @@
 - **Coordinates:** 41.3550497, -85.0501076
 - **Township:** Union
 - **Nearest town:** Auburn
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -29,8 +28,14 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/87452
 - **BillionGraves:** https://billiongraves.com/cemetery/Woodlawn-Cemetery/32435
-- **SHAARD #:** 003-027-50014
-- **DNR Survey #:** CR-17-48
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 003-027-50014
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-48
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb cemetery talks 200+: In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Roselawn - Woodlawn - Southlawn cemetery inscriptions : DeKalb County, Indiana | DEKALB CEMETERY UNION RL-WL-SL V.1 | 840191000271862 | https://evergreen.lib.in.us/eg/opac/record/20670313?locg=318 |
+| Roselawn - Woodlawn - Southlawn cemetery inscriptions : DeKalb County, Indiana | DEKALB CEMETERY UNION RL-WL-SL V.2 | 840191000271883 | https://evergreen.lib.in.us/eg/opac/record/20670313?locg=318 |
