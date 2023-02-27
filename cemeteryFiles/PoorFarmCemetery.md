@@ -7,7 +7,6 @@
 - **Coordinates:** 41.38109, -85.08785
 - **Township:** Keyser
 - **Nearest town:** Auburn
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
@@ -29,9 +28,5 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2727557
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
-
-
-### WGC
-- **Cemetery book at WGC:** No
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
