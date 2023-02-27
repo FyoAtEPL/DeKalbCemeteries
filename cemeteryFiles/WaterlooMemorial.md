@@ -10,7 +10,6 @@
 - **Coordinates:** 41.4365292, -85.0238269
 - **Township:** Grant
 - **Nearest town:** Waterloo
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -32,8 +31,12 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/1485413
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
 
-### WGC
-- **Cemetery book at WGC:** No
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb cemetery talks 200+: In honor of Indiana's 200th | DEKALB CEMETERY HISTORY 200 | 840191002027789 | https://evergreen.lib.in.us/eg/opac/record/20859537?locg=318 |
+| Waterloo Cemetery inscriptions: DeKalb County, Indiana | DEKALB CEMETERY GRANT WATERLOO | 840191000271838 | https://evergreen.lib.in.us/eg/opac/record/20670312?locg=318 |
+
