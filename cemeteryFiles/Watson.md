@@ -7,7 +7,6 @@
 - **Coordinates:** 41.2889828, -84.9916852
 - **Township:** Jackson
 - **Nearest town:** Concord
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
@@ -29,8 +28,13 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/87301
 - **BillionGraves:** https://billiongraves.com/cemetery/Watson-Cemetery/32153
-- **SHAARD #:** None
-- **DNR Survey #:** CR-17-20
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-20
 
-### WGC
-- **Cemetery book at WGC:** Yes
+### Books at Willennar Genealogy Center
+| Title | Call Number | Barcode | Evergreen Record |
+| ------------ | ------------ | ------------ | ------------ |
+| DeKalb County cemetery locations | DEKALB CEMETERY LOCATION | 840191000767292 | https://evergreen.lib.in.us/eg/opac/record/20670319?locg=318 |
+| Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
+| Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
+| Watson Cemetery, Jackson Township, DeKalb County | DEKALB CEMETERY JACKSON WATSON | 840191001089962 | https://evergreen.lib.in.us/eg/opac/record/20697874?locg=318 |
