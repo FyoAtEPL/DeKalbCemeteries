@@ -8,7 +8,6 @@
 - **Township:** Concord
 - **Nearest town:** Orangeville?
 - *Google Earth Image*
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** No longer extant
