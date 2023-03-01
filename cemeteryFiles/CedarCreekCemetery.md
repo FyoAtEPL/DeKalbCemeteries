@@ -20,11 +20,11 @@
 - **Date established:** 
 - Various dates given
   - 1850 according to SHAARD
-  - 1858 or 1860 according to Dorothy A. Ditmars in *Reports On Phases of DeKalb County History Worked Outt in Connection With an Extension Course In Indiana History, 1923-1924*
+  - 1858 or 1860 according to Dorothy A. Ditmars in *Reports On Phases of DeKalb County History Worked Out in Connection With an Extension Course In Indiana History, 1923-1924*
   - October, 1877 according to *So Grows A City: Garrett, IN 1875-1975* (Official Publication of the Greater Garrett Centennial Corp.)
-- **Earliest date found on a headstone:** 1845
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** Henry Miller, d. 25 Jun 1837 (Findagrave, 2023)
+- **Earliest burial:** 1845 (SHAARD)
+- **Number of graves:** 2681 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:**?
 - **Religious Affiliation:** none
