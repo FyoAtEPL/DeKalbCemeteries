@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** 1860
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** John W. Rice, d. 3 May 1860
+- **Earliest burial:** 1860 (SHAARD)
+- **Number of graves:** 3 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
