@@ -18,9 +18,9 @@
 - **Alternate names:** Ginder Cemetery, Mount Pleasant Church Cemetery, Sawdust Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** February 28, 1888 under the Ginder Cemetery Association
-- **Earliest date found on a headstone:** 1871
-- **Earliest burial:** 1871
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** Jacob Fisher, d. Aug. 18, 1850 (Findagrave)
+- **Earliest burial:** 1871 (SHAARD)
+- **Number of graves:** 388 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** United Brethren, Methodist, United Methodist, Evangelical-United Brethren
