@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** None
+- **Earliest date found on a headstone:** None remaining, oldest date in books is Maria Hoffman, d. May 7, 1857
 - **Earliest burial:** 1857
-- **Number of graves:** ?
+- **Number of graves:** 7 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None
