@@ -16,12 +16,12 @@
 ### Cemetery Information
 - **Alternate names:** Coburn Cemetery , Morr Cemetery
 - **Relation to other cemeteries:** None
-- **Date established:** 1844
-- **Earliest date found on a headstone:** 1844
+- **Date established:** 1844 (SHAARD)
+- **Earliest date found on a headstone:** John Fetter, d. 1838 (Findagrave, 2023)
 - **Earliest burial:** ?
-- **Number of graves:** ?
-- **Notable monuments:** ?
-- **Notable burials:** ?
+- **Number of graves:**  72 (Findagrave, 2023)
+- **Notable monuments:** None
+- **Notable burials:** None
 - **Religious Affiliation:** None
 
 ### Other Indexes
