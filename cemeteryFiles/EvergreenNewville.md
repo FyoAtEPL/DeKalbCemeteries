@@ -20,9 +20,9 @@ This file will be merged with the other Newville Cemetery files in the near futu
 - **Alternate names:** Newville Cemetery
 - **Relation to other cemeteries):** The **Evergreen Cemetery of Newville** was combined with the **Newville Burying Grounds** on September 21, 1985. Located next to Riverview Cemetery, which is not part of Evergreen/Newville.
 - **Date established:** June 16, 1875 by David Landis and privately operated by the Landis family for several years. Ownership transferred to the Evergreen Cemetery Association when the Association was incorporated October 19, 1895.
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Martha A Roff, d. 14 Feb 1805 (Findagrave. NOTE: This doesn't sound right to me)
 - **Earliest burial:** 1875
-- **Number of graves:** ?
+- **Number of graves:**  873 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran, Methodist, Wesleyan, Church of Christ
