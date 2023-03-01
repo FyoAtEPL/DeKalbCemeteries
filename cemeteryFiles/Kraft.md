@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** Krafft Cemetery
 - **Relation to other cemeteries:** None
-- **Date established:** 1848
-- **Earliest date found on a headstone:** 1843
+- **Date established:** 1848 (SHAARD)
+- **Earliest date found on a headstone:** Almena O. Coe, d. 28 Aug 1843
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 29 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
