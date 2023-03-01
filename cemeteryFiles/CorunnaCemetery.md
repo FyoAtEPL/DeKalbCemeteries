@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1835
-- **Earliest date found on a headstone:** 1837
+- **Date established:** 1835 (SHAARD)
+- **Earliest date found on a headstone:** Amina Britton, d. 20 Apr 1850 (Findagrave, 2023)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  943 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
