@@ -18,9 +18,9 @@
 - **Alternate names:** Butler Township St. John's Lutheran Cemetery
 - **Relation to other cemeteries:** Many of the bodies and graves were relocated to Cedar Creek Cemetery.
 - **Date established:** c. 1830
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:**  Janet L. Hathaway, d. 6 Feb 2022 (Findagrave, only date given)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 2 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** Lutheran
