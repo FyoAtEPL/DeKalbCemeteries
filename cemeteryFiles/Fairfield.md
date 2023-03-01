@@ -17,10 +17,12 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** The older section of this cemetery is called the **Old Township Cemetery.**
-- **Date established:** 1850
-- **Earliest date found on a headstone:** 1852
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Date established:** 1850 (SHAARD)
+- **Earliest date found on a headstone:**
+  - Elisabeth Row, d. 5 Oct 1818 (Doesn't sound right) (Findagrave)
+  - Franke Wilsey, d. Feb. 10, 1839 (Book at WGC)
+- **Earliest burial:** 1852 (SHAARD)
+- **Number of graves:**  3053 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** Dr. Harold C. Urey
 - **Religious Affiliation:** Lutheran
