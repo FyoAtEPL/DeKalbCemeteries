@@ -19,7 +19,9 @@
 - **Relation to other cemeteries:** None
 - **Date established:** 1836
 - **Earliest date found on a headstone:** 1841?
-- **Earliest burial:** No name - Child of Immigrants, first burial here 1836
+- **Earliest burial:** 
+  - No name - Child of Immigrants, first burial here 1836 (Book)
+  - Infant Aldrich, d. 12 Aug 1822 (Findagrave, 2023)
 - **Number of graves:**  1358 (Findagrave, 2023)
 - **Notable monuments:** ? 
 - **Notable burials:** John Houlton, first settler of DeKalb County
