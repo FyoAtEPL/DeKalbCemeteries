@@ -9,6 +9,17 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 
 ### Updated
 - Rude.md
+- CedarCreekCemetery.md
+- CedarLakeCemetery.md
+- ChristianUnionCemetery.md
+- ConcordCemetery.md
+- CorunnaCemetery.md
+- CosperCemetery.md
+- DunnCemetery.md
+- EddyCemetery.md
+- EmbreyCemetery.md
+- EvergreenAuburn.md
+- EvergreenNewville.md
 
 ## 2023-02-27
 
