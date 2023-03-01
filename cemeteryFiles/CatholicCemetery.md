@@ -26,10 +26,12 @@
 - **Alternate names:** Immaculate Conception Catholic Cemetery
 - **Relation to other cemeteries):** None
 - **Date established:** 1881
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Thomas Collins, d. 1881 (Findagrave, 2023)
 - **Earliest burial:** ?
-- **Number of graves:** ?
-- **Notable monuments:** Kelly and Turner family mausoleums. An arch with reliefs of DeKalb County landmarks, designed and built by Fr. Henry Mascotte in 1985.
+- **Number of graves:** 687 (Findagrave, 2023)
+- **Notable monuments:** 
+  - Kelly and Turner family mausoleums. 
+  - An arch with reliefs of DeKalb County landmarks, designed and built by Fr. Henry Mascotte in 1985.
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
 
