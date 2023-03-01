@@ -16,11 +16,11 @@
 
 ### Cemetery Information
 - **Alternate names:** Mott Family Cemetery
-- **Relation to other cemeteries:** None
+- **Relation to other cemeteries:** Next to Catholic Cemetery but not related.
 - **Date established:** C. 1890
-- **Earliest date found on a headstone:** ?
-- **Earliest burial:** C. 1890
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** Sheridan Edward Mott, d. 16 May 1864
+- **Earliest burial:** C. 1890 (SHAARD)
+- **Number of graves:** 26 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
