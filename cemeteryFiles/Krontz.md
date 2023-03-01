@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1862
-- **Earliest date found on a headstone:** 1860
+- **Date established:** 1862 (SHAARD)
+- **Earliest date found on a headstone:** Reverus Ashley Handy Sr., d. 9 Nov 1849 (Findagrave)
 - **Earliest burial:**?
-- **Number of graves:** ?
+- **Number of graves:** 118 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
