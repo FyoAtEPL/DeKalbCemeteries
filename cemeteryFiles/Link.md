@@ -7,7 +7,7 @@
 - **Nearest town:** Unlocated
 
 ### Ownership and Access Information
-- **Status:** Inactive
+- **Status:** No longer extant
 - **Owner:** ?
 - **Accessibility:** ?
 - **Hours:** ?
@@ -16,9 +16,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** None
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** None remaining
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None
