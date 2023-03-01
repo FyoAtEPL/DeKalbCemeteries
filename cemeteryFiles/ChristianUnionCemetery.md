@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1872
-- **Earliest date found on a headstone:** 1872
+- **Date established:** 1872 (SHAARD)
+- **Earliest date found on a headstone:** Mary Asaline Barton, d. 28 Jan 1860
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  5479 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Christian
