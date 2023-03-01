@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1847
-- **Earliest date found on a headstone:** 1847
+- **Date established:** 1847 (SHAARD)
+- **Earliest date found on a headstone:** Catherine Unknown, d. 10 May 1842 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 25 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
