@@ -16,11 +16,13 @@
 
 ### Cemetery Information
 - **Alternate names:** Newville Cemetery, Burying Grounds, Old Burying Grounds, Vienna Burying Grounds (possibly)
-- **Relation to other cemeteries:** Oldest part of Newville Cemetery. Merged with Evergreen Cemetery in 1985.
+- **Relation to other cemeteries:** Oldest part of Newville Cemetery. Merged with Evergreen Cemetery in 1985. Not part of Riverview Cemetery
 - **Date established:** September 18, 1861 by deed of land from Solomon and Maria DeLong to the Trustees of Newville Township
-- **Earliest date found on a headstone:** Electa Barker, d. September 1838
+- **Earliest date found on a headstone:** 
+  - Electa Barker, d. September 1838 (book)
+  - Martha A Roff, d. 14 Feb 1805 (Findagrave)
 - **Earliest burial:** Electa Barker, d. September 1838
-- **Number of graves:** ?
+- **Number of graves:** 873, including both Newville Burying Grounds and Evergreen Cemetery (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran, Methodist, Wesleyan, Church of Christ
