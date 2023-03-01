@@ -5,7 +5,6 @@
 - **Coordinates:** 41.42840, -84.83308
 - **Township:** Butler
 - **Nearest town:** Butler
-- *Google Earth Image*
 
 ### Ownership and Access Information
 - **Status:** Active
