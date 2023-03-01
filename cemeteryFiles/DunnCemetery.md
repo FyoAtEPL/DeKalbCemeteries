@@ -7,7 +7,6 @@
 - **Coordinates:** 41.41044, -85.05776
 - **Township:** Grant
 - **Nearest town:** Waterloo
-- *Google Maps Image*
 
 ### Ownership and Access Information
 - **Status:** Inactive
