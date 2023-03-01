@@ -5,13 +5,54 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2023-02-27
+
+### Branches
+#### Requests
+- Created NewvilleDisambig.md
+- Changed WaterlooCemeteriesDisambig.md to WaterlooDisambig.md
+- Created FairfieldDisambig.md
+
+### Updated
+- CosperCemetery.md
+- Lutz.md
+- Mott.md
+- MountPleasant.md
+- Newcomer.md
+- NewvilleBuryingGrounds.md
+- Norris.md
+- OldAuburn.md
+- OldTownship.md
+- Orangeville.md
+- Renner.md
+- Ridge.md
+- RiversideStJoe.md
+- Riverview.md
+- Rose.md
+- Roselawn.md
+- SaintMichael.md
+- Schiffli.md
+- Sedan.md
+- Sixteen.md
+- Southlawn.md
+- Stroh.md
+- Tamarack.md
+- Wartenbe.md
+- WaterlooCity.md
+- WaterlooMausoleum.md
+- WaterlooMemorial.md
+- Watson.md
+- WhiteCity.md
+- WilhelmFarm.md
+- Woodlawn.md
+- ZionLutheran.md
+
 ## 2023-02-23
 
 ### Updated
 - Kraft.md
 - Krontz.md
 - Link.md
-
 
 ## 2023-02-22
 
