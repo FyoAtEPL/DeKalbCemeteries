@@ -20,7 +20,7 @@
 - **Date established:** Land deeded to Salem Church March 28, 1866
 - **Earliest date found on a headstone:**
 - **Earliest burial:** Mary (possibly nicknamed "Polly") Husselman, d. Sept. 1852
-- **Number of graves:** ?
+- **Number of graves:** 33 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** ?
