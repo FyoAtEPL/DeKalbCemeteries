@@ -17,9 +17,9 @@
 - **Alternate names:** Union Chapel Cemetery
 - **Relation to other cemeteries:** ?
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Margaret Hay, d. 7 Aug 1848 (Findagrave, 2023)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 82 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
