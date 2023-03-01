@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries):** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** None
+- **Earliest date found on a headstone:** Fanny Dunn, d. 24 Sep 1851 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 8 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None
