@@ -5,7 +5,6 @@
 - **Coordinates:** ?
 - **Township:** Spencer
 - **Nearest town:** ?
-- *Google Earth Image*
 
 ### Ownership and Access Information
 - **Status:** ?
