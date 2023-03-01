@@ -5,7 +5,7 @@
 ![Riverside Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/RiversideEarth.png "Riverside Cemetery on Google Earth")
 
 ### Geographical Information
-- **Address:**302 Ralph Sechler Drive, St Joe, IN 46785
+- **Address:** 302 Ralph Sechler Drive, St Joe, IN 46785
 - **Coordinates:** 41.31170, -84.90170
 - **Township:** Spencer
 - **Nearest town:** St. Joe
