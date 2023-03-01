@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** Embry Cemetery
 - **Relation to other cemeteries:** None
-- **Date established:** 1851
-- **Earliest date found on a headstone:** 1851
+- **Date established:** 1851 (SHAARD)
+- **Earliest date found on a headstone:** Thomas E. Embrey, d. 23 Mar 1854 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  368 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
