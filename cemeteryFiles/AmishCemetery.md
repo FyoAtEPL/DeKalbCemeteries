@@ -27,4 +27,4 @@
 - **Findagrave:** None
 - **BillionGraves:** None
 - **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
-- **DNR Survey #:** CR-17-35
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-35
