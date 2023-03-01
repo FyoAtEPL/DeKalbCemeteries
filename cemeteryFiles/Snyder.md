@@ -28,8 +28,8 @@
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/2350159
 - **BillionGraves:** None
-- **SHAARD #:** None
-- **DNR Survey #:** None
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
 
 ### Information
 Only two stones remain.
