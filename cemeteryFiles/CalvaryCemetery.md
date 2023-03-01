@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1897
-- **Earliest date found on a headstone:** 1870
+- **Date established:** 1897  (where did I get this year??)
+- **Earliest date found on a headstone:** Elzy Andrews, d. 29 Nov 1863
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  1705 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
