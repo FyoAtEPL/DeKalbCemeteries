@@ -17,9 +17,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ca. 2010
-- **Earliest date found on a headstone:** 2010?
+- **Earliest date found on a headstone:** Bradley N. Kaiser, d. 17 Jul 2011
 - **Earliest burial:** 2010?
-- **Number of graves:** ?
+- **Number of graves:** 5 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
