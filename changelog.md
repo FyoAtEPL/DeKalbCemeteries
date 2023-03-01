@@ -20,6 +20,21 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - EmbreyCemetery.md
 - EvergreenAuburn.md
 - EvergreenNewville.md
+- Fairfield.md
+- Forney.md
+- HessenCassel.md
+- Husselman.md
+- Jenkins.md
+- Kraft.md
+- Krontz.md
+- Link.md
+- LutheranChurchCemetery.md
+- Lutz.md
+- Mott.md
+- MountPleasant.md
+- Newcomer.md
+- 
+
 
 ## 2023-02-27
 
