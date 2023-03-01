@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1849
-- **Earliest date found on a headstone:** 1849
+- **Date established:** 1849 (SHAARD)
+- **Earliest date found on a headstone:** Jacob Rennels, d. 11 Sep 1846 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 64 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** ?
