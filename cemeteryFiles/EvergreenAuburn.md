@@ -20,9 +20,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** Next to Old Auburn Cemetery, which is sometimes called Old Evergreen Cemetery, suggesting a connection between them.
 - **Date established:** ?
-- **Earliest date found on a headstone:** 1815
+- **Earliest date found on a headstone:** Birdy Allen Hartman, d. 30 Jan 1827
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  1465 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Baptist, Roman Catholic
