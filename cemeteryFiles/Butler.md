@@ -16,9 +16,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries (expansion, merged with, close to but not part of, etc.):** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** 1870
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** 1870 (SHAARD
+- **Earliest burial:** Orland J. Strickney, d. 28 Jan 1815 (NOTE: This doesn't sound right to me since it's older than anything else in the county)
+- **Number of graves:**  3990 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
