@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1840
-- **Earliest date found on a headstone:** 1840
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Date established:** 1840 (SHAARD)
+- **Earliest date found on a headstone:** Justin Stewart, d. 5 Mar 1835
+- **Earliest burial:** Justin Stewart, d. 5 Mar 1835
+- **Number of graves:**  449 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
