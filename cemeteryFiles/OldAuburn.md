@@ -18,9 +18,9 @@
 - **Alternate names:** Old Evergreen Cemetery
 - **Relation to other cemeteries:** Accross East 18th Street from Evergreen Cemetery. The alternate name "Old Evergreen Cemetery" suggests they're related.
 - **Date established:** 1836
-- **Earliest date found on a headstone:** ?
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** M. E. Ingman, d. 19 Mar 1811 (Findagrave) (NOTE: This doesn't sound right to me)
+- **Earliest burial:** 1842 (DeKalb Cemetery Talks 200+ book)
+- **Number of graves:** 276 (Findagrave)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
