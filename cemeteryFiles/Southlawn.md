@@ -18,8 +18,8 @@
 ### Cemetery Information
 - **Alternate names:** Woodlawn Cemetery
 - **Relation to other cemeteries:** Newest section of Woodlawn Cemetery.
-- **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Date established:** 1870 (SHAARD)
+- **Earliest date found on a headstone:** Helen Ralston, d. 26 Nov 1855 (Findagrave)
 - **Earliest burial:** ?
 - **Number of graves:** ?
 - **Notable monuments:** ?
