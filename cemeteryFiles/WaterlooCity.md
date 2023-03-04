@@ -20,9 +20,9 @@
 - **Alternate names:** Maplewood Cemetery, Waterloo Cemetery
 - **Relation to other cemeteries:** According to postings at this cemetery, Waterloo City Cemetery (on the east side of North Center Street) and Waterloo Memorial Cemetery (on the west side of North Center Street) are two parts of one cemetery. (Need to confirm)
 - **Date established:** Founded 1867, Incorporated 1875 (according to sign at cemetery). SHAARD gives the year as 1840.
-- **Earliest date found on a headstone:** ?
-- **Earliest burial:** 1840
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** Malvina Hemstreet, d. 6 Feb 1848 (Findagrave)
+- **Earliest burial:** 1840 (SHAARD)
+- **Number of graves:** 4,741 (Findagrave, 2023, including Waterloo Memorial Cemetery)
 - **Notable monuments:** Waterloo Mausoleum
 - **Notable burials:** ?
 - **Religious Affiliation:** None
