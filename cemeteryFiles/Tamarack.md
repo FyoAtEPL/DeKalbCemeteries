@@ -19,9 +19,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** 1864
+- **Earliest date found on a headstone:** Barbara (Byers) Reed, 1840 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 108 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
