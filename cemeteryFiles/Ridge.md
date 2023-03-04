@@ -20,9 +20,9 @@
 - **Alternate names:** Keller Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** 1837 (SHAARD)
-- **Earliest date found on a headstone:** 184_ (according to list I have, need to verify)
+- **Earliest date found on a headstone:** Mary C. Shanks, d. 22 Aug 1837 (Findagrave)
 - **Earliest burial:** 1837 (SHAARD)
-- **Number of graves:** 43 (according to list I have, need to verify)
+- **Number of graves:** 45 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
