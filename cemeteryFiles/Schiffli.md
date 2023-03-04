@@ -20,7 +20,7 @@
 - **Date established:** c. 1861
 - **Earliest date found on a headstone:** Herrietta McOsker, d. 9 Jan. 1861
 - **Earliest burial:** Herrietta McOsker, d. 9 Jan. 1861
-- **Number of graves:** ?
+- **Number of graves:** 11 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
