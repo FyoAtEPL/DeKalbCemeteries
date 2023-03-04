@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Manda Mottinger, d. 23 Mar 1862 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 3 (Findagrave)
 - **Notable monuments:** None
 - **Notable burials:** ?
 - **Religious Affiliation:** None
