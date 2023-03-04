@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries):** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** Manerva Ann Rose, d. Jan. 30, 1849, age 14y, 15d
+- **Earliest date found on a headstone:** Manerva Ann (Underwood) Rose, d. 30 Jan 1848
 - **Earliest burial:** ?
-- **Number of graves:** 1 remaining (possibly 6 existed previously)
+- **Number of graves:** 3 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None
