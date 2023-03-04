@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** Next to Roselawn Cemetery and Auburn Mausoleum though not related. Newer section is called Southlawn.
 - **Date established:** 1870
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Helen Ralston, d. 26 Nov 1855 (Findagrave)
 - **Earliest burial:** 1870
-- **Number of graves:** ?
+- **Number of graves:**  9072 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
