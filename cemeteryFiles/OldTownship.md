@@ -16,7 +16,7 @@
 ### Cemetery Information
 - **Alternate names:** Fairfield Cemetery
 - **Relation to other cemeteries:** Oldest section of Fairfield Cemetery
-- **Date established:** 1850
+- **Date established:** 1850 (SHAARD)
 - **Earliest date found on a headstone:** 
   - Elisabeth Row, d. 5 Oct 1818 (Findagrave)
   - Franke Wilsey, d. Feb. 10, 1839 (book, more likely)
