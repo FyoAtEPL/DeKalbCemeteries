@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** ?
-- **Date established:** 1832
-- **Earliest date found on a headstone:** 1832
-- **Earliest burial:** ?
-- **Number of graves:** ?
+- **Date established:** ?
+- **Earliest date found on a headstone:** Watson E. Conley, d. 6 Nov 1847 (Findagrave)
+- **Earliest burial:** 1832 (SHAARD)
+- **Number of graves:** 461 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
