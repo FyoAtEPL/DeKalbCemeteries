@@ -19,10 +19,10 @@
 ### Cemetery Information
 - **Alternate names:** Knights of Pythias Cemetery, K of P
 - **Relation to other cemeteries:** None
-- **Date established:** ?
-- **Earliest date found on a headstone:** 1875
+- **Date established:** 1919 (SHAARD)
+- **Earliest date found on a headstone:** Jacob Yarnell, d. 7 Sep 1865 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 1303 (Findagrave, 2023)
 - **Notable monuments:** Grand Army of the Republic (GAR) Civil War monument, erected 1911.
 - **Notable burials:** ?
 - **Religious Affiliation:** None
