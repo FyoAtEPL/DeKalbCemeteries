@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** David Wilhelm, d. 12 Aug 1864 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** None remaining
+- **Number of graves:** None remaining (9 graves according to Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None
