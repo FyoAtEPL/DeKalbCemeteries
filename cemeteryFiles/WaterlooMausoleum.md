@@ -1,33 +1,33 @@
-# Cemetery Name
+# Waterloo Mausoleum
 
 ### Geographical Information
-- **Address:**
-- **Coordinates:**
-- **Township:**
-- **Nearest town:**
+- **Address:** ?
+- **Coordinates:** 41.4372554, -85.0228777
+- **Township:** Grant
+- **Nearest town:** Waterloo
 
 ### Ownership and Access Information
-- **Status:**
-- **Owner:**
-- **Accessibility:**
-- **Hours:**
+- **Status:** ?
+- **Owner:** Waterloo Cemetery Association
+- **Accessibility:** ?
+- **Hours:** ?
 
 ### Cemetery Information
-- **Alternate names:**
-- **Relation to other cemeteries:**
-- **Date established:**
-- **Earliest date found on a headstone:**
-- **Earliest burial:**
-- **Number of graves:**
-- **Notable monuments:**
-- **Notable burials:**
-- **Religious Affiliation:**
+- **Alternate names:** ?
+- **Relation to other cemeteries:** In or next to Waterloo City Cemetery
+- **Date established:** 1917
+- **Earliest date found on a headstone:** ?
+- **Earliest burial:** ?
+- **Number of graves:** ?
+- **Notable monuments:** ?
+- **Notable burials:** ?
+- **Religious Affiliation:** None
 
 ### Other Indexes
-- **Findagrave:**
-- **BillionGraves:**
-- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:**
-- **Indiana Register of Historic Sites and Structures Cemetery Register #:**
+- **Findagrave:** None
+- **BillionGraves:** None
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** None
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
 
 ### Books at Willennar Genealogy Center
 
