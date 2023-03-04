@@ -17,9 +17,11 @@
 - **Alternate names:** Fairfield Cemetery
 - **Relation to other cemeteries:** Oldest section of Fairfield Cemetery
 - **Date established:** 1850
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** 
+  - Elisabeth Row, d. 5 Oct 1818 (Findagrave)
+  - Franke Wilsey, d. Feb. 10, 1839 (book, more likely)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:**  3053 (Findagrave, 2023, counting all of Fairfield Cemetery)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran
