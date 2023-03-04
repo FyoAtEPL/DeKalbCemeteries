@@ -19,7 +19,7 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** None
+- **Earliest date found on a headstone:** Unknown, d. March 8, 1843, no longer extant (Book)
 - **Earliest burial:** ?
 - **Number of graves:** None
 - **Notable monuments:** None
