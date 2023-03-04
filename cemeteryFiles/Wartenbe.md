@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1820
-- **Earliest date found on a headstone:** 1829
+- **Date established:** 1820 (SHAARD)
+- **Earliest date found on a headstone:** John Webster, d. 1841 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 184 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
