@@ -21,7 +21,7 @@
 - **Date established:** ?
 - **Earliest date found on a headstone:** Henry Stroh, Jan. 9, 1847
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 17 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
