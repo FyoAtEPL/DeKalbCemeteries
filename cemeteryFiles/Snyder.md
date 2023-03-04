@@ -18,9 +18,9 @@
 - **Alternate names:** Carnahan Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Catharine (Krisch) Snyder, d. Mar 1858
 - **Earliest burial:** ?
-- **Number of graves:** 2 stones remain
+- **Number of graves:** 4 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** None
 - **Religious Affiliation:** None 
