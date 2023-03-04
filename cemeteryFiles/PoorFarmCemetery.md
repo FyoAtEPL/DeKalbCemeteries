@@ -19,7 +19,7 @@
 - **Relation to other cemeteries:** None
 - **Date established:** 1875
 - **Earliest date found on a headstone:** None
-- **Earliest burial:** 1875
+- **Earliest burial:** Charles Call, d. 22 Oct 1875 (Findagrave)
 - **Number of graves:** 160 listed on memorial
 - **Notable monuments:** A memorial for all burials, 1875-1953
 - **Notable burials:** None
