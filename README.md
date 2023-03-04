@@ -9,7 +9,7 @@ This is an index of cemeteries and gravesites in DeKalb County, Indiana. Our goa
 
 This repository is the current collection of files and page drafts for the index. All files are not final, I am adding and updating information on a weekly basis. When finished, it will be made into a website freely accessible by the public.
 
-**[Changelog can be viewed here](http://https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/changelog.md "Changelog can be viewed here")**
+**[Changelog can be viewed here](http://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/changelog.md "Changelog can be viewed here")**
 
 ## Overview of DeKalb County, Indiana
 
