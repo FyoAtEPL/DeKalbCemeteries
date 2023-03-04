@@ -10,8 +10,8 @@
 ### Ownership and Access Information
 - **Status:** Inactive
 - **Owner:** Union Township
-- **Accessibility:** ?
-- **Hours:** ?
+- **Accessibility:** Accessible from road. Fenced in but not locked.
+- **Hours:** None posted
 
 ### Cemetery Information
 - **Alternate names:** Union Chapel Cemetery
