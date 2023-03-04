@@ -18,9 +18,9 @@
 - **Alternate names:** Zion Sixteen Evangelical Lutheran Church
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** 1850
+- **Earliest date found on a headstone:** George Rasler, d. 22 Feb 1846 (Findagrave)
 - **Earliest burial:** Lutheran
-- **Number of graves:** ?
+- **Number of graves:** 433 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran
