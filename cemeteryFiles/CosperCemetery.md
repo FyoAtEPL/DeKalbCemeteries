@@ -9,7 +9,7 @@
 
 ### Ownership and Access Information
 - **Status:** Inactive
-- **Owner:** ?
+- **Owner:** Union Township
 - **Accessibility:** ?
 - **Hours:** ?
 
@@ -38,4 +38,4 @@
 | Cemetery inscriptions, DeKalb County, Indiana Vol. 4 | DEKALB CEMETERY INSCRIPTION V.4 | 840191000271891 | https://evergreen.lib.in.us/eg/opac/record/20670315?locg=318 |
 | Miscellaneous cemetery maps and addresses: Northeast Indiana, DeKalb County, Noble County, Steuben County, and Northwest Ohio | DEKALB CEMETERY MISCELLANEOUS MAPS | 840191000702528 | https://evergreen.lib.in.us/eg/opac/record/20673421?locg=318 |
 ### Information
-Originally named Union Chapel Cemetery, renamed Cosper in 1855.
+Originally named Union Chapel Cemetery, renamed Cosper Cemetery and ownership transfered to Union Township in 1855.
