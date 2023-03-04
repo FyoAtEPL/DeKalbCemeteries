@@ -20,7 +20,7 @@
 - **Date established:** 1870
 - **Earliest date found on a headstone:** Helen Ralston, d. 26 Nov 1855 (Findagrave)
 - **Earliest burial:** 1870
-- **Number of graves:**  9072 (Findagrave, 2023)
+- **Number of graves:**  9072, including Southlawn (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
