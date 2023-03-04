@@ -18,9 +18,9 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** 1854
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Eva (Kitchen) Wyatt, d. 2 Feb 1839 (Findagrave)
 - **Earliest burial:** 1854
-- **Number of graves:** ?
+- **Number of graves:** 41 (Findagrave, 2023)
 - **Notable monuments:** None
 - **Notable burials:** ?
 - **Religious Affiliation:** None
