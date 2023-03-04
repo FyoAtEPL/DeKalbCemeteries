@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** Riverside Cemetery of Newville, Newville Cemetery
 - **Relation to other cemeteries:** Next to Evergreen Cemetery, but not part of it.
-- **Date established:**1916 (1919 according to SHAARD)
-- **Earliest date found on a headstone:** ?
-- **Earliest burial:** 1916 (1919 according to SHAARD)
-- **Number of graves:** ?
+- **Date established:** September 9, 1916
+- **Earliest date found on a headstone:** 1916
+- **Earliest burial:** 1916
+- **Number of graves:** 659 (Findagrave, 2023, counting Newville Cemetery)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran, Methodist, Wesleyan, Church of Christ
