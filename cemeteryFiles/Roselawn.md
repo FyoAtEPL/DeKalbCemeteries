@@ -20,9 +20,9 @@ For the mausoleum located next to Roselawn Cemtery, see **[Auburn Mausoleum](htt
 - **Alternate names:** None
 - **Relation to other cemeteries:** Next to Woodlawn Cemetery but not part of it. Auburn Mausoleum is also located next to Roselawn and is sometimes considered to be part of it, but is a separate entity.
 - **Date established:** 1917
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** William Henry Speer, d. 1892 (Findagrave)
 - **Earliest burial:** 1917
-- **Number of graves:** ?
+- **Number of graves:** 2375 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic, Methodist, Wesleyan
