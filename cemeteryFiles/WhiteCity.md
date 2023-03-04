@@ -22,9 +22,9 @@
 - **Alternate names:** Spencerville Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** 1855
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Newton Rhodes, d. 15 Dec 1835 (Findagrave)
 - **Earliest burial:** 1855
-- **Number of graves:** ?
+- **Number of graves:**  1635 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
