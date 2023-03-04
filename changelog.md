@@ -5,6 +5,39 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2023-03-04
+
+## Updated
+- CosperCemetery.md
+- Norris.md
+- OldAuburn.md
+- OldTownship.md
+- Orangeville.md
+- PoorFarmCemetery.md
+- Renner.md
+- Ridge.md
+- RiversideStJoe.md
+- Riverview.md
+- Rose.md
+- Roselawn.md
+- Rude.md
+- Schiffli.md
+- Sedan.md
+- Sixteen.md
+- Snyder.md
+- SaintMichael.md
+- Stroh.md
+- Tamarack.md
+- Wartenbe.md
+- WaterlooCity.md
+- WaterlooMausoleum.md
+- WaterlooMemorial.md
+- Watson.md
+- WhiteCity.md
+- WilhelmFarm.md
+- Woodlawn.md
+- ZionLutheran.md
+
 ## 2023-03-01
 
 ### Updated
