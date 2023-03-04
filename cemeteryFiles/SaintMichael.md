@@ -18,9 +18,9 @@
 - **Alternate names:** Saint Michael the Archangel Catholic Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** 1881
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** Johannes Schaudel, d. 15 Dec 1868 (Findagrave)
 - **Earliest burial:** 1881
-- **Number of graves:** ?
+- **Number of graves:** 778 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Roman Catholic
