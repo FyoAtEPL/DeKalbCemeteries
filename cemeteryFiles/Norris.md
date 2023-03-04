@@ -17,10 +17,10 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** 1846
-- **Earliest date found on a headstone:** 1846
+- **Date established:** 1846 (SHAARD)
+- **Earliest date found on a headstone:** Nancy Norris, d. Sep 1843 (Findagrave)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 9 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
