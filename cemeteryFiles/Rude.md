@@ -17,9 +17,11 @@
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
 - **Date established:** ?
-- **Earliest date found on a headstone:** ?
+- **Earliest date found on a headstone:** 
+  - Edith J. Livergood, d. 1 May 1820 (Findagrave)
+  - George Deems, d. Mar. 18, 1843 (book)
 - **Earliest burial:** ?
-- **Number of graves:** ?
+- **Number of graves:** 128 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** None
@@ -29,7 +31,6 @@
 - **BillionGraves:** https://billiongraves.com/cemetery/Rude-Cemetery/30973
 - **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** 033-086-05040
 - **Indiana Register of Historic Sites and Structures Cemetery Register #:** CR-17-10
-
 
 ### Books at Willennar Genealogy Center
 
