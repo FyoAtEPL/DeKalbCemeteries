@@ -18,9 +18,9 @@
 - **Alternate names:** German Lutheran Cemetery, Zion Evangelical Lutheran Church Cemetery, Evangelical Lutheran Zion Congregation Cemetery
 - **Relation to other cemeteries:** None
 - **Date established:** 1853
-- **Earliest date found on a headstone:** ?
-- **Earliest burial:** 1853
-- **Number of graves:** ?
+- **Earliest date found on a headstone:** George Mocker, d. 7 Nov 1852 (Findagrave)
+- **Earliest burial:** 1853 (SHAARD)
+- **Number of graves:** 317 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
 - **Religious Affiliation:** Lutheran
