@@ -1,5 +1,7 @@
 # Waterloo City Cemetery 
 
+## This page is for Waterloo City Cemetery, section of Waterloo Cemetery. For the other sections of Waterloo Cemetery, see [Waterloo Cemetery (Disambiguation)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DisambigFiles/WaterlooDisambig.md "Waterloo Cemetery (Disambiguation)").
+
 ![Waterloo City Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/WaterlooCemetery.png "Waterloo City Cemetery Entrance")
 
 ![Waterloo City Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WaterlooCityEarth.png "Waterloo City Cemetery on Google Earth")
@@ -12,7 +14,7 @@
 
 ### Ownership and Access Information
 - **Status:** Active
-- **Owner:** Waterloo Memorial Cemetery?
+- **Owner:** Waterloo Memorial Cemetery
 - **Accessibility:** Accessible from street.
 - **Hours:** ?
 
