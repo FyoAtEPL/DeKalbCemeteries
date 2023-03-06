@@ -5,6 +5,22 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2023-03-06
+
+## Updated
+- cemeteriesTownCity.md
+- cemeteriesTownship.md
+- WaterlooCity.md
+- WaterlooMemorial.md
+- WaterlooMausoleum.md
+- WoodlawnDisambig.md
+- FairfieldDisambig.md
+- NewvilleDisambig.md
+- indexedInformation.md
+
+## Database
+- Began cataloging cemetery materials held in WGC storage
+
 ## 2023-03-04
 
 ## Branches
