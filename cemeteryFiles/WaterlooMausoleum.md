@@ -1,4 +1,5 @@
 # Waterloo Mausoleum
+## This page is for Waterloo City Cemetery, section of Waterloo Cemetery. For the other sections of Waterloo Cemetery, see [Waterloo Cemetery (Disambiguation)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DisambigFiles/WaterlooDisambig.md "Waterloo Cemetery (Disambiguation)").
 
 ### Geographical Information
 - **Address:** ?
