@@ -10,19 +10,26 @@
 
 ---
 
-DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles.
+DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles. 
+
+## Update - 2023-03-06
+Ghost towns are no longer used as location references. Towns included in this project are those listed on this page of DeKalb County's website: https://www.co.dekalb.in.us/category/?categoryid=11. Spencerville is included.
+
 ## Towns
 
 ### Altona
 - [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
+
 ### Ashley (On the border of DeKalb and Steuben Counties)
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
 - [Forney Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Forney.md "Forney Cemetery")
 - [Renner Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Renner.md "Renner Cemetery")
 - [Saint Michael the Archangel Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/SaintMichael.md "Saint Michael the Archangel Catholic Cemetery")
 - [Schiffli Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Schiffli.md "Schiffli Cemetery")
+
 ### Auburn
 - [Auburn Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AuburnMausoleum.md "Auburn Mausoleum")
+- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
 - [Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CatholicCemetery.md "Catholic Cemetery")
 - [Evergreen Cemetery - Auburn](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenAuburn.md "Evergreen Cemetery - Auburn")
 - [Husselman Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Husselman.md "Husselman Cemetery")
@@ -33,18 +40,15 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery")
 - [Woodlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Woodlawn Cemetery")
 
-### Butler (Stafford Township)
+### Butler (Wilmington Township)
 - [Big Run Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BigRun.md "Big Run Cemetery")
 - [Butler Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Butler.md "Butler Cemetery")
 - [Butler Memorial Gardens](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ButlerMemorialGardens.md "Butler Memorial Gardens")
 - [Krontz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krontz.md "Krontz Cemetery")
+- [Mount Pleasant Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/MountPleasant.md "Mount Pleasant Cemetery")
 - [Newcomer Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Newcomer.md "Newcomer Cemetery")
 - [Norris Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Norris.md "Norris Cemetery")
 - [Rude Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rude.md "Rude Cemetery")
-
-### Butler Center (Butler Township)
-- [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
-- [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
 
 ### Concord
 - [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
@@ -54,23 +58,22 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 
 ### Corunna
 - [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
-- [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
-
-### Fairfield Center
 - [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
+- [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
 - [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
+- [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
 - [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
 
 ### Garrett
 - [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
+- [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
 - [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
+- [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
+- [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
 
 ### Hamilton (On the border of DeKalb and Steuben Counties)
 - [Eddy Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EddyCemetery.md "Eddy Cemetery")
-
-### Moore
-- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
-- [Mount Pleasant Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/MountPleasant.md "Mount Pleasant Cemetery")
 
 ### Newville
 - [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
@@ -78,26 +81,15 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
 - [Riverview Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Riverview.md "Riverview Cemetery")
+- [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery") (Estimated Location)
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
-
-### Orangeville
-- [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
-
-### Sedan
-- [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
-- [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 
 ### Spencerville
 - [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
 
 ### St. Joe
+- [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
 - [Riverside Cemetery - St. Joe](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/RiversideStJoe.md "Riverside Cemetery - St. Joe")
-
-### St. Johns
-- [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
-
-### Stafford Center
-- [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery") (Estimated Location)
 
 ### Waterloo
 - [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
@@ -109,3 +101,5 @@ DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addr
 - [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
 - [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
 - [Wilhelm Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WilhelmFarm.md "Wilhelm Farm Cemetery")
+
+
