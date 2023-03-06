@@ -25,14 +25,19 @@
 - **Earliest burial:** Earliest known burial made in present location.
 - **Number of graves:** Number of graves currently known. May be approximate and may not reflect visible grave markers.
 - **Notable monuments:** Mausoleums, monuments for specific purposes (e.g. war memorials)
-- **Notable burials:** Notable people buried in this cemetery. Notable includes people relevant to DeKalb County (e.g. Charles Eckhart) and outside DeKalb (e.g. Harold C. Urey).
+- **Notable burials:** Notable people buried in this cemetery. *Notable* includes people relevant to DeKalb County (e.g. Charles Eckhart) and outside DeKalb (e.g. Harold C. Urey).
 - **Religious Affiliation:** Religious affiliation may be sourced from the cemetery itself or SHAARD. May not reflect all burials.
 
 ### Other Indexes
 - **Findagrave:** Link to the cemetery's record on Findagrave.com
 - **BillionGraves:** Link to the cemetery's record on Billiongraves.com
-- **SHAARD #:** Indiana State Historic Architectural and Archaeological Research Database designation for this cemetery. Only relevent for cemeteries in the database. ***(FYO - This should actually be ISSHI #, need to change this)***
-- **DNR Survey #:** Department of Natural Resources County Registry designation for this cemetery ***(FYO - Need a more accurate name for this)***
+- **Indiana State Historic Architectural and Archaeological Research Database (SHAARD) #:** Indiana State Historic Architectural and Archaeological Research Database designation for this cemetery. Only relevent for cemeteries in the database.
+- **Indiana Register of Historic Sites and Structures Cemetery Register #:** Department of Natural Resources County Registry designation for this cemetery 
 
-### WGC
-- **Cemetery book at WGC:** If WGC has a book covering this cemetery (will include call number)
+### Books at Willennar Genealogy Center 
+
+Any books covering this cemetery in the collection at Willennar Genealogy Center. Information is entered in a table as demonstrated below.
+
+| Title  | Call Number  | Barcode  | Evergreen Record  |
+| ------------ | ------------ | ------------ | ------------ |
+| Title of book | Call Number at WGC | EPL Barcode # | Permalink to Evergreen catalog record |
