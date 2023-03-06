@@ -1,5 +1,7 @@
 # Waterloo Memorial Cemetery
 
+## This page is for Waterloo Memorial Cemetery, section of Waterloo Cemetery. For the other sections of Waterloo Cemetery, see [Waterloo Cemetery (Disambiguation)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DisambigFiles/WaterlooDisambig.md "Waterloo Cemetery (Disambiguation)").
+
 ![Waterloo Memorial Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/WaterlooMemorialCemetery.png "Waterloo Memorial Cemetery Entrance")
 
 ![Waterloo Memorial Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WaterlooMemorialEarth.png "Waterloo Memorial Cemetery on Google Earth")
@@ -12,13 +14,13 @@
 
 ### Ownership and Access Information
 - **Status:** Active
-- **Owner:** Waterloo Memorial Cemetery? (FYO - Need to confirm)
+- **Owner:** Waterloo Memorial Cemetery
 - **Accessibility:** Accessible from street.
 - **Hours:** ?
 
 ### Cemetery Information
 - **Alternate names:** Waterloo Cemetery
-- **Relation to other cemeteries:** Across North Center Street from Waterloo City Cemetery. According to postings at WCC, these are two sections of one cemetery (need to confirm)
+- **Relation to other cemeteries:** Across North Center Street from Waterloo City Cemetery. Newer part of Waterloo Cemetery.
 - **Date established:** ?
 - **Earliest date found on a headstone:** 1955
 - **Earliest burial:** ?
