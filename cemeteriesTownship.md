@@ -68,7 +68,6 @@
 
 # Newville Township
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
-- [Norris Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Norris.md "Norris Cemetery")
 - [Riverview Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Riverview.md "Riverview Cemetery")
 
 # Richland Township
@@ -115,4 +114,5 @@
 - [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Krontz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krontz.md "Krontz Cemetery")
 - [Mount Pleasant Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/MountPleasant.md "Mount Pleasant Cemetery")
+- [Norris Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Norris.md "Norris Cemetery")
 - [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery")
