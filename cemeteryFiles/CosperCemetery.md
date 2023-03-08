@@ -5,7 +5,7 @@
 - **Address:** Near intersection of State Road 8 and County Road 45, Auburn, IN 46706
 - **Coordinates:** 41.36297, -84.97565
 - **Township:** Union
-- **Nearest town:** Moore
+- **Nearest town:** Auburn
 
 ### Ownership and Access Information
 - **Status:** Inactive
