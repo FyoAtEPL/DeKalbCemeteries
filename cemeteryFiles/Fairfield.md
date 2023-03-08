@@ -6,7 +6,7 @@
 - **Address:** 1311 DeKalb, Co Rd 12, Corunna, IN 46730
 - **Coordinates:**  41.48221, -85.12550
 - **Township:** Fairfield
-- **Nearest town:** Fairfield Center
+- **Nearest town:** Corunna
 
 ### Ownership and Access Information
 - **Status:** Active
