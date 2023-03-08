@@ -1,4 +1,4 @@
-# Cemetery Name
+# Mount Pleasant Cemetery
 
 ![Mount Pleasant Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/MountPleasantEarth.png "Mount Pleasant Cemetery on Google Earth")
 
@@ -6,7 +6,7 @@
 - **Address:** Intersection of County Road 40 and 59 behind Mount Pleasant Church, Butler, DeKalb County, Indiana
 - **Coordinates:** 41.38567, -84.90753
 - **Township:** Wilmington
-- **Nearest town:** Moore
+- **Nearest town:** Butler
 
 ### Ownership and Access Information
 - **Status:** Active
