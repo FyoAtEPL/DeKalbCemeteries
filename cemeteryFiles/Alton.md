@@ -6,7 +6,7 @@
 - **Address:** 5997 State Road 101, St Joe, IN 46785
 - **Coordinates:**  41.31670, -84.86720
 - **Township:** Concord
-- **Nearest town:** Orange
+- **Nearest town:** St. Joe
 
 ### Ownership and Access Information
 - **Status:** Active
@@ -19,7 +19,7 @@
 - **Relation to other cemeteries:** None
 - **Date established:** Sept. 13, 1839
 - **Earliest date found on a headstone:** Minerva Coburn,  d. 8 Oct 1840
-- **Earliest burial:** Minerva Coburn,  d. 8 Oct 1840
+- **Earliest burial:** Minerva Coburn,  d. 8 Oct 1840. Incorrectly stated to be Alvaro M. Gee in *Alton Cemetery: Coburn Corners Church of Christ*
 - **Number of graves:** 508 (Findagrave, 2023)
 - **Notable monuments:** ?
 - **Notable burials:** ?
