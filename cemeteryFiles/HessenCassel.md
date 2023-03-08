@@ -6,7 +6,7 @@
 - **Address:** ¼ mile west off intersection of County Road 19 and 20, DeKalb County, Indiana
 - **Coordinates:** 41.45343, -85.10361
 - **Township:** Fairfield
-- **Nearest town:** Sedan
+- **Nearest town:** Corunna
 
 ### Ownership and Access Information
 - **Status:** Inactive
