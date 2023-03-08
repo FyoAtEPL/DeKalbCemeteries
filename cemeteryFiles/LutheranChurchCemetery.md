@@ -6,7 +6,7 @@
 - **Address:**  Near intersection of County Road 68 and County Road 327, Garrett, DeKalb County, Indiana
 - **Coordinates:** 41.27937, -85.13555
 - **Township:** Butler
-- **Nearest town:** Butler Center
+- **Nearest town:** Garrett
 
 ### Ownership and Access Information
 - **Status:** Inactive
