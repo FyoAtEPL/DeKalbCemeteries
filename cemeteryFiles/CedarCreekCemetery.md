@@ -6,7 +6,7 @@
 - **Address:** 6858 County Road 11A, Auburn, IN 46706
 - **Coordinates:** 41.28052, -85.12645
 - **Township:** Butler
-- **Nearest town:** Butler Center
+- **Nearest town:** Garrett
 
 ### Ownership and Access Information
 - **Status:** Active
