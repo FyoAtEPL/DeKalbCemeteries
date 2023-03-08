@@ -5,9 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
+## 2023-03-07
+
+### Updated
+- Alton.md
+- CedarCreekCemetery.md
+- CosperCemetery.md
+- Fairfield.md
+- HessenCassel.md
+- LutheranChurchCemetery.md
+- MountPleasant.md
+- 
+
 ## 2023-03-06
 
-## Updated
+### Updated
 - cemeteriesTownCity.md
 - cemeteriesTownship.md
 - WaterlooCity.md
@@ -18,7 +30,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - NewvilleDisambig.md
 - indexedInformation.md
 
-## Database
+### Database
 - Began cataloging cemetery materials held in WGC storage
 
 ## 2023-03-04
