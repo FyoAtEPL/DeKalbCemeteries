@@ -6,7 +6,7 @@
 - **Address:** "County Road 52, Laotto, IN 46763, relatively near intersection of County Roads 52 and 3
 - **Coordinates:** 41.33651, -85.17885
 - **Township:** Keyser
-- **Nearest town:** Altona
+- **Nearest town:** Garrett
 
 ### Ownership and Access Information
 - **Status:** Active
