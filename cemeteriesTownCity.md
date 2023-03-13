@@ -13,7 +13,9 @@
 DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles. 
 
 ## Update - 2023-03-06
-Ghost towns are no longer used as location references. Towns included in this project are those listed on this page of DeKalb County's website: https://www.co.dekalb.in.us/category/?categoryid=11. Spencerville is included.
+Ghost towns are no longer used as location references. Towns included in this project are those listed on this page of DeKalb County's website: https://www.co.dekalb.in.us/category/?categoryid=11, with two alterations:
+  - Altona is combined with Garrett
+  - Spencerville is included
 
 ## Towns
 
