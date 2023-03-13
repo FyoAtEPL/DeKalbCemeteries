@@ -17,9 +17,6 @@ Ghost towns are no longer used as location references. Towns included in this pr
 
 ## Towns
 
-### Altona
-- [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
-
 ### Ashley (On the border of DeKalb and Steuben Counties)
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
 - [Forney Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Forney.md "Forney Cemetery")
@@ -69,6 +66,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
 - [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
 - [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
+- [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
 - [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
 - [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
 
