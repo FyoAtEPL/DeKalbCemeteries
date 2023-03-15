@@ -6,7 +6,7 @@
 - **Address:** 389 County Road 12,  Corunna, Indiana, 46730
 - **Coordinates:** 41.4819233, -85.1747079
 - **Township:** Fairfield
-- **Nearest town:** Fairfield Center
+- **Nearest town:** Corunna
 
 ### Ownership and Access Information
 - **Status:** Active
