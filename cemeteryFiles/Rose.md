@@ -6,7 +6,7 @@
 - **Address:** Near County Road 40 and 71 about ¼ mile in woods, Butler, DeKalb County, Indiana
 - **Coordinates:** 41.38061, -84.84059 (estimate)
 - **Township:** Stafford
-- **Nearest town:** Stafford Center
+- **Nearest town:** Newville
 
 ### Ownership and Access Information
 - **Status:** Inactive
