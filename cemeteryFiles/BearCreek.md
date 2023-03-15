@@ -6,7 +6,7 @@
 - **Address:** County Road 45, Spencerville, IN 46788 
 - **Coordinates:** 41.30750, -84.97310
 - **Township:** Spencer
-- **Nearest town:** Concord
+- **Nearest town:** Spencerville
 
 ### Ownership and Access Information
 - **Status:** Inactive
