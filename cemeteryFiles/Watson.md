@@ -6,7 +6,7 @@
 - **Address:** 6698 Co Rd 43, Auburn, IN 46706
 - **Coordinates:** 41.2889828, -84.9916852
 - **Township:** Jackson
-- **Nearest town:** Concord
+- **Nearest town:** Spencerville
 
 ### Ownership and Access Information
 - **Status:** Inactive
