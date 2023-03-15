@@ -48,12 +48,6 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Norris Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Norris.md "Norris Cemetery")
 - [Rude Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rude.md "Rude Cemetery")
 
-### Concord
-- [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
-- [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
-- [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
-- [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
-
 ### Corunna
 - [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
 - [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
@@ -84,11 +78,16 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
 
 ### Spencerville
+- [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
+- [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
 - [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
 
 ### St. Joe
 - [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
+- [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
+- [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
 - [Riverside Cemetery - St. Joe](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/RiversideStJoe.md "Riverside Cemetery - St. Joe")
+
 
 ### Waterloo
 - [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
