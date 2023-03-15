@@ -6,7 +6,7 @@
 - **Address:** County Road 19, Corunna, DeKalb County, Indiana, USA
 - **Coordinates:** 41.42810, -85.09970
 - **Township:** Richland
-- **Nearest town:** Sedan
+- **Nearest town:** Corunna
 
 ### Ownership and Access Information
 - **Status:** Active
