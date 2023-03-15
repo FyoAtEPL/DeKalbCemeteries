@@ -28,8 +28,8 @@ Ghost towns are no longer used as location references. Towns included in this pr
 
 ### Auburn
 - [Auburn Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AuburnMausoleum.md "Auburn Mausoleum")
-- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
 - [Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CatholicCemetery.md "Catholic Cemetery")
+- [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
 - [Evergreen Cemetery - Auburn](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenAuburn.md "Evergreen Cemetery - Auburn")
 - [Mott Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Mott.md "Mott Cemetery")
 - [Old Auburn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldAuburn.md "Old Auburn Cemetery")
