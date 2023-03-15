@@ -6,7 +6,7 @@
 - **Address:**  County Road 19 and County Road 68, New Era, DeKalb County, Indiana, 46706
 - **Coordinates:** 41.28100, -85.09620 (estimate)
 - **Township:** Butler
-- **Nearest town:** St. Johns
+- **Nearest town:** Garrett
 
 ### Ownership and Access Information
 - **Status:** Inactive
