@@ -5,7 +5,7 @@
 - **Address:** Near intersection of County Road 47 and 56, St Joe, IN 46785
 - **Coordinates:**  41.32560, -84.96335
 - **Township:** Concord
-- **Nearest town:** Concord
+- **Nearest town:** St. Joe
 
 ### Ownership and Access Information
 - **Status:** Inactive
