@@ -31,7 +31,6 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
 - [Catholic Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CatholicCemetery.md "Catholic Cemetery")
 - [Evergreen Cemetery - Auburn](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenAuburn.md "Evergreen Cemetery - Auburn")
-- [Husselman Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Husselman.md "Husselman Cemetery")
 - [Mott Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Mott.md "Mott Cemetery")
 - [Old Auburn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldAuburn.md "Old Auburn Cemetery")
 - [Poor Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/PoorFarmCemetery.md "Poor Farm Cemetery")
@@ -94,6 +93,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 ### Waterloo
 - [Cedar Lake Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarLakeCemetery.md "Cedar Lake Cemetery")
 - [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
+- [Husselman Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Husselman.md "Husselman Cemetery")
 - [Lutz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Lutz.md "Lutz Cemetery")
 - [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
 - [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
