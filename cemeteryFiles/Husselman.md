@@ -6,7 +6,7 @@
 - **Address:** County Road 36, Auburn, DeKalb County, Indiana
 - **Coordinates:** 41.39688, -85.03933
 - **Township:** Grant
-- **Nearest town:** Auburn
+- **Nearest town:** Waterloo
 
 ### Ownership and Access Information
 - **Status:** Inactive
