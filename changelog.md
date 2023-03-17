@@ -13,6 +13,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - Orangeville.md
 - cemeteriesTownCity.md
 
+### Deleted
+- DeKalb County Cemeteries GMaps 4.0.kmz
+- Delete DeKalb Cemetery Locations GEarth 4.0.kml
+
 ## 2023-03-07
 
 ### Updated
