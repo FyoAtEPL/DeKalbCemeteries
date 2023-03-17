@@ -10,7 +10,7 @@
 
 ### Ownership and Access Information
 - **Status:** Inactive
-- **Owner:** ?
+- **Owner:** Dekalb County Infirmary
 - **Accessibility:** ?
 - **Hours:** None
 
