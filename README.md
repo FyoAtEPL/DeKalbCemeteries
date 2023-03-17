@@ -30,15 +30,15 @@ DeKalb County, Indiana, is located in the northeast corner of the state. It is m
 For cemeteries that have notable sections (z.B. Fairfield/Old Township), the index will have a page for the MAIN CEMETERY, with a section denoting the different sections and their relevent information. The page for the separate sections will function as a disambiguatiion page on Wikipedia, linking to the relative cemetery. This is to make up for how some sections may appear to be discrete cemeteries but are in reality the same entity.
 
 
-## Maps - Current Ver. 4.0, February 13, 2023
+## Maps - Current Ver. 5.0, March 17, 2023
 
 Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
 - [Google Earth](https://earth.google.com/earth/d/1IkB4vdsmJQTE0EF9CAFmJNGzmwCz2O-d?usp=sharing "Google Earth")
-- [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%20GEarth%204.0.kml "KML file")
+- [KML file]https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%205.0.kml "KML file")
 #### Google Maps
-- [Google Maps](https://www.google.com/maps/d/u/0/edit?mid=1WnRFJfQglSVun65-qCTTOySNHKk-nxE&usp=sharing "Google Maps")
-- [KMZ file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20County%20Cemeteries%20GMaps%204.0.kmz "KMZ file")
+- [Google Maps](https://www.google.com/maps/d/edit?mid=1g5GlSAiXWY8rKhc8FN3yPEFBfCA0GXA&usp=sharing "Google Maps")
+- [KMZ file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%205.0.kmz "KMZ file")
 
 ## Links
 - [Cemetery photos on Eckhart Public Library's Online Photo Archive](https://willennar.catalogaccess.com/advanced-search?includedFields=Objects%2CPhotos%2CArchives%2CLibrary%2CPeople%2CContainers&Title=cemetery&page=1&size=10&withImages=false/ "Cemetery photos on Eckhart Public Library's Online Photo Archive")
