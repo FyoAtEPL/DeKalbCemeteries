@@ -4,15 +4,16 @@
 - **Address:** County Road 56, Concord Township
 	- Pt. E ½ NE ½ Section 12 Township 33N Range 15E
 	- On east side of CR 75A north of CR 56 (FYO - Locate this)
+	- 41.3373412, -84.8558385 (Current estimate)
 - **Coordinates:** Unlocated
 - **Township:** Concord
-- **Nearest town:** Orangeville?
+- **Nearest town:** Newville
 - *Google Earth Image*
 
 ### Ownership and Access Information
 - **Status:** No longer extant
-- **Owner:** ?
-- **Accessibility:** ?
+- **Owner:** Private
+- **Accessibility:** None
 - **Hours:** None
 
 ### Cemetery Information
