@@ -12,12 +12,19 @@
 
 DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles. 
 
+## Update - 2023-03-17
+Added section about unlocated cemeteries.
+
 ## Update - 2023-03-06
 Ghost towns are no longer used as location references. Towns included in this project are those listed on this page of DeKalb County's website: https://www.co.dekalb.in.us/category/?categoryid=11, with two alterations:
   - Altona is combined with Garrett
   - Spencerville is included
 
 ## Towns
+
+### Unlocated Cemeteries as of 2023-03-17
+These cemeteries have not been located as of the current project version:
+- Amish Cemetery (believed to be near Spencerville)
 
 ### Ashley (On the border of DeKalb and Steuben Counties)
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
@@ -62,6 +69,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Cedar Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CedarCreekCemetery.md "Cedar Creek Cemetery")
 - [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
 - [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
+- [Link Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery") - No longer extant
 - [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
 - [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
 
@@ -73,6 +81,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Evergreen Cemetery - Newville](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenNewville.md "Evergreen Cemetery - Newville")
 - [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
+- [Orangeville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery") - No longer extant
 - [Riverview Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Riverview.md "Riverview Cemetery")
 - [Rose Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Rose.md "Rose Cemetery") (Estimated Location)
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
