@@ -2,15 +2,15 @@
 
 ### Geographical Information
 - **Address:** County Road 48, Keyser Township
-- **Coordinates:** Unlocated
+- **Coordinates:** 41.3521576, -85.0970445 (Estimate)
 - **Township:** Keyser
-- **Nearest town:** Unlocated
+- **Nearest town:** Garrett
 
 ### Ownership and Access Information
 - **Status:** No longer extant
-- **Owner:** ?
-- **Accessibility:** ?
-- **Hours:** ?
+- **Owner:** Private
+- **Accessibility:** None
+- **Hours:** None
 
 ### Cemetery Information
 - **Alternate names:** Lady Florence Link Burial Site
@@ -28,6 +28,14 @@
 - **BillionGraves:** None
 - **Indiana State Historic Architectural and Archaeological Research Database (SHAARD)  #:** None
 - **Indiana Register of Historic Sites and Structures Cemetery Register #:** None
+
+### Information
+From *South-Eastern Dekalb County, Indiana Tombstone Records*, pg. 86:
+
+> A letter received by Mrs Kessler, of the DeKalb County Health Department, and dated April 29, 1970, gave the following information - - 
+> > "While digging for a tile at the back door of the Earl Gaff residence, County road #19 & 48, he ran onto a grave, headstone said "Lady Florence, daughter of H. L. & J. Link, died Aug. 13, 1876, age 1 year 3 months and 23 days."
+
+
 
 ### Books at Willennar Genealogy Center
 | Title | Call Number | Barcode | Evergreen Record |
