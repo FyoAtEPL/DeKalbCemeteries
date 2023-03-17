@@ -17,6 +17,10 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - DeKalb County Cemeteries GMaps 4.0.kmz
 - Delete DeKalb Cemetery Locations GEarth 4.0.kml
 
+### Added
+- DeKalb Cemetery Locations 5.0.kml
+- DeKalb Cemetery Locations 5.0.kmz
+
 ## 2023-03-07
 
 ### Updated
