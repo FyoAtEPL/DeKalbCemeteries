@@ -4,8 +4,7 @@
 - **Address:** County Road 56, Concord Township
 	- Pt. E ½ NE ½ Section 12 Township 33N Range 15E
 	- On east side of CR 75A north of CR 56 (FYO - Locate this)
-	- 41.3373412, -84.8558385 (Current estimate)
-- **Coordinates:** Unlocated
+- **Coordinates:** 41.3373412, -84.8558385 (Current estimate)
 - **Township:** Concord
 - **Nearest town:** Newville
 - *Google Earth Image*
@@ -19,9 +18,9 @@
 ### Cemetery Information
 - **Alternate names:** None
 - **Relation to other cemeteries:** None
-- **Date established:** ?
+- **Date established:** Unknown
 - **Earliest date found on a headstone:** Unknown, d. March 8, 1843, no longer extant (Book)
-- **Earliest burial:** ?
+- **Earliest burial:** Unknown
 - **Number of graves:** None
 - **Notable monuments:** None
 - **Notable burials:** None
