@@ -35,7 +35,7 @@ For cemeteries that have notable sections (z.B. Fairfield/Old Township), the ind
 Map data based on United States Census Bureau Cartographic Boundary Files, available at https://www.census.gov/geographies/mapping-files/2013/geo/kml-cartographic-boundary-files.html.
 #### Google Earth
 - [Google Earth](https://earth.google.com/earth/d/1IkB4vdsmJQTE0EF9CAFmJNGzmwCz2O-d?usp=sharing "Google Earth")
-- [KML file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%205.0.kml "KML file")
+- [KML file](https://earth.google.com/earth/d/1lNTxB3NIYY_rLTK2WLFrQ5BmHhmiyM2m?usp=sharing "KML file")
 #### Google Maps
 - [Google Maps](https://www.google.com/maps/d/edit?mid=1g5GlSAiXWY8rKhc8FN3yPEFBfCA0GXA&usp=sharing "Google Maps")
 - [KMZ file](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/mapFiles/DeKalb%20Cemetery%20Locations%205.0.kmz "KMZ file")
