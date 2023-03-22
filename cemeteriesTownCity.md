@@ -11,6 +11,8 @@
 ---
 
 DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles. 
+## Update - 2023-03-17
+Located Amish Cemetery
 
 ## Update - 2023-03-17
 Added section about unlocated cemeteries.
@@ -21,10 +23,6 @@ Ghost towns are no longer used as location references. Towns included in this pr
   - Spencerville is included
 
 ## Towns
-
-### Unlocated Cemeteries as of 2023-03-17
-These cemeteries have not been located as of the current project version:
-- Amish Cemetery (believed to be near Spencerville)
 
 ### Ashley (On the border of DeKalb and Steuben Counties)
 - [Barkers Chapel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BarkersChapel.md "Barkers Chapel Cemetery")
@@ -87,6 +85,7 @@ These cemeteries have not been located as of the current project version:
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
 
 ### Spencerville
+- [Amish Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AmishCemetery.md "Amish Cemetery")
 - [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
 - [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
 - [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
