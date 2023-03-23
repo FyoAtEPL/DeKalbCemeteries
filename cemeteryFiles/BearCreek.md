@@ -5,13 +5,13 @@
 ### Geographical Information
 - **Address:** County Road 45, Spencerville, IN 46788 
 - **Coordinates:** 41.30750, -84.97310
-- **Township:** Spencer
+- **Township:** Jackson
 - **Nearest town:** Spencerville
 
 ### Ownership and Access Information
 - **Status:** Inactive
 - **Owner:** ?
-- **Accessibility:** ?
+- **Accessibility:** Poor. No parking, on a hill, but accessable from road.
 - **Hours:** ?
 
 ### Cemetery Information
