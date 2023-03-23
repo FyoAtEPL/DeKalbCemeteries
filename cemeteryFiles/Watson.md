@@ -11,7 +11,7 @@
 ### Ownership and Access Information
 - **Status:** Inactive
 - **Owner:** ?
-- **Accessibility:** Not accessible from road.
+- **Accessibility:** Extremely poor, no access from road, half a mile from road through a private field
 - **Hours:** None
 
 ### Cemetery Information
