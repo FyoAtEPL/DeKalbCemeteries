@@ -1,10 +1,10 @@
 ## Amish Cemetery
 
 ### Geographical Information
-- **Address:** ?
-- **Coordinates:** ?
+- **Address:** County Road 72 (North County Line Road), between County Road 63 and Indiana State Road 101
+- **Coordinates:** 41.2696767, -84.8738294
 - **Township:** Spencer
-- **Nearest town:** ?
+- **Nearest town:** Spencerville
 
 ### Ownership and Access Information
 - **Status:** ?
@@ -13,7 +13,7 @@
 - **Hours:** ?
 
 ### Cemetery Information
-- **Alternate names:** ?
+- **Alternate names:** Old Order Amish Mennonite Church Cemetery (Acres.co listing)
 - **Relation to other cemeteries:** ?
 - **Date established:** ?
 - **Earliest date found on a headstone:** ?
@@ -21,7 +21,7 @@
 - **Number of graves:** ?
 - **Notable monuments:** ?
 - **Notable burials:** ?
-- **Religious Affiliation:** Amish
+- **Religious Affiliation:** Amish, Mennonite
 
 ### Other Indexes
 - **Findagrave:** None
