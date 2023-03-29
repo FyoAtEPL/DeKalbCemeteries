@@ -1,4 +1,4 @@
-# Fairfield Cemetery
+# Fairfield Cemetery / Old Township Cemetery
 
 This cemetery has two sections:
 - Fairfield Cemetery, the main cemetery
