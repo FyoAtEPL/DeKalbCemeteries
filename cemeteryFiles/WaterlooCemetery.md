@@ -1,14 +1,19 @@
-# Waterloo City Cemetery 
+# Waterloo Cemetery / Waterloo Memorial Cemetery
 
-## This page is for Waterloo City Cemetery, section of Waterloo Cemetery. For the other sections of Waterloo Cemetery, see [Waterloo Cemetery (Disambiguation)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/DisambigFiles/WaterlooDisambig.md "Waterloo Cemetery (Disambiguation)").
-
+This cemetery has two sections:
+- Waterloo City Cemetery, the older section, on the east side of N. Center St.
+- Waterloo Memorial Cemetery, the newer section, on the west side of N. Center St.
+## Waterloo City Cemetery
 ![Waterloo City Cemetery Entrance](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/WaterlooCemetery.png "Waterloo City Cemetery Entrance")
-
-![Waterloo City Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WaterlooCityEarth.png "Waterloo City Cemetery on Google Earth")
+## Waterloo Memorial Cemetery
+![Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/cemeteryPhotos/WaterlooMemorialCemetery.png "Waterloo Memorial Cemetery")
+![Waterloo Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/WaterlooCemeteryEarth.png "Waterloo Cemetery on Google Earth")
 
 ### Geographical Information
 - **Address:** 538-898 N Center St, Waterloo, IN 46793
-- **Coordinates:** 41.436292, -85.0246203
+- **Coordinates:** 
+  - **Waterloo City Cemetery:** 41.436292, -85.0246203
+  - **Waterloo Memorial Cemetery:** 41.4365292, -85.0238269
 - **Township:** Grant
 - **Nearest town:** Waterloo
 
@@ -16,17 +21,19 @@
 - **Status:** Active
 - **Owner:** Waterloo Memorial Cemetery
 - **Accessibility:** Accessible from street.
-- **Hours:** ?
+- **Hours:** 7 am to 8 pm
 
 ### Cemetery Information
 - **Alternate names:** Maplewood Cemetery, Waterloo Cemetery
-- **Relation to other cemeteries:** Oldest section of Waterloo Cemetery
+- **Relation to other cemeteries:** Two sections: Waterloo City Cemetery and Waterloo Memorial Cemetery. Waterloo Mausoleum is located in Waterloo City.
 - **Date established:** Founded 1867, Incorporated 1875 (according to sign at cemetery). SHAARD gives the year as 1840.
 - **Earliest date found on a headstone:** Malvina Hemstreet, d. 6 Feb 1848 (Findagrave)
 - **Earliest burial:** 1840 (SHAARD)
 - **Number of graves:** 4,741 (Findagrave, 2023, including Waterloo Memorial Cemetery)
 - **Notable monuments:** Waterloo Mausoleum
-- **Notable burials:** ?
+- **Notable burials:** 
+  - Lewis Jackson Blair
+  - Charles A.O. McClellan 
 - **Religious Affiliation:** None
 
 ### Other Indexes
