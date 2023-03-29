@@ -1,10 +1,17 @@
-# Woodlawn Cemetery
+# Woodlawn Cemetery / Southlawn Cemetery
 
-![Woodlawn Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/SouthAndWoodlawnEarth.png "Woodlawn Cemetery on Google Earth")
+This cemetery has three sections:
+- Woodlawn, the main cemetery
+- Southlawn, the southern section
+- A new section on the east side of Center Street
+
+![Woodlawn and Southlawn on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/Southlawn%20and%20Woodlawn.png "Woodlawn and Southlawn on Google Earth")
 
 ### Geographical Information
 - **Address:** 1605 South Center Street, Auburn, DeKalb County, Indiana, 46706
-- **Coordinates:** 41.3550497, -85.0501076
+- **Coordinates:**
+    - **Woodlawn:** 41.3550497, -85.0501076
+    - **Southlawn:** 41.3532027, -85.0503377
 - **Township:** Union
 - **Nearest town:** Auburn
 
@@ -22,8 +29,12 @@
 - **Earliest burial:** 1870
 - **Number of graves:**  9072, including Southlawn (Findagrave, 2023)
 - **Notable monuments:** ?
-- **Notable burials:** ?
-- **Religious Affiliation:** Roman Catholic
+- **Notable burials:** 
+    - Charles Eckhart
+    - James Indus Farley
+    - John Martin Smith
+    - Rollie Zeider
+- **Religious Affiliation:** Multiple; Roman Catholic (SHAARD)
 
 ### Other Indexes
 - **Findagrave:** https://www.findagrave.com/cemetery/87452
