@@ -33,12 +33,12 @@
 - [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
 - [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
 - [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
-- [Orangeville Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery (Unlocated)")
+- [Orangeville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery")
 
 # Fairfield Township
 - [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
 - [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
-- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Old Township Cemetery") - Section of Fairfield Cemetery
 - [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
 
 # Franklin Township
@@ -53,17 +53,19 @@
 - [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
 - [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
 - [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
-- [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
-- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
+- [Waterloo Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Cemetery")
+- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Memorial Cemetery") - Section of Waterloo Cemetery
+- Waterloo Mausoleum
 
 # Keyser Township
 - [Calvary Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CalvaryCemetery.md "Calvary Cemetery")
 - [Christian Union Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ChristianUnionCemetery.md "Christian Union Cemetery")
 - [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
-- [Link Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery (Unlocated)")
+- [Link Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery")
 - [Poor Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/PoorFarmCemetery.md "Poor Farm Cemetery")
 
 # Jackson Township
+- [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
 - [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
 
 # Newville Township
@@ -84,9 +86,8 @@
 - [Wilhelm Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WilhelmFarm.md "Wilhelm Farm Cemetery")
 
 # Spencer Township
-- [Bear Creek Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/BearCreek.md "Bear Creek Cemetery")
+- Old Older Amish Cemetery
 - [Riverside Cemetery - St. Joe](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/RiversideStJoe.md "Riverside Cemetery - St. Joe")
-- [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
 - [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
 
 # Stafford Township
@@ -106,7 +107,7 @@
 - [Mott Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Mott.md "Mott Cemetery")
 - [Old Auburn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldAuburn.md "Old Auburn Cemetery")
 - [Roselawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Roselawn.md "Roselawn Cemetery")
-- [Southlawn Cemetery (Section of Woodlawn)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery (Section of Woodlawn")
+- [Southlawn Cemetery (Section of Woodlawn)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Southlawn Cemetery") - Section of Woodlawn
 - [Woodlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Woodlawn Cemetery")
 
 # Wilmington Township
