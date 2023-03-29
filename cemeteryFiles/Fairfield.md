@@ -1,10 +1,17 @@
 # Fairfield Cemetery
 
+This cemetery has two sections:
+- Fairfield Cemetery, the main cemetery
+- Old Township Cemetery, the original cemetery
+
+
 ![Fairfield Cemetery on Google Earth](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/images/mapImages/FairfieldAllEarth.png "Fairfield Cemetery on Google Earth")
 
 ### Geographical Information
 - **Address:** 1311 DeKalb, Co Rd 12, Corunna, IN 46730
-- **Coordinates:**  41.48221, -85.12550
+- **Coordinates:**  
+  - **Fairfield Cemetery:** 41.48221, -85.12550
+  - **Old Township Cemetery:** 41.48221, -85.1255
 - **Township:** Fairfield
 - **Nearest town:** Corunna
 
