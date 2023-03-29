@@ -11,6 +11,10 @@
 ---
 
 DeKalb County, Indiana, is largely rural. Many sites are not within a town. Addresses may also be inconsistent. For this reason, some cemeteries are listed according to their nearest town, along with any alternate addresses. Distances are measured by the closest town in miles. 
+
+## Update - 2023-03-29
+Changed links to reflect combining of major sections with main cemeteries. Links now direct to main cemetery.
+
 ## Update - 2023-03-17
 Located Amish Cemetery
 
@@ -40,7 +44,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Old Auburn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldAuburn.md "Old Auburn Cemetery")
 - [Poor Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/PoorFarmCemetery.md "Poor Farm Cemetery")
 - [Roselawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Roselawn.md "Roselawn Cemetery")
-- [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery")
+- [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Southlawn Cemetery") - Section of Woodlawn Cemetery
 - [Woodlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Woodlawn Cemetery")
 
 ### Butler (Wilmington Township)
@@ -57,7 +61,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
 - [Fairfield Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Fairfield Cemetery")
 - [Hessen Cassel Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/HessenCassel.md "Hessen Cassel Cemetery")
-- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Old Township Cemetery") - Section of Fairfield Cemetery
 - [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 - [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
 - [Zion Lutheran Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ZionLutheran.md "Zion Lutheran Cemetery")
@@ -75,7 +79,7 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Eddy Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EddyCemetery.md "Eddy Cemetery")
 
 ### Newville
-- [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
+- [Cotrell Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery") - No longer extant
 - [Evergreen Cemetery - Newville](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EvergreenNewville.md "Evergreen Cemetery - Newville")
 - [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
@@ -105,9 +109,9 @@ Ghost towns are no longer used as location references. Towns included in this pr
 - [Ridge Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Ridge.md "Ridge Cemetery")
 - [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
 - [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
-- [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
+- [Waterloo Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Cemetery")
 - [Waterloo Mausoleum](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMausoleum.md "Waterloo Mausoleum")
-- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
+- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Memorial Cemetery") - Section of Waterloo Cemetery
 - [Wilhelm Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WilhelmFarm.md "Wilhelm Farm Cemetery")
 
 
