@@ -37,7 +37,7 @@
 - [Jenkins Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Jenkins.md "Jenkins Cemetery")
 - [Kraft Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Kraft.md "Kraft Cemetery")
 - [Krontz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Krontz.md "Krontz Cemetery")
-- [Link Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery (Unlocated)")
+- [Link Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Link.md "Link Cemetery")
 - [Lutheran Church Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/LutheranChurchCemetery.md "Lutheran Church Cemetery")
 - [Lutz Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Lutz.md "Lutz Cemetery")
 - [Mott Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Mott.md "Mott Cemetery")
@@ -46,7 +46,7 @@
 - [Newville Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/NewvilleBuryingGrounds.md "Newville Cemetery")
 - [Norris Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Norris.md "Norris Cemetery")
 - [Old Auburn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldAuburn.md "Old Auburn Cemetery")
-- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/OldTownship.md "Old Township Cemetery")
+- [Old Township Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Fairfield.md "Old Township Cemetery")  - Section of Fairfield Cemetery
 - [Orangeville Cemetery (Unlocated)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Orangeville.md "Orangeville Cemetery (Unlocated)")
 - [Poor Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/PoorFarmCemetery.md "Poor Farm Cemetery")
 - [Renner Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Renner.md "Renner Cemetery")
@@ -61,12 +61,12 @@
 - [Sedan Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sedan.md "Sedan Cemetery")
 - [Sixteen Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Sixteen.md "Sixteen Cemetery")
 - [Snyder Burial Ground](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Snyder.md "Snyder Burial Ground")
-- [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Southlawn.md "Southlawn Cemetery")
+- [Southlawn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Woodlawn.md "Southlawn Cemetery") - Section of Woodlawn Cemetery
 - [Stroh Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Stroh.md "Stroh Cemetery")
 - [Tamarack Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Tamarack.md "Tamarack Cemetery")
 - [Wartenbe Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Wartenbe.md "Wartenbe Cemetery")
-- [Waterloo City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCity.md "Waterloo City Cemetery")
-- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooMemorial.md "Waterloo Memorial Cemetery")
+- [Waterloo Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Cemetery")
+- [Waterloo Memorial Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WaterlooCemetery.md "Waterloo Memorial Cemetery") - Section of Waterloo Cemetery
 - [Watson Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Watson.md "Watson Cemetery")
 - [White City Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WhiteCity.md "White City Cemetery")
 - [Wilhelm Farm Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/WilhelmFarm.md "Wilhelm Farm Cemetery")
