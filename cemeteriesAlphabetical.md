@@ -24,7 +24,7 @@
 - [Concord Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/ConcordCemetery.md "Concord Cemetery")
 - [Corunna Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CorunnaCemetery.md "Corunna Cemetery")
 - [Cosper Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CosperCemetery.md "Cosper Cemetery")
-- [Cotrell Cemetery (No longer extant)](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
+- [Cotrell Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/CotrellCemetery.md "Cotrell Cemetery")
 - [Dunn Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/DunnCemetery.md "Dunn Cemetery")
 - [Eddy Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EddyCemetery.md "Eddy Cemetery")
 - [Embrey Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/EmbreyCemetery.md "Embrey Cemetery")
