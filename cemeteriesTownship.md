@@ -7,6 +7,9 @@
 
 [:cityscape: View Cemeteries by Town/City](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownCity.md "View Cemeteries by Town/City")
 
+## Update - 2023-03-29
+Changed links to reflect combining of major sections with main cemeteries. Links now direct to main cemetery.
+
 ## Table of Contents
 - [Butler Township](#butler-township)
 - [Concord Township](#concord-township)
