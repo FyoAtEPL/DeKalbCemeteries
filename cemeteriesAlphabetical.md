@@ -7,6 +7,9 @@
 
 [:houses: View Cemeteries List by Township](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteriesTownship.md "View Cemeteries List by Township")
 
+## Update - 2023-03-29
+Changed links to reflect combining of major sections with main cemeteries. Links now direct to main cemetery.
+
 ## Cemeteries
 - [Alton Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/Alton.md "Alton Cemetery")
 - [Amish Cemetery](https://github.com/FyoAtEPL/DeKalbCemeteries/blob/main/cemeteryFiles/AmishCemetery.md "Amish Cemetery")
