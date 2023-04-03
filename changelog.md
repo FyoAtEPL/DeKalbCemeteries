@@ -6,6 +6,12 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/)
 and this project adheres to [Semantic Versioning](http://semver.org/).
 
 
+## 2023-04-03
+Note: Several weeks' worth of changes are missing from the changelog
+
+### Update
+- Began migration to https://sites.google.com/epl.lib.in.us/dekalb-cemeteries/home
+
 ## 2023-03-17
 
 ### Updated
